@@ -26,5 +26,12 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "gray-code/"
+  },
+  {
+    "slug": "hamming-distance",
+    "title": "Hamming Distance",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "hamming-distance/"
   }
 ]
