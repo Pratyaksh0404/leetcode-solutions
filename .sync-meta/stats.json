@@ -5,5 +5,12 @@
     "difficulty": "Easy",
     "language": "python3",
     "path": "valid-perfect-square/"
+  },
+  {
+    "slug": "ransom-note",
+    "title": "Ransom Note",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "ransom-note/"
   }
 ]
