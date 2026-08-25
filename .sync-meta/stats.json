@@ -12,5 +12,12 @@
     "difficulty": "Easy",
     "language": "python3",
     "path": "ransom-note/"
+  },
+  {
+    "slug": "longest-palindrome",
+    "title": "Longest Palindrome",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "longest-palindrome/"
   }
 ]
