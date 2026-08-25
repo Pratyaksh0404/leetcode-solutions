@@ -19,5 +19,12 @@
     "difficulty": "Easy",
     "language": "python3",
     "path": "longest-palindrome/"
+  },
+  {
+    "slug": "gray-code",
+    "title": "Gray Code",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "gray-code/"
   }
 ]
