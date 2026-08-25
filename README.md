@@ -6,4 +6,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 1 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
