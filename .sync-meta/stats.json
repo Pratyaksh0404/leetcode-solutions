@@ -40,5 +40,12 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "permutations/"
+  },
+  {
+    "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "shortest-and-lexicographically-smallest-beautiful-string/"
   }
 ]
