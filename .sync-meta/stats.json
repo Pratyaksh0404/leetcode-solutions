@@ -47,5 +47,12 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "shortest-and-lexicographically-smallest-beautiful-string/"
+  },
+  {
+    "slug": "jump-game-ii",
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "jump-game-ii/"
   }
 ]
