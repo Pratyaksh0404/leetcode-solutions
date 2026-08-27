@@ -54,5 +54,12 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "jump-game-ii/"
+  },
+  {
+    "slug": "lexicographically-smallest-permutation-greater-than-target",
+    "title": "Lexicographically Smallest Permutation Greater Than Target",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "lexicographically-smallest-permutation-greater-than-target/"
   }
 ]
