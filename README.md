@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 9 &nbsp;|&nbsp; 🟢 Easy: 4 &nbsp;|&nbsp; 🟡 Medium: 5 &nbsp;|&nbsp; 🔴 Hard: 0
+**Total solved:** 10 &nbsp;|&nbsp; 🟢 Easy: 4 &nbsp;|&nbsp; 🟡 Medium: 6 &nbsp;|&nbsp; 🔴 Hard: 0
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -12,6 +12,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 6 | [Permutations](permutations/) | Medium | python3 |
-| 7 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 8 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 7 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 8 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 9 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
