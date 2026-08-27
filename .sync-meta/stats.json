@@ -68,5 +68,13 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "permutations-ii/"
+  },
+  {
+    "slug": "roman-to-integer",
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "roman-to-integer/",
+    "url": "https://leetcode.com/problems/roman-to-integer/"
   }
 ]
