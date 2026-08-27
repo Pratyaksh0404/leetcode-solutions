@@ -61,5 +61,12 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "lexicographically-smallest-permutation-greater-than-target/"
+  },
+  {
+    "slug": "permutations-ii",
+    "title": "Permutations II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "permutations-ii/"
   }
 ]
