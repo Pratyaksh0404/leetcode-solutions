@@ -12,7 +12,6 @@ class Solution:
                 curr = q.popleft()
                 if curr == e:
                     return d
-
                 for i in range(len(curr)):
                     for c in 'abcdefghijklmnopqrstuvwxyz':
                         if c == curr[i]:
@@ -21,7 +20,6 @@ class Solution:
                         if new in w:
                             q.append(new)
                             w.remove(new)  
-
             d += 1
 
         return 0
