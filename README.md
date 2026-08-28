@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 14 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 8 &nbsp;|&nbsp; 🔴 Hard: 0
+**Total solved:** 15 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 8 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -9,6 +9,30 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game](jump-game/) | Medium | python3 |
+
+## Bidirectional Search
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Breadth-First Search
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Hash Table
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## String
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Uncategorized
 
