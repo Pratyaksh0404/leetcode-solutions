@@ -92,5 +92,14 @@
     "language": "mysql",
     "path": "combine-two-tables/",
     "url": "https://leetcode.com/problems/combine-two-tables/"
+  },
+  {
+    "slug": "jump-game",
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "jump-game/",
+    "url": "https://leetcode.com/problems/jump-game/",
+    "topic": "Array"
   }
 ]
