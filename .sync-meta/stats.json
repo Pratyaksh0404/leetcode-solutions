@@ -84,5 +84,13 @@
     "language": "python3",
     "path": "insert-interval/",
     "url": "https://leetcode.com/problems/insert-interval/"
+  },
+  {
+    "slug": "combine-two-tables",
+    "title": "Combine Two Tables",
+    "difficulty": "Easy",
+    "language": "mysql",
+    "path": "combine-two-tables/",
+    "url": "https://leetcode.com/problems/combine-two-tables/"
   }
 ]
