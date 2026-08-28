@@ -76,5 +76,13 @@
     "language": "python3",
     "path": "roman-to-integer/",
     "url": "https://leetcode.com/problems/roman-to-integer/"
+  },
+  {
+    "slug": "insert-interval",
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "insert-interval/",
+    "url": "https://leetcode.com/problems/insert-interval/"
   }
 ]
