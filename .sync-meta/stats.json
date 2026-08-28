@@ -101,5 +101,19 @@
     "path": "jump-game/",
     "url": "https://leetcode.com/problems/jump-game/",
     "topic": "Array"
+  },
+  {
+    "slug": "word-ladder",
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "word-ladder/",
+    "url": "https://leetcode.com/problems/word-ladder/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search",
+      "Bidirectional Search"
+    ]
   }
 ]
