@@ -1,15 +1,15 @@
 class Solution:
-    def nextGreatestLetter(self, letters: List[str], target: str) -> str:
-        res = letters[0]
-        flag = False
+    def nextGreatestLetter(self, a: List[str], tar: str) -> str:
+        ans = a[0]
+        f = False
 
-        for ch in letters:
-            if not flag:
-                if ch > target:
-                    res = ch
-                    flag = not flag
+        for i in a:
+            if not f:
+                if i > tar:
+                    ans = i
+                    f = not f
             else:
-                if ch > target and ch < res:
-                    res = ch
+                if i > tar and i < ans:
+                    ans = i
 
-        return res
+        return ans
