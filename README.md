@@ -23,11 +23,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Word Ladder](word-ladder/) | Hard | python3 |
 
+## Counting
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Ransom Note](ransom-note/) | Easy | python3 |
+
 ## Hash Table
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 2 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Linked List
 
@@ -51,7 +58,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 2 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Union-Find
 
@@ -72,7 +80,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 8 | [Permutations](permutations/) | Medium | python3 |
 | 9 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 10 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 11 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 12 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 13 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 11 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
