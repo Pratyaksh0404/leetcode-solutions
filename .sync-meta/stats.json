@@ -11,7 +11,13 @@
     "title": "Ransom Note",
     "difficulty": "Easy",
     "language": "python3",
-    "path": "ransom-note/"
+    "path": "ransom-note/",
+    "url": "https://leetcode.com/problems/ransom-note/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
   },
   {
     "slug": "longest-palindrome",
