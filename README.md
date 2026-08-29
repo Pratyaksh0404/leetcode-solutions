@@ -12,7 +12,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Jump Game](jump-game/) | Medium | python3 |
 | 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 4 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 5 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 5 | [Search Insert Position](search-insert-position/) | Easy | python3 |
 
 ## Bidirectional Search
 
@@ -24,7 +24,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 1 | [Search Insert Position](search-insert-position/) | Easy | python3 |
 
 ## Breadth-First Search
 
