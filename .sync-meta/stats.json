@@ -164,5 +164,17 @@
       "Array",
       "Simulation"
     ]
+  },
+  {
+    "slug": "search-insert-position",
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "language": "python",
+    "path": "search-insert-position/",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
