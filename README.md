@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 16 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 9 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 17 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -28,6 +28,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Linked List
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+
+## Recursion
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Sorting
 
