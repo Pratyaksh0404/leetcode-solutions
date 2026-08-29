@@ -1,15 +1,18 @@
 class Solution:
     def countNegatives(self, grid: List[List[int]]) -> int:
-        m,n = len(grid),len(grid[0])
-        i = m - 1
-        j = 0
+        def bs(row):
+            l, r = 0, len(row)
+            while l<r:
+                mid = l + (r -l) // 2
+                if row[mid] < 0:
+                    r = mid
+                else:
+                    l = mid + 1
+            return len(row) - l
+        
         ans = 0
+        for row in grid:
+            ans += bs(row)
+        return(ans)
 
-        while i >= 0 and j < n:
-            if grid[i][j] < 0:
-                ans += n - j
-                i -= 1
-            else:
-                j += 1
-
-        return ans
+        
