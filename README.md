@@ -9,7 +9,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game](jump-game/) | Medium | python3 |
-| 2 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 2 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 3 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -28,6 +29,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Ransom Note](ransom-note/) | Easy | python3 |
+
+## Dynamic Programming
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+
+## Greedy
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 
 ## Hash Table
 
@@ -75,11 +88,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Gray Code](gray-code/) | Medium | python3 |
 | 3 | [Hamming Distance](hamming-distance/) | Easy | python3 |
 | 4 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 5 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 6 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 7 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 8 | [Permutations](permutations/) | Medium | python3 |
-| 9 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 11 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 7 | [Permutations](permutations/) | Medium | python3 |
+| 8 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
