@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 15 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 8 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 16 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 9 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -9,6 +9,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game](jump-game/) | Medium | python3 |
+| 2 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -28,11 +29,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Word Ladder](word-ladder/) | Hard | python3 |
 
+## Sorting
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+
 ## String
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Union-Find
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 
 ## Uncategorized
 
