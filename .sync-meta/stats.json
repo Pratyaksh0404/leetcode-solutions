@@ -169,9 +169,21 @@
     "slug": "search-insert-position",
     "title": "Search Insert Position",
     "difficulty": "Easy",
-    "language": "python3",
+    "language": "python",
     "path": "search-insert-position/",
     "url": "https://leetcode.com/problems/search-insert-position/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "slug": "find-smallest-letter-greater-than-target",
+    "title": "Find Smallest Letter Greater Than Target",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "find-smallest-letter-greater-than-target/",
+    "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
     "topics": [
       "Array",
       "Binary Search"
