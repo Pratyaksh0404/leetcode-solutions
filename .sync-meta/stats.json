@@ -200,5 +200,18 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "count-negative-numbers-in-a-sorted-matrix",
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "count-negative-numbers-in-a-sorted-matrix/",
+    "url": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
   }
 ]
