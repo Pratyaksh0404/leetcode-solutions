@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 17 &nbsp;|&nbsp; 🟢 Easy: 6 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 18 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -8,9 +8,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Jump Game](jump-game/) | Medium | python3 |
-| 2 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 3 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 1 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 2 | [Jump Game](jump-game/) | Medium | python3 |
+| 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 4 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -60,6 +61,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+
+## Simulation
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 
 ## Sorting
 
