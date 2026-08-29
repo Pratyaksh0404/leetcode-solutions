@@ -188,5 +188,17 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "binary-search",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "binary-search/",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
