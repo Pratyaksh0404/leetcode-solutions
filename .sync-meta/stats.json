@@ -152,5 +152,17 @@
       "Linked List",
       "Recursion"
     ]
+  },
+  {
+    "slug": "elevator-requests-i",
+    "title": "Elevator Requests I",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "elevator-requests-i/",
+    "url": "https://leetcode.com/problems/elevator-requests-i/",
+    "topics": [
+      "Array",
+      "Simulation"
+    ]
   }
 ]
