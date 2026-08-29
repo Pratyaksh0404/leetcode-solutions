@@ -115,5 +115,18 @@
       "Breadth-First Search",
       "Bidirectional Search"
     ]
+  },
+  {
+    "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "make-lexicographically-smallest-array-by-swapping-elements/",
+    "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+    "topics": [
+      "Array",
+      "Union-Find",
+      "Sorting"
+    ]
   }
 ]
