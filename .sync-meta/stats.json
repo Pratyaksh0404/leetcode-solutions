@@ -169,7 +169,7 @@
     "slug": "search-insert-position",
     "title": "Search Insert Position",
     "difficulty": "Easy",
-    "language": "python",
+    "language": "python3",
     "path": "search-insert-position/",
     "url": "https://leetcode.com/problems/search-insert-position/",
     "topics": [
