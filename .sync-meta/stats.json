@@ -128,5 +128,17 @@
       "Union-Find",
       "Sorting"
     ]
+  },
+  {
+    "slug": "swap-nodes-in-pairs",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "swap-nodes-in-pairs/",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
   }
 ]
