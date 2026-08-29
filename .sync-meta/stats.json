@@ -87,7 +87,12 @@
     "difficulty": "Easy",
     "language": "python3",
     "path": "roman-to-integer/",
-    "url": "https://leetcode.com/problems/roman-to-integer/"
+    "url": "https://leetcode.com/problems/roman-to-integer/",
+    "topics": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
   },
   {
     "slug": "insert-interval",
