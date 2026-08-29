@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 18 &nbsp;|&nbsp; 🟢 Easy: 7 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 19 &nbsp;|&nbsp; 🟢 Easy: 8 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -12,12 +12,19 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Jump Game](jump-game/) | Medium | python3 |
 | 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 4 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 5 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Bidirectional Search
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Binary Search
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Breadth-First Search
 
