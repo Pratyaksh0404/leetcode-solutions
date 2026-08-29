@@ -59,7 +59,13 @@
     "title": "Jump Game II",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "jump-game-ii/"
+    "path": "jump-game-ii/",
+    "url": "https://leetcode.com/problems/jump-game-ii/",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
   },
   {
     "slug": "lexicographically-smallest-permutation-greater-than-target",
