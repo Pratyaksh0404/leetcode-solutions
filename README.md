@@ -61,13 +61,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 2 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 3 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Linked List
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+
+## Math
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 
 ## Matrix
 
@@ -98,7 +105,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 2 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 3 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Union-Find
 
@@ -118,6 +126,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 7 | [Permutations](permutations/) | Medium | python3 |
 | 8 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 9 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
