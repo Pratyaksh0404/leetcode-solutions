@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 20 &nbsp;|&nbsp; 🟢 Easy: 9 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 21 &nbsp;|&nbsp; 🟢 Easy: 10 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -8,12 +8,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 2 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 3 | [Jump Game](jump-game/) | Medium | python3 |
-| 4 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 5 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 6 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 1 | [Binary Search](binary-search/) | Easy | python3 |
+| 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 3 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 4 | [Jump Game](jump-game/) | Medium | python3 |
+| 5 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 6 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 7 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Bidirectional Search
 
@@ -25,8 +26,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 2 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 1 | [Binary Search](binary-search/) | Easy | python3 |
+| 2 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 3 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Breadth-First Search
 
