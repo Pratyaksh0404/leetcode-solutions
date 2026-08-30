@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 24 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 25 &nbsp;|&nbsp; 🟢 Easy: 12 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -33,7 +33,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
 | 3 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
 | 4 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 5 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 5 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
+| 6 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Breadth-First Search
 
@@ -67,6 +68,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 3 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Interactive
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 
 ## Linked List
 
