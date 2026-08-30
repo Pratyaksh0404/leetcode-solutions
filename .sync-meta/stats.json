@@ -218,5 +218,17 @@
       "Binary Search",
       "Matrix"
     ]
+  },
+  {
+    "slug": "removing-minimum-and-maximum-from-array",
+    "title": "Removing Minimum and Maximum From Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "removing-minimum-and-maximum-from-array/",
+    "url": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+    "topics": [
+      "Array",
+      "Greedy"
+    ]
   }
 ]
