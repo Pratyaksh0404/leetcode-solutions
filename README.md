@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 25 &nbsp;|&nbsp; 🟢 Easy: 12 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 26 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -47,6 +47,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Ransom Note](ransom-note/) | Easy | python3 |
+
+## Database
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Rising Temperature](rising-temperature/) | Easy | mysql |
 
 ## Dynamic Programming
 
