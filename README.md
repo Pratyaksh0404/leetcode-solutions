@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 23 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 11 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 24 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 12 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -11,12 +11,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Binary Search](binary-search/) | Easy | python3 |
 | 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
 | 3 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 4 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 5 | [Jump Game](jump-game/) | Medium | python3 |
-| 6 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 7 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 8 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 9 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 4 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 5 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 6 | [Jump Game](jump-game/) | Medium | python3 |
+| 7 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 8 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 9 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 10 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Bidirectional Search
 
@@ -30,8 +31,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Binary Search](binary-search/) | Easy | python3 |
 | 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 3 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 4 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 3 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 4 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 5 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Breadth-First Search
 
