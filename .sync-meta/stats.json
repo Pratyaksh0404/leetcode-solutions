@@ -230,5 +230,17 @@
       "Array",
       "Greedy"
     ]
+  },
+  {
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-first-and-last-position-of-element-in-sorted-array/",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
