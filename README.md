@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 22 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 10 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 23 &nbsp;|&nbsp; 🟢 Easy: 11 &nbsp;|&nbsp; 🟡 Medium: 11 &nbsp;|&nbsp; 🔴 Hard: 1
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -15,7 +15,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Jump Game](jump-game/) | Medium | python3 |
 | 6 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 7 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 8 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 8 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 9 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Bidirectional Search
 
@@ -55,6 +56,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 2 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 
 ## Hash Table
 
