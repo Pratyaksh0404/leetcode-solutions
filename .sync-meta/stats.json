@@ -254,5 +254,16 @@
       "Binary Search",
       "Interactive"
     ]
+  },
+  {
+    "slug": "rising-temperature",
+    "title": "Rising Temperature",
+    "difficulty": "Easy",
+    "language": "mysql",
+    "path": "rising-temperature/",
+    "url": "https://leetcode.com/problems/rising-temperature/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
