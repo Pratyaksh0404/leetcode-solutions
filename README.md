@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 31 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 32 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 14 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -176,4 +176,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Permutations](permutations/) | Medium | python3 |
 | 9 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 11 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
