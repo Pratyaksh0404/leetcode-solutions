@@ -72,15 +72,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 2 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 2 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 3 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 
 ## Hash Table
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 3 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 2 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 4 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -145,10 +147,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 4 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 2 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 3 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 4 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 5 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
@@ -172,9 +175,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Hamming Distance](hamming-distance/) | Easy | python3 |
 | 5 | [Insert Interval](insert-interval/) | Medium | python3 |
 | 6 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 7 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 8 | [Permutations](permutations/) | Medium | python3 |
-| 9 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 11 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 7 | [Permutations](permutations/) | Medium | python3 |
+| 8 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 9 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 10 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
