@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 30 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 31 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -167,12 +167,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
-| 2 | [Gray Code](gray-code/) | Medium | python3 |
-| 3 | [Hamming Distance](hamming-distance/) | Easy | python3 |
-| 4 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 7 | [Permutations](permutations/) | Medium | python3 |
-| 8 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 9 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 2 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
+| 3 | [Gray Code](gray-code/) | Medium | python3 |
+| 4 | [Hamming Distance](hamming-distance/) | Easy | python3 |
+| 5 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 6 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 7 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 8 | [Permutations](permutations/) | Medium | python3 |
+| 9 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
