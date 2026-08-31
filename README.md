@@ -41,6 +41,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 5 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 | 6 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 7 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Bit Manipulation
 
@@ -124,6 +125,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Gray Code](gray-code/) | Medium | python3 |
 | 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 3 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -191,4 +193,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 7 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
 | 8 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
