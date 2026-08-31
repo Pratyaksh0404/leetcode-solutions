@@ -5,4 +5,5 @@ class Solution:
         while d:
             d = d & (d - 1)
             ans += 1
+            
         return ans
