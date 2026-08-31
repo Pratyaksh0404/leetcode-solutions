@@ -62,7 +62,12 @@
     "title": "Permutations",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "permutations/"
+    "path": "permutations/",
+    "url": "https://leetcode.com/problems/permutations/",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ]
   },
   {
     "slug": "shortest-and-lexicographically-smallest-beautiful-string",
