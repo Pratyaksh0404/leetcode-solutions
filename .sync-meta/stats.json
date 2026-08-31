@@ -114,7 +114,10 @@
     "difficulty": "Easy",
     "language": "mysql",
     "path": "combine-two-tables/",
-    "url": "https://leetcode.com/problems/combine-two-tables/"
+    "url": "https://leetcode.com/problems/combine-two-tables/",
+    "topics": [
+      "Database"
+    ]
   },
   {
     "slug": "jump-game",
