@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 29 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 3
+**Total solved:** 30 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -100,7 +100,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
 | 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 3 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Math
 
@@ -125,7 +126,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 2 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 2 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 3 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Simulation
 
