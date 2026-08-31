@@ -304,5 +304,17 @@
       "Merge Sort",
       "Tournament Sort"
     ]
+  },
+  {
+    "slug": "reverse-nodes-in-k-group",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "reverse-nodes-in-k-group/",
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "topics": [
+      "Linked List",
+      "Recursion"
+    ]
   }
 ]
