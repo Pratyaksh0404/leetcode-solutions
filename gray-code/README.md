@@ -1,19 +1,18 @@
-# Gray Code
+# [Gray Code](https://leetcode.com/problems/gray-code/)
 
 **Difficulty:** Medium
 
-An n-bit gray code sequence is a sequence of 2^n integers where:
+An **n-bit gray code sequence** is a sequence of `2^n` integers where:
 
-	Every integer is in the inclusive range [0, 2^n - 1],
-	The first integer is 0,
-	An integer appears no more than once in the sequence,
-	The binary representation of every pair of adjacent integers differs by exactly one bit, and
-	The binary representation of the first and last integers differs by exactly one bit.
+- Every integer is in the **inclusive** range `[0, 2^n - 1]`,
+- The first integer is `0`,
+- An integer appears **no more than once** in the sequence,
+- The binary representation of every pair of **adjacent** integers differs by **exactly one bit**, and
+- The binary representation of the **first** and **last** integers differs by **exactly one bit**.
 
-Given an integer n, return any valid n-bit gray code sequence.
+Given an integer `n`, return *any valid **n-bit gray code sequence***.
 
- 
-Example 1:
+**Example 1:**
 
 Input: n = 2
 Output: [0,1,3,2]
@@ -29,12 +28,13 @@ The binary representation of [0,1,3,2] is [00,01,11,10].
 - 11 and 01 differ by one bit
 - 01 and 00 differ by one bit
 
-Example 2:
+**Example 2:**
 
+```
 Input: n = 1
 Output: [0,1]
+```
 
- 
-Constraints:
+**Constraints:**
 
-	1 <= n <= 16
+- `1 <= n <= 16`
