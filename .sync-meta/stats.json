@@ -55,7 +55,11 @@
     "title": "Hamming Distance",
     "difficulty": "Easy",
     "language": "python3",
-    "path": "hamming-distance/"
+    "path": "hamming-distance/",
+    "url": "https://leetcode.com/problems/hamming-distance/",
+    "topics": [
+      "Bit Manipulation"
+    ]
   },
   {
     "slug": "permutations",
@@ -101,13 +105,7 @@
     "title": "Permutations II",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "permutations-ii/",
-    "url": "https://leetcode.com/problems/permutations-ii/",
-    "topics": [
-      "Array",
-      "Backtracking",
-      "Sorting"
-    ]
+    "path": "permutations-ii/"
   },
   {
     "slug": "roman-to-integer",
