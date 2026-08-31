@@ -24,7 +24,13 @@
     "title": "Longest Palindrome",
     "difficulty": "Easy",
     "language": "python3",
-    "path": "longest-palindrome/"
+    "path": "longest-palindrome/",
+    "url": "https://leetcode.com/problems/longest-palindrome/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
   },
   {
     "slug": "gray-code",
