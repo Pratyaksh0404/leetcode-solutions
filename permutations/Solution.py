@@ -1,20 +1,19 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         ans = []
-        perm = []
+        per = []
         pick = [False]*len(nums)
         
         def solve():
-            if len(perm) == len(nums):
-                ans.append(perm.copy())
+            if len(per) == len(nums):
+                ans.append(per.copy())
                 return 
-            
             for i in range(len(nums)):
                 if not pick[i]:
-                    perm.append(nums[i])
+                    per.append(nums[i])
                     pick[i] = True
                     solve()
-                    perm.pop()
+                    per.pop()
                     pick[i] = False
         solve()
         
