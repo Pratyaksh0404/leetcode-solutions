@@ -316,5 +316,16 @@
       "Linked List",
       "Recursion"
     ]
+  },
+  {
+    "slug": "count-integers-appearing-in-a-single-block",
+    "title": "Count Integers Appearing in a Single Block",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "count-integers-appearing-in-a-single-block/",
+    "url": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
