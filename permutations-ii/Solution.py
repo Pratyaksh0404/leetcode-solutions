@@ -4,4 +4,5 @@ class Solution:
         p = list(permutations(nums)) 
         s = set(p)  
         ans = list(s)
+        
         return ans
