@@ -1,4 +1,4 @@
-# Hamming Distance
+# [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
 **Difficulty:** Easy
 
@@ -14,7 +14,7 @@ Output: 2
 Explanation:
 1   (0 0 0 1)
 4   (0 1 0 0)
-       &uarr;   &uarr;
+       ↑   ↑
 The above arrows point to positions where the corresponding bits are different.
 ```
 
@@ -27,4 +27,6 @@ Output: 1
 
 **Constraints:**
 
-	- `0  2220: Minimum Bit Flips to Convert Number.
+- `0 <= x, y <= 2^31 - 1`
+
+**Note:** This question is the same as  2220: Minimum Bit Flips to Convert Number.
