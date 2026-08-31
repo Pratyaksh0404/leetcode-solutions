@@ -327,5 +327,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "sum-of-decoded-numbers",
+    "title": "Sum of Decoded Numbers",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "sum-of-decoded-numbers/",
+    "url": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
