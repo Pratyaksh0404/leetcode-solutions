@@ -289,5 +289,20 @@
       "Dynamic Programming",
       "Recursion"
     ]
+  },
+  {
+    "slug": "merge-k-sorted-lists",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "merge-k-sorted-lists/",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "topics": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Tournament Sort"
+    ]
   }
 ]
