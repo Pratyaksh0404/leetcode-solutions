@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 28 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 2
+**Total solved:** 29 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 3
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -54,6 +54,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Rising Temperature](rising-temperature/) | Easy | mysql |
 
+## Divide and Conquer
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+
 ## Dynamic Programming
 
 | # | My Solution | Difficulty | Language |
@@ -76,6 +82,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 3 | [Word Ladder](word-ladder/) | Hard | python3 |
 
+## Heap (Priority Queue)
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+
 ## Interactive
 
 | # | My Solution | Difficulty | Language |
@@ -87,7 +99,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
-| 2 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 3 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Math
 
@@ -100,6 +113,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+
+## Merge Sort
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 
 ## Recursion
 
@@ -128,6 +147,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 4 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Tournament Sort
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 
 ## Union-Find
 
