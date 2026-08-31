@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 27 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 1
+**Total solved:** 28 &nbsp;|&nbsp; 🟢 Easy: 13 &nbsp;|&nbsp; 🟡 Medium: 13 &nbsp;|&nbsp; 🔴 Hard: 2
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -59,6 +59,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 
 ## Greedy
 
@@ -104,7 +105,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 1 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 2 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Simulation
 
@@ -123,8 +125,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 3 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 4 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Union-Find
 
