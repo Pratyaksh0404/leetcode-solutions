@@ -276,5 +276,18 @@
     "topics": [
       "Linked List"
     ]
+  },
+  {
+    "slug": "regular-expression-matching",
+    "title": "Regular Expression Matching",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "regular-expression-matching/",
+    "url": "https://leetcode.com/problems/regular-expression-matching/",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
   }
 ]
