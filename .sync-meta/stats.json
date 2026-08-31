@@ -37,7 +37,13 @@
     "title": "Gray Code",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "gray-code/"
+    "path": "gray-code/",
+    "url": "https://leetcode.com/problems/gray-code/",
+    "topics": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
   },
   {
     "slug": "hamming-distance",
