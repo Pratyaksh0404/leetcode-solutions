@@ -4,7 +4,12 @@
     "title": "Valid Perfect Square",
     "difficulty": "Easy",
     "language": "python3",
-    "path": "valid-perfect-square/"
+    "path": "valid-perfect-square/",
+    "url": "https://leetcode.com/problems/valid-perfect-square/",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ]
   },
   {
     "slug": "ransom-note",
