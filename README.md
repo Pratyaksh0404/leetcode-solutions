@@ -19,6 +19,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 | 10 | [Search Insert Position](search-insert-position/) | Easy | python |
 
+## Backtracking
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Gray Code](gray-code/) | Medium | python3 |
+
 ## Bidirectional Search
 
 | # | My Solution | Difficulty | Language |
@@ -35,6 +41,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 5 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 | 6 | [Search Insert Position](search-insert-position/) | Easy | python |
+
+## Bit Manipulation
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Gray Code](gray-code/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -110,7 +122,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 1 | [Gray Code](gray-code/) | Medium | python3 |
+| 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 
 ## Matrix
 
@@ -171,12 +184,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
-| 2 | [Gray Code](gray-code/) | Medium | python3 |
-| 3 | [Hamming Distance](hamming-distance/) | Easy | python3 |
-| 4 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 6 | [Permutations](permutations/) | Medium | python3 |
-| 7 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 8 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 9 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 2 | [Hamming Distance](hamming-distance/) | Easy | python3 |
+| 3 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 5 | [Permutations](permutations/) | Medium | python3 |
+| 6 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 7 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 8 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
