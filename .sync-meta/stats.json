@@ -105,7 +105,13 @@
     "title": "Permutations II",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "permutations-ii/"
+    "path": "permutations-ii/",
+    "url": "https://leetcode.com/problems/permutations-ii/",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ]
   },
   {
     "slug": "roman-to-integer",
