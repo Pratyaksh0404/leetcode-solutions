@@ -1,4 +1,4 @@
-# Lexicographically Smallest Permutation Greater Than Target
+# [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/)
 
 **Difficulty:** Medium
 
@@ -16,9 +16,8 @@ A string `a` is **lexicographically strictly greater**than a string `b` (of the 
 
 **Explanation:**
 
-	- The permutations of `s` (in lexicographical order) are `"abc"`, `"acb"`, `"bac"`, `"bca"`, `"cab"`, and `"cba"`.
-
-	- The lexicographically smallest permutation that is strictly greater than `target` is `"bca"`.
+- The permutations of `s` (in lexicographical order) are `"abc"`, `"acb"`, `"bac"`, `"bca"`, `"cab"`, and `"cba"`.
+- The lexicographically smallest permutation that is strictly greater than `target` is `"bca"`.
 
 **Example 2:**
 
@@ -28,9 +27,8 @@ A string `a` is **lexicographically strictly greater**than a string `b` (of the 
 
 **Explanation:**
 
-	- The permutations of `s` (in lexicographical order) are `"eelt"`, `"eetl"`, `"elet"`, `"elte"`, `"etel"`, `"etle"`, `"leet"`, `"lete"`, `"ltee"`, `"teel"`, `"tele"`, and `"tlee"`.
-
-	- The lexicographically smallest permutation that is strictly greater than `target` is `"eelt"`.
+- The permutations of `s` (in lexicographical order) are `"eelt"`, `"eetl"`, `"elet"`, `"elte"`, `"etel"`, `"etle"`, `"leet"`, `"lete"`, `"ltee"`, `"teel"`, `"tele"`, and `"tlee"`.
+- The lexicographically smallest permutation that is strictly greater than `target` is `"eelt"`.
 
 **Example 3:**
 
@@ -40,12 +38,10 @@ A string `a` is **lexicographically strictly greater**than a string `b` (of the 
 
 **Explanation:**
 
-	- The permutations of `s` (in lexicographical order) are `"aabb"`, `"abab"`, `"abba"`, `"baab"`, `"baba"`, and `"bbaa"`.
-
-	- None of them is lexicographically strictly greater than `target`. Therefore, the answer is `""`.
+- The permutations of `s` (in lexicographical order) are `"aabb"`, `"abab"`, `"abba"`, `"baab"`, `"baba"`, and `"bbaa"`.
+- None of them is lexicographically strictly greater than `target`. Therefore, the answer is `""`.
 
 **Constraints:**
 
-	- `1 <= s.length == target.length <= 300`
-
-	- `s` and `target` consist of only lowercase English letters.
+- `1 <= s.length == target.length <= 300`
+- `s` and `target` consist of only lowercase English letters.
