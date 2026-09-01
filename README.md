@@ -15,14 +15,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 6 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
 | 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 8 | [Jump Game](jump-game/) | Medium | python3 |
-| 9 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 10 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 11 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 12 | [Permutations](permutations/) | Medium | python3 |
-| 13 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 14 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 15 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 8 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 9 | [Jump Game](jump-game/) | Medium | python3 |
+| 10 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 11 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 12 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 13 | [Permutations](permutations/) | Medium | python3 |
+| 14 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 15 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 16 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Backtracking
 
@@ -219,6 +220,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
-| 2 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 3 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 4 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 2 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 3 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
