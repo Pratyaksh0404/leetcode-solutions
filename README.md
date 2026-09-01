@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 33 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 15 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 34 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 16 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -52,9 +52,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Gray Code](gray-code/) | Medium | python3 |
-| 2 | [Hamming Distance](hamming-distance/) | Easy | python3 |
-| 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 1 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 2 | [Gray Code](gray-code/) | Medium | python3 |
+| 3 | [Hamming Distance](hamming-distance/) | Easy | python3 |
+| 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -132,9 +133,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Gray Code](gray-code/) | Medium | python3 |
-| 2 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 3 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 1 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 2 | [Gray Code](gray-code/) | Medium | python3 |
+| 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 4 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
