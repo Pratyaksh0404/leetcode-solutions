@@ -388,5 +388,17 @@
       "Breadth-First Search",
       "Matrix"
     ]
+  },
+  {
+    "slug": "divide-two-integers",
+    "title": "Divide Two Integers",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "divide-two-integers/",
+    "url": "https://leetcode.com/problems/divide-two-integers/",
+    "topics": [
+      "Math",
+      "Bit Manipulation"
+    ]
   }
 ]
