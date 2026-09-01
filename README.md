@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 34 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 16 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 35 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 17 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -8,19 +8,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Binary Search](binary-search/) | Easy | python3 |
-| 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 3 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 4 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 5 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 6 | [Jump Game](jump-game/) | Medium | python3 |
-| 7 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 8 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 9 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 10 | [Permutations](permutations/) | Medium | python3 |
-| 11 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 12 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 13 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 1 | [4Sum](4sum/) | Medium | python3 |
+| 2 | [Binary Search](binary-search/) | Easy | python3 |
+| 3 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 4 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 5 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 6 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 7 | [Jump Game](jump-game/) | Medium | python3 |
+| 8 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 9 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 10 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 11 | [Permutations](permutations/) | Medium | python3 |
+| 12 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 13 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 14 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Backtracking
 
@@ -178,8 +179,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 2 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 1 | [4Sum](4sum/) | Medium | python3 |
+| 2 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 3 | [Permutations II](permutations-ii/) | Medium | python3 |
 
 ## String
 
@@ -197,6 +199,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+
+## Two Pointers
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [4Sum](4sum/) | Medium | python3 |
 
 ## Union-Find
 
