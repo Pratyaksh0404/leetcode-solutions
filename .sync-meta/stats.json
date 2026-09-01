@@ -140,7 +140,10 @@
     "difficulty": "Medium",
     "language": "python3",
     "path": "insert-interval/",
-    "url": "https://leetcode.com/problems/insert-interval/"
+    "url": "https://leetcode.com/problems/insert-interval/",
+    "topics": [
+      "Array"
+    ]
   },
   {
     "slug": "combine-two-tables",
