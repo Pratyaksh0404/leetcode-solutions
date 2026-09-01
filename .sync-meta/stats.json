@@ -98,7 +98,15 @@
     "title": "Lexicographically Smallest Permutation Greater Than Target",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "lexicographically-smallest-permutation-greater-than-target/"
+    "path": "lexicographically-smallest-permutation-greater-than-target/",
+    "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting",
+      "Enumeration"
+    ]
   },
   {
     "slug": "permutations-ii",
