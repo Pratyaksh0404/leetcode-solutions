@@ -68,7 +68,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 2 | [Ransom Note](ransom-note/) | Easy | python3 |
 
 ## Database
 
@@ -90,23 +91,31 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 
+## Enumeration
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+
 ## Greedy
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 2 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 3 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 2 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 3 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 4 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 
 ## Hash Table
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 2 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 3 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 4 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 5 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 2 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 4 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 6 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -176,11 +185,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 2 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 3 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 4 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 5 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 2 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 3 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 4 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 6 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
@@ -200,6 +210,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
 | 2 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 4 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 5 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 3 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 4 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
