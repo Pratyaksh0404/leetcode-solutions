@@ -373,5 +373,20 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimum-moves-to-clean-the-classroom",
+    "title": "Minimum Moves to Clean the Classroom",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-moves-to-clean-the-classroom/",
+    "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Matrix"
+    ]
   }
 ]
