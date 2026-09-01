@@ -421,5 +421,17 @@
       "Two Pointers",
       "Sorting"
     ]
+  },
+  {
+    "slug": "combination-sum",
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "combination-sum/",
+    "url": "https://leetcode.com/problems/combination-sum/",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ]
   }
 ]
