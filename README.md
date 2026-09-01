@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 32 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 14 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 33 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 15 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -16,10 +16,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Jump Game](jump-game/) | Medium | python3 |
 | 7 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 8 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 9 | [Permutations](permutations/) | Medium | python3 |
-| 10 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 11 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 12 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 9 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 10 | [Permutations](permutations/) | Medium | python3 |
+| 11 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 12 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 13 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Backtracking
 
@@ -53,12 +54,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Gray Code](gray-code/) | Medium | python3 |
 | 2 | [Hamming Distance](hamming-distance/) | Easy | python3 |
+| 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 
 ## Breadth-First Search
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 2 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Counting
 
@@ -99,9 +102,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 2 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 4 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 3 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 4 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 5 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -137,6 +141,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 2 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 
 ## Merge Sort
 
