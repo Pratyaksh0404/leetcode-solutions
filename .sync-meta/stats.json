@@ -408,5 +408,18 @@
       "Math",
       "Bit Manipulation"
     ]
+  },
+  {
+    "slug": "4sum",
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "4sum/",
+    "url": "https://leetcode.com/problems/4sum/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
   }
 ]
