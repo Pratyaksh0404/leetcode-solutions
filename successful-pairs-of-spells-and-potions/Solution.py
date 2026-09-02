@@ -1,15 +1,19 @@
 class Solution:
-    def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
-        freq=Counter(potions)
-        pMax=max(freq)
-        F=[0]*(1+pMax)
-        for p, f in freq.items():
-            F[p]=f
-        freq=list(accumulate(F))
-        n, m=len(spells), len(potions)
-        ans=[0]*n
-        for i, x in enumerate(spells):
-            k=(success+x-1)//x
-            if k<=pMax:
-                ans[i]=m-freq[k-1]
+    def successfulPairs(self, s1, p, s):
+        p.sort()
+        m = len(p)
+        ans = []
+        for i in s1:
+            l, r = 0, m - 1
+            ii = -1
+            while l <= r:
+                mid = (l + r) // 2
+                if i * p[mid] >= s:
+                    ii = mid
+                    r = mid - 1
+                else:
+                    l = mid + 1
+            
+            ans.append(0 if ii == -1 else m - ii)
+        
         return ans
