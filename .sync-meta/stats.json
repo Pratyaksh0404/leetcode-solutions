@@ -460,5 +460,20 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "valid-triangle-number",
+    "title": "Valid Triangle Number",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "valid-triangle-number/",
+    "url": "https://leetcode.com/problems/valid-triangle-number/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
   }
 ]
