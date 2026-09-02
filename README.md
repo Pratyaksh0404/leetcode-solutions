@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 36 &nbsp;|&nbsp; 🟢 Easy: 14 &nbsp;|&nbsp; 🟡 Medium: 18 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 37 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 18 &nbsp;|&nbsp; 🔴 Hard: 4
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -11,19 +11,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Binary Search](binary-search/) | Easy | python3 |
 | 3 | [Combination Sum](combination-sum/) | Medium | python3 |
-| 4 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 5 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 6 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 8 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 9 | [Jump Game](jump-game/) | Medium | python3 |
-| 10 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 11 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 12 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 13 | [Permutations](permutations/) | Medium | python3 |
-| 14 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 15 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 16 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 4 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
+| 5 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 6 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 7 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 8 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 9 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 10 | [Jump Game](jump-game/) | Medium | python3 |
+| 11 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 12 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 13 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 14 | [Permutations](permutations/) | Medium | python3 |
+| 15 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 16 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 17 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Backtracking
 
@@ -146,10 +147,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 2 | [Gray Code](gray-code/) | Medium | python3 |
-| 3 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 4 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 1 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
+| 2 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 3 | [Gray Code](gray-code/) | Medium | python3 |
+| 4 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 5 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
