@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 39 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 19 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 40 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 5
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -26,7 +26,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 16 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 17 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 | 18 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 19 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 20 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -54,8 +55,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 6 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 | 7 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 8 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 9 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 8 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 10 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -192,7 +194,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 | 3 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 4 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 4 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 5 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## String
 
@@ -216,7 +219,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
-| 2 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 2 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 3 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
