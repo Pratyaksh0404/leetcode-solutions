@@ -436,5 +436,17 @@
       "Array",
       "Backtracking"
     ]
+  },
+  {
+    "slug": "construct-uniform-parity-array-i",
+    "title": "Construct Uniform Parity Array I",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "construct-uniform-parity-array-i/",
+    "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+    "topics": [
+      "Array",
+      "Math"
+    ]
   }
 ]
