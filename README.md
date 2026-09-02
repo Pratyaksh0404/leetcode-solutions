@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 18 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 39 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 19 &nbsp;|&nbsp; 🔴 Hard: 5
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -26,6 +26,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 16 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 17 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 | 18 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -54,6 +55,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 | 7 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 8 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 9 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -112,6 +114,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 3 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 4 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 5 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -189,6 +192,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 | 3 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 4 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## String
 
@@ -212,6 +216,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
+| 2 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
