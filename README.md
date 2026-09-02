@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 37 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 18 &nbsp;|&nbsp; 🔴 Hard: 4
+**Total solved:** 38 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 18 &nbsp;|&nbsp; 🔴 Hard: 5
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -15,16 +15,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
 | 6 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 7 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 8 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 9 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 10 | [Jump Game](jump-game/) | Medium | python3 |
-| 11 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 12 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 13 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 14 | [Permutations](permutations/) | Medium | python3 |
-| 15 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 16 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 17 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 8 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
+| 9 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 10 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 11 | [Jump Game](jump-game/) | Medium | python3 |
+| 12 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 13 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 14 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 15 | [Permutations](permutations/) | Medium | python3 |
+| 16 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 17 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 18 | [Search Insert Position](search-insert-position/) | Easy | python |
 
 ## Backtracking
 
@@ -48,10 +49,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Binary Search](binary-search/) | Easy | python3 |
 | 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
 | 3 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 4 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 5 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
-| 6 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 7 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 4 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
+| 5 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 6 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
+| 7 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 8 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Bit Manipulation
 
