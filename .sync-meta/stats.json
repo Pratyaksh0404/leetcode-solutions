@@ -475,5 +475,19 @@
       "Greedy",
       "Sorting"
     ]
+  },
+  {
+    "slug": "successful-pairs-of-spells-and-potions",
+    "title": "Successful Pairs of Spells and Potions",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "successful-pairs-of-spells-and-potions/",
+    "url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
   }
 ]
