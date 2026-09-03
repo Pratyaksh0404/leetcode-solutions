@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 40 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 20 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 41 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 21 &nbsp;|&nbsp; 🔴 Hard: 5
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -12,22 +12,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Binary Search](binary-search/) | Easy | python3 |
 | 3 | [Combination Sum](combination-sum/) | Medium | python3 |
 | 4 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
-| 5 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 6 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 7 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 8 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
-| 9 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 10 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 11 | [Jump Game](jump-game/) | Medium | python3 |
-| 12 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 13 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 14 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 15 | [Permutations](permutations/) | Medium | python3 |
-| 16 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 17 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 18 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 19 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 20 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 5 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
+| 6 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 7 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 8 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 9 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
+| 10 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 11 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 12 | [Jump Game](jump-game/) | Medium | python3 |
+| 13 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 14 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 15 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 16 | [Permutations](permutations/) | Medium | python3 |
+| 17 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 18 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 19 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 20 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 21 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -155,10 +156,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
-| 2 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 3 | [Gray Code](gray-code/) | Medium | python3 |
-| 4 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 5 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 2 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
+| 3 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 4 | [Gray Code](gray-code/) | Medium | python3 |
+| 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 6 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
