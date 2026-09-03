@@ -501,5 +501,17 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "slug": "simplify-path",
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "simplify-path/",
+    "url": "https://leetcode.com/problems/simplify-path/",
+    "topics": [
+      "String",
+      "Stack"
+    ]
   }
 ]
