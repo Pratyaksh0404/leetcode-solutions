@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 41 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 21 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 42 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 5
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -199,6 +199,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
 | 5 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
+## Stack
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Simplify Path](simplify-path/) | Medium | python3 |
+
 ## String
 
 | # | My Solution | Difficulty | Language |
@@ -208,7 +214,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 4 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 6 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 6 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 7 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
