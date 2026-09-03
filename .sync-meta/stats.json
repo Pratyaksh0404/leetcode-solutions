@@ -489,5 +489,17 @@
       "Binary Search",
       "Sorting"
     ]
+  },
+  {
+    "slug": "construct-uniform-parity-array-ii",
+    "title": "Construct Uniform Parity Array II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "construct-uniform-parity-array-ii/",
+    "url": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+    "topics": [
+      "Array",
+      "Math"
+    ]
   }
 ]
