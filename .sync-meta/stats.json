@@ -530,5 +530,18 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "n-queens",
+    "title": "N-Queens",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "n-queens/",
+    "url": "https://leetcode.com/problems/n-queens/",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Algorithm X"
+    ]
   }
 ]
