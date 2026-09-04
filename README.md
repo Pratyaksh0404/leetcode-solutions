@@ -196,6 +196,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 
+## Sliding Window
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+
 ## Sorting
 
 | # | My Solution | Difficulty | Language |
@@ -221,8 +227,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 4 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 6 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 7 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 6 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 7 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 8 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
@@ -249,5 +256,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
-| 2 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 3 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 2 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
