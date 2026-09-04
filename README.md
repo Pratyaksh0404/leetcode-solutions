@@ -1,8 +1,14 @@
 # Solutions
 
-**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 44 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 6
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
+
+## Algorithm X
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [N-Queens](n-queens/) | Hard | python3 |
 
 ## Array
 
@@ -23,13 +29,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 14 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 | 15 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 16 | [Permutations](permutations/) | Medium | python3 |
-| 17 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 18 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 19 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 20 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 21 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 22 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 16 | [N-Queens](n-queens/) | Hard | python3 |
+| 17 | [Permutations](permutations/) | Medium | python3 |
+| 18 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 19 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 20 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 21 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 22 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 23 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -37,8 +44,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Combination Sum](combination-sum/) | Medium | python3 |
 | 2 | [Gray Code](gray-code/) | Medium | python3 |
-| 3 | [Permutations](permutations/) | Medium | python3 |
-| 4 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 3 | [N-Queens](n-queens/) | Hard | python3 |
+| 4 | [Permutations](permutations/) | Medium | python3 |
+| 5 | [Permutations II](permutations-ii/) | Medium | python3 |
 
 ## Bidirectional Search
 
