@@ -1,4 +1,4 @@
-# Shortest and Lexicographically Smallest Beautiful String
+# [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)
 
 **Difficulty:** Medium
 
@@ -12,7 +12,7 @@ Return *the lexicographically **smallest** beautiful substring of string*`s`*wit
 
 A string `a` is lexicographically **larger** than a string `b` (of the same length) if in the first position where `a` and `b` differ, `a` has a character strictly larger than the corresponding character in `b`.
 
-	- For example, `"abcd"` is lexicographically larger than `"abcc"` because the first position they differ is at the fourth character, and `d` is greater than `c`.
+- For example, `"abcd"` is lexicographically larger than `"abcc"` because the first position they differ is at the fourth character, and `d` is greater than `c`.
 
 **Example 1:**
 
@@ -54,6 +54,5 @@ Explanation: There are no beautiful substrings in this example.
 
 **Constraints:**
 
-	- `1 <= s.length <= 100`
-
-	- `1 <= k <= s.length`
+- `1 <= s.length <= 100`
+- `1 <= k <= s.length`
