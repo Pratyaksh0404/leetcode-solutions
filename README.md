@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 42 &nbsp;|&nbsp; 🟢 Easy: 15 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 5
+**Total solved:** 43 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 5
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -27,8 +27,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 17 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 18 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 | 19 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 20 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 21 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 20 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 21 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 22 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -174,6 +175,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+
+## Prefix Sum
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
 
 ## Recursion
 
