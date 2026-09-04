@@ -78,7 +78,12 @@
     "title": "Shortest and Lexicographically Smallest Beautiful String",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "shortest-and-lexicographically-smallest-beautiful-string/"
+    "path": "shortest-and-lexicographically-smallest-beautiful-string/",
+    "url": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+    "topics": [
+      "String",
+      "Sliding Window"
+    ]
   },
   {
     "slug": "jump-game-ii",
