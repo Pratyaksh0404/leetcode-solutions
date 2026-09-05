@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 44 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 22 &nbsp;|&nbsp; 🔴 Hard: 6
+**Total solved:** 45 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 6
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -35,8 +35,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 19 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 | 20 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 21 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 22 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 23 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 22 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 23 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 24 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -189,6 +190,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 2 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 
 ## Recursion
 
