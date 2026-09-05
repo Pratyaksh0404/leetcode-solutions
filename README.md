@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 45 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 23 &nbsp;|&nbsp; 🔴 Hard: 6
+**Total solved:** 46 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 24 &nbsp;|&nbsp; 🔴 Hard: 6
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -17,37 +17,39 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Binary Search](binary-search/) | Easy | python3 |
 | 3 | [Combination Sum](combination-sum/) | Medium | python3 |
-| 4 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
-| 5 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
-| 6 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 7 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 8 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 9 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
-| 10 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 11 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 12 | [Jump Game](jump-game/) | Medium | python3 |
-| 13 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 14 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 15 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 16 | [N-Queens](n-queens/) | Hard | python3 |
-| 17 | [Permutations](permutations/) | Medium | python3 |
-| 18 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 19 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 20 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 21 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 22 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 23 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 24 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 4 | [Combination Sum II](combination-sum-ii/) | Medium | python3 |
+| 5 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
+| 6 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
+| 7 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 8 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 9 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 10 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
+| 11 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 12 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 13 | [Jump Game](jump-game/) | Medium | python3 |
+| 14 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 15 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 16 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 17 | [N-Queens](n-queens/) | Hard | python3 |
+| 18 | [Permutations](permutations/) | Medium | python3 |
+| 19 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 20 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 21 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 22 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 23 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 24 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 25 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Combination Sum](combination-sum/) | Medium | python3 |
-| 2 | [Gray Code](gray-code/) | Medium | python3 |
-| 3 | [N-Queens](n-queens/) | Hard | python3 |
-| 4 | [Permutations](permutations/) | Medium | python3 |
-| 5 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 2 | [Combination Sum II](combination-sum-ii/) | Medium | python3 |
+| 3 | [Gray Code](gray-code/) | Medium | python3 |
+| 4 | [N-Queens](n-queens/) | Hard | python3 |
+| 5 | [Permutations](permutations/) | Medium | python3 |
+| 6 | [Permutations II](permutations-ii/) | Medium | python3 |
 
 ## Bidirectional Search
 
