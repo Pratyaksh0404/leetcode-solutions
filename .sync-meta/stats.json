@@ -543,5 +543,17 @@
       "Backtracking",
       "Algorithm X"
     ]
+  },
+  {
+    "slug": "smallest-stable-index-ii",
+    "title": "Smallest Stable Index II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "smallest-stable-index-ii/",
+    "url": "https://leetcode.com/problems/smallest-stable-index-ii/",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ]
   }
 ]
