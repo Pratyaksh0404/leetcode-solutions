@@ -1,11 +1,12 @@
 class Solution:
     def combinationSum2(self, cc: List[int], tar: int) -> List[List[int]]:
-        cc.sort() 
+        cc.sort()
         ans = []
-
-        def solve(start, tar, path):
+        path = []
+        
+        def backtrack(start, tar):
             if tar == 0:
-                ans.append(path)
+                ans.append(path[:])  
                 return
             
             for i in range(start, len(cc)):
@@ -15,7 +16,11 @@ class Solution:
                 if cc[i] > tar:
                     break
                 
-                solve(i + 1, tar - cc[i], path + [cc[i]])
+                path.append(cc[i])
+                
+                backtrack(i + 1, tar - cc[i])
+                
+                path.pop()
 
-        solve(0, tar, [])
+        backtrack(0, tar)
         return ans
