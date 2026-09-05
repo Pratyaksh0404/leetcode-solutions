@@ -555,5 +555,17 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "combination-sum-ii",
+    "title": "Combination Sum II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "combination-sum-ii/",
+    "url": "https://leetcode.com/problems/combination-sum-ii/",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ]
   }
 ]
