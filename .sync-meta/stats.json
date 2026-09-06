@@ -567,5 +567,17 @@
       "Array",
       "Backtracking"
     ]
+  },
+  {
+    "slug": "distinct-subsequences",
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "distinct-subsequences/",
+    "url": "https://leetcode.com/problems/distinct-subsequences/",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
   }
 ]
