@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 49 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 25 &nbsp;|&nbsp; 🔴 Hard: 8
+**Total solved:** 50 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 26 &nbsp;|&nbsp; 🔴 Hard: 8
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -24,22 +24,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 9 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
 | 10 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
-| 11 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 12 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 13 | [Jump Game](jump-game/) | Medium | python3 |
-| 14 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 15 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 16 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 17 | [N-Queens](n-queens/) | Hard | python3 |
-| 18 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 19 | [Permutations](permutations/) | Medium | python3 |
-| 20 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 21 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 22 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 23 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 24 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 25 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 26 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 11 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 12 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 13 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 14 | [Jump Game](jump-game/) | Medium | python3 |
+| 15 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 16 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 17 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 18 | [N-Queens](n-queens/) | Hard | python3 |
+| 19 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 20 | [Permutations](permutations/) | Medium | python3 |
+| 21 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 22 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 23 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 24 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 25 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 26 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 27 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -66,12 +67,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
 | 3 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
 | 4 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
-| 5 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 6 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
-| 7 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 8 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 10 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 5 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 6 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 7 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
+| 8 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 9 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -222,10 +224,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
-| 2 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 3 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 4 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 5 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 2 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 3 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 4 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 5 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 6 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
