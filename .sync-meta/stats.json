@@ -616,5 +616,20 @@
       "Binary Search",
       "Sorting"
     ]
+  },
+  {
+    "slug": "snapshot-array",
+    "title": "Snapshot Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "snapshot-array/",
+    "url": "https://leetcode.com/problems/snapshot-array/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Design",
+      "Persistent Data Structure"
+    ]
   }
 ]
