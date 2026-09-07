@@ -591,5 +591,17 @@
       "String",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "next-permutation",
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "next-permutation/",
+    "url": "https://leetcode.com/problems/next-permutation/",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
   }
 ]
