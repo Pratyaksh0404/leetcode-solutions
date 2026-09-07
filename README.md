@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 50 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 26 &nbsp;|&nbsp; 🔴 Hard: 8
+**Total solved:** 51 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 27 &nbsp;|&nbsp; 🔴 Hard: 8
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -39,8 +39,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 23 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 24 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
 | 25 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 26 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 27 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 26 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 27 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 28 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -71,9 +72,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 7 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 | 8 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 9 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 9 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 10 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 12 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -104,6 +106,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
 | 2 | [Rising Temperature](rising-temperature/) | Easy | mysql |
+
+## Design
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 
 ## Divide and Conquer
 
@@ -145,7 +153,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 4 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 6 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 6 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 7 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -191,6 +200,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+
+## Persistent Data Structure
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 
 ## Prefix Sum
 
