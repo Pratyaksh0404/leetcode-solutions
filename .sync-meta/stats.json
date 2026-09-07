@@ -603,5 +603,18 @@
       "Array",
       "Two Pointers"
     ]
+  },
+  {
+    "slug": "find-right-interval",
+    "title": "Find Right Interval",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-right-interval/",
+    "url": "https://leetcode.com/problems/find-right-interval/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
   }
 ]
