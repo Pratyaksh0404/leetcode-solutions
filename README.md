@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 47 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 24 &nbsp;|&nbsp; 🔴 Hard: 7
+**Total solved:** 48 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 24 &nbsp;|&nbsp; 🔴 Hard: 8
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -113,8 +113,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
-| 2 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 3 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
+| 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 4 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 
 ## Enumeration
 
@@ -236,14 +237,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
-| 2 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 3 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 4 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 5 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 6 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 7 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 8 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 9 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
+| 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 5 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 6 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 7 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 8 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 9 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 10 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
