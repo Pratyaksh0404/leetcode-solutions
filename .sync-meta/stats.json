@@ -579,5 +579,17 @@
       "String",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "distinct-subsequences-ii",
+    "title": "Distinct Subsequences II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "distinct-subsequences-ii/",
+    "url": "https://leetcode.com/problems/distinct-subsequences-ii/",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ]
   }
 ]
