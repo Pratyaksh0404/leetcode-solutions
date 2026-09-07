@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 48 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 24 &nbsp;|&nbsp; 🔴 Hard: 8
+**Total solved:** 49 &nbsp;|&nbsp; 🟢 Easy: 16 &nbsp;|&nbsp; 🟡 Medium: 25 &nbsp;|&nbsp; 🔴 Hard: 8
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -31,14 +31,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 15 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 | 16 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 17 | [N-Queens](n-queens/) | Hard | python3 |
-| 18 | [Permutations](permutations/) | Medium | python3 |
-| 19 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 20 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 21 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 22 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 23 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 24 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 25 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 18 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 19 | [Permutations](permutations/) | Medium | python3 |
+| 20 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 21 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 22 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 23 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 24 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 25 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 26 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -258,8 +259,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
-| 2 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 3 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 2 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 3 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 4 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
