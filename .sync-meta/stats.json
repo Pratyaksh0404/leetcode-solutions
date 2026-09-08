@@ -642,5 +642,19 @@
     "topics": [
       "Math"
     ]
+  },
+  {
+    "slug": "time-based-key-value-store",
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "time-based-key-value-store/",
+    "url": "https://leetcode.com/problems/time-based-key-value-store/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Design"
+    ]
   }
 ]
