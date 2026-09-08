@@ -656,5 +656,17 @@
       "Binary Search",
       "Design"
     ]
+  },
+  {
+    "slug": "arranging-coins",
+    "title": "Arranging Coins",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "arranging-coins/",
+    "url": "https://leetcode.com/problems/arranging-coins/",
+    "topics": [
+      "Math",
+      "Binary Search"
+    ]
   }
 ]
