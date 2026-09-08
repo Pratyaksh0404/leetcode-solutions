@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 53 &nbsp;|&nbsp; 🟢 Easy: 17 &nbsp;|&nbsp; 🟡 Medium: 28 &nbsp;|&nbsp; 🔴 Hard: 8
+**Total solved:** 54 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 28 &nbsp;|&nbsp; 🔴 Hard: 8
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -64,19 +64,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Binary Search](binary-search/) | Easy | python3 |
-| 2 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 3 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 4 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
-| 5 | [Find Right Interval](find-right-interval/) | Medium | python3 |
-| 6 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 7 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
-| 8 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 9 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 10 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 11 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 13 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 1 | [Arranging Coins](arranging-coins/) | Easy | python3 |
+| 2 | [Binary Search](binary-search/) | Easy | python3 |
+| 3 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 4 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 5 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
+| 6 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 8 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
+| 9 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 10 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 11 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 12 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 13 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 14 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -184,13 +185,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
-| 2 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
-| 3 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
-| 4 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 5 | [Gray Code](gray-code/) | Medium | python3 |
-| 6 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 7 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 1 | [Arranging Coins](arranging-coins/) | Easy | python3 |
+| 2 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
+| 3 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
+| 4 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
+| 5 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 6 | [Gray Code](gray-code/) | Medium | python3 |
+| 7 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 8 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
