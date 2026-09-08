@@ -681,5 +681,19 @@
       "Binary Search",
       "Divide and Conquer"
     ]
+  },
+  {
+    "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "number-of-subsequences-that-satisfy-the-given-sum-condition/",
+    "url": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
   }
 ]
