@@ -668,5 +668,18 @@
       "Math",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "median-of-two-sorted-arrays",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "median-of-two-sorted-arrays/",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
   }
 ]
