@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 55 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 28 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 56 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 29 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -34,15 +34,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 18 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 19 | [N-Queens](n-queens/) | Hard | python3 |
 | 20 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 21 | [Permutations](permutations/) | Medium | python3 |
-| 22 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 23 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 24 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 25 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 26 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 27 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 28 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 29 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 21 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 22 | [Permutations](permutations/) | Medium | python3 |
+| 23 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 24 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 25 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 26 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 27 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 28 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 29 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 30 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -74,12 +75,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 8 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 | 9 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 10 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 11 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 12 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 13 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 14 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 15 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 10 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 11 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 12 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 13 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 14 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 15 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 16 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -250,9 +252,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Find Right Interval](find-right-interval/) | Medium | python3 |
 | 3 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 4 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 5 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 6 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 4 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 5 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 6 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
@@ -288,8 +291,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 3 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 4 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 3 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 4 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 5 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
