@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 52 &nbsp;|&nbsp; 🟢 Easy: 17 &nbsp;|&nbsp; 🟡 Medium: 27 &nbsp;|&nbsp; 🔴 Hard: 8
+**Total solved:** 53 &nbsp;|&nbsp; 🟢 Easy: 17 &nbsp;|&nbsp; 🟡 Medium: 28 &nbsp;|&nbsp; 🔴 Hard: 8
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -74,8 +74,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 9 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 10 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 12 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 11 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 13 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -112,6 +113,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 2 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 
 ## Divide and Conquer
 
@@ -154,7 +156,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 6 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 7 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 7 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 8 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -265,7 +268,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 8 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
 | 9 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 10 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 10 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 11 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
