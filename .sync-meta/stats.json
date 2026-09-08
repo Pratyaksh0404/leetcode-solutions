@@ -631,5 +631,16 @@
       "Design",
       "Persistent Data Structure"
     ]
+  },
+  {
+    "slug": "count-commas-in-range",
+    "title": "Count Commas in Range",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "count-commas-in-range/",
+    "url": "https://leetcode.com/problems/count-commas-in-range/",
+    "topics": [
+      "Math"
+    ]
   }
 ]
