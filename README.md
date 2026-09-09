@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 59 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 60 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -39,12 +39,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 23 | [Permutations](permutations/) | Medium | python3 |
 | 24 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 25 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 26 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 27 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 28 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 29 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 30 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 31 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 26 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 27 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 28 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 29 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 30 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 31 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 32 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -79,12 +80,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
 | 11 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 12 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 13 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 14 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 15 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 16 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 17 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 13 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 14 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 15 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 16 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 17 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 18 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -138,6 +140,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
 | 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 4 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 5 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Enumeration
 
@@ -189,6 +192,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 | 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
 | 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+
+## Longest Increasing Subsequence
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Math
 
@@ -259,8 +268,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 | 4 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
 | 5 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 6 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 6 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 7 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 8 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
