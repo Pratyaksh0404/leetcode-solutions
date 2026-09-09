@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 57 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 58 &nbsp;|&nbsp; 🟢 Easy: 19 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -73,15 +73,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
 | 6 | [Find Right Interval](find-right-interval/) | Medium | python3 |
 | 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 8 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
-| 9 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 10 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 11 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 12 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 13 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 14 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 15 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 16 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 8 | [First Bad Version](first-bad-version/) | Easy | python3 |
+| 9 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
+| 10 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 11 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 12 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 13 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 14 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 15 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 16 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 17 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -175,7 +176,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
+| 1 | [First Bad Version](first-bad-version/) | Easy | python3 |
+| 2 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 
 ## Linked List
 
