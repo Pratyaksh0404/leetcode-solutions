@@ -730,5 +730,20 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "russian-doll-envelopes",
+    "title": "Russian Doll Envelopes",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "russian-doll-envelopes/",
+    "url": "https://leetcode.com/problems/russian-doll-envelopes/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting",
+      "Longest Increasing Subsequence"
+    ]
   }
 ]
