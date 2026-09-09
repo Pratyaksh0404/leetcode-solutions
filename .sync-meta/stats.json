@@ -718,5 +718,17 @@
       "Binary Search",
       "Interactive"
     ]
+  },
+  {
+    "slug": "kth-missing-positive-number",
+    "title": "Kth Missing Positive Number",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "kth-missing-positive-number/",
+    "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
