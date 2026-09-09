@@ -758,5 +758,19 @@
       "Binary Search",
       "Matrix"
     ]
+  },
+  {
+    "slug": "find-maximum-number-of-non-intersecting-substrings",
+    "title": "Find Maximum Number of Non Intersecting Substrings",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-maximum-number-of-non-intersecting-substrings/",
+    "url": "https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
   }
 ]
