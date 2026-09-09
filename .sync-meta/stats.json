@@ -745,5 +745,18 @@
       "Sorting",
       "Longest Increasing Subsequence"
     ]
+  },
+  {
+    "slug": "search-a-2d-matrix",
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "search-a-2d-matrix/",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
   }
 ]
