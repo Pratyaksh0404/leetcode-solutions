@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 58 &nbsp;|&nbsp; 🟢 Easy: 19 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 59 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -29,21 +29,22 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Insert Interval](insert-interval/) | Medium | python3 |
 | 14 | [Jump Game](jump-game/) | Medium | python3 |
 | 15 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 16 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 17 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 18 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 19 | [N-Queens](n-queens/) | Hard | python3 |
-| 20 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 21 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 22 | [Permutations](permutations/) | Medium | python3 |
-| 23 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 24 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 25 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 26 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 27 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 28 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 29 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 30 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 16 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
+| 17 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 18 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 19 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 20 | [N-Queens](n-queens/) | Hard | python3 |
+| 21 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 22 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 23 | [Permutations](permutations/) | Medium | python3 |
+| 24 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 25 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 26 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 27 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 28 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 29 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 30 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 31 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -75,14 +76,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 8 | [First Bad Version](first-bad-version/) | Easy | python3 |
 | 9 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
-| 10 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 11 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 12 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 13 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 14 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 15 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 16 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 17 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 10 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
+| 11 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 12 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 13 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 14 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 15 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 16 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 17 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Bit Manipulation
 
