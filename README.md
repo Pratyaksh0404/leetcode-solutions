@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 56 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 29 &nbsp;|&nbsp; 🔴 Hard: 9
+**Total solved:** 57 &nbsp;|&nbsp; 🟢 Easy: 18 &nbsp;|&nbsp; 🟡 Medium: 30 &nbsp;|&nbsp; 🔴 Hard: 9
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -194,10 +194,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
 | 3 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
 | 4 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
-| 5 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 6 | [Gray Code](gray-code/) | Medium | python3 |
-| 7 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 8 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 5 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
+| 6 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 7 | [Gray Code](gray-code/) | Medium | python3 |
+| 8 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
