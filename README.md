@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 61 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 31 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 62 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -140,9 +140,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
 | 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
-| 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 4 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 5 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 4 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 5 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 6 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Enumeration
 
@@ -154,24 +155,26 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 2 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 3 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 4 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 5 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 1 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 2 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 5 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 6 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 2 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 4 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 5 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 6 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 7 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 8 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 2 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 3 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 5 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 6 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 7 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 8 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 9 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -287,15 +290,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
 | 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
-| 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 5 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 6 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 7 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 8 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 9 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 10 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 11 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 6 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 7 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 8 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 9 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 10 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 11 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 12 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Tournament Sort
 
