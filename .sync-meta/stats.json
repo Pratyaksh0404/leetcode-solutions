@@ -706,5 +706,17 @@
     "topics": [
       "Math"
     ]
+  },
+  {
+    "slug": "first-bad-version",
+    "title": "First Bad Version",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "first-bad-version/",
+    "url": "https://leetcode.com/problems/first-bad-version/",
+    "topics": [
+      "Binary Search",
+      "Interactive"
+    ]
   }
 ]
