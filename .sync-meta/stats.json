@@ -695,5 +695,16 @@
       "Binary Search",
       "Sorting"
     ]
+  },
+  {
+    "slug": "count-commas-in-range-ii",
+    "title": "Count Commas in Range II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "count-commas-in-range-ii/",
+    "url": "https://leetcode.com/problems/count-commas-in-range-ii/",
+    "topics": [
+      "Math"
+    ]
   }
 ]
