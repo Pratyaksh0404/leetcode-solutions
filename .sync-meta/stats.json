@@ -797,5 +797,20 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "random-pick-with-weight",
+    "title": "Random Pick with Weight",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "random-pick-with-weight/",
+    "url": "https://leetcode.com/problems/random-pick-with-weight/",
+    "topics": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
   }
 ]
