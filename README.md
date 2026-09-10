@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 64 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 34 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 65 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -39,15 +39,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 23 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
 | 24 | [Permutations](permutations/) | Medium | python3 |
 | 25 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 26 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 27 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 28 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 29 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 30 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 31 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 32 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 33 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 34 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 26 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 27 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 28 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 29 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 30 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 31 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 32 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 33 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 34 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 35 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -83,14 +84,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 11 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
 | 12 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 13 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 14 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 15 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 16 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 17 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 18 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 19 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 20 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 21 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 14 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 15 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 16 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 17 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 18 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 19 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 20 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 21 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 22 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Binary Tree
 
@@ -229,8 +231,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
 | 6 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
 | 7 | [Gray Code](gray-code/) | Medium | python3 |
-| 8 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 9 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 8 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -256,8 +259,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 2 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 1 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 2 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 3 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+
+## Randomized
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
 
 ## Recursion
 
