@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 63 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 33 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 64 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 34 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -26,27 +26,28 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
 | 11 | [Find Right Interval](find-right-interval/) | Medium | python3 |
 | 12 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 13 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 14 | [Jump Game](jump-game/) | Medium | python3 |
-| 15 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 16 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
-| 17 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 18 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 19 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 20 | [N-Queens](n-queens/) | Hard | python3 |
-| 21 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 22 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 23 | [Permutations](permutations/) | Medium | python3 |
-| 24 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 25 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 26 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 27 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 28 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 29 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 30 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 31 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 32 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 33 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 13 | [H-Index II](h-index-ii/) | Medium | python3 |
+| 14 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 15 | [Jump Game](jump-game/) | Medium | python3 |
+| 16 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 17 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
+| 18 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 19 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 20 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 21 | [N-Queens](n-queens/) | Hard | python3 |
+| 22 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 23 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 24 | [Permutations](permutations/) | Medium | python3 |
+| 25 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 26 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 27 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 28 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 29 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 30 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 31 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 32 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 33 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 34 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -78,17 +79,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
 | 8 | [First Bad Version](first-bad-version/) | Easy | python3 |
 | 9 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
-| 10 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
-| 11 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 12 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 13 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 14 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 15 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 16 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 17 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 18 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 19 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 20 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 10 | [H-Index II](h-index-ii/) | Medium | python3 |
+| 11 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
+| 12 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 13 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 14 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 15 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 16 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 17 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 18 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 19 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 20 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 21 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Binary Tree
 
