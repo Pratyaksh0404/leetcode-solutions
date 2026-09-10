@@ -772,5 +772,18 @@
       "Dynamic Programming",
       "Greedy"
     ]
+  },
+  {
+    "slug": "count-nodes-equal-to-average-of-subtree",
+    "title": "Count Nodes Equal to Average of Subtree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "count-nodes-equal-to-average-of-subtree/",
+    "url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
   }
 ]
