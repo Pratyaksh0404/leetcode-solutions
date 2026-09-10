@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 62 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 32 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 63 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 33 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -90,6 +90,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 19 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 | 20 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
+## Binary Tree
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+
 ## Bit Manipulation
 
 | # | My Solution | Difficulty | Language |
@@ -119,6 +125,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
 | 2 | [Rising Temperature](rising-temperature/) | Easy | mysql |
+
+## Depth-First Search
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 
 ## Design
 
@@ -306,6 +318,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+
+## Tree
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 
 ## Two Pointers
 
