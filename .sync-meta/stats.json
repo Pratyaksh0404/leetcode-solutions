@@ -785,5 +785,17 @@
       "Depth-First Search",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "h-index-ii",
+    "title": "H-Index II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "h-index-ii/",
+    "url": "https://leetcode.com/problems/h-index-ii/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
