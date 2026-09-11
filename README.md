@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 65 &nbsp;|&nbsp; 🟢 Easy: 20 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 10
+**Total solved:** 66 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 10
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -48,7 +48,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 32 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 | 33 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 34 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 35 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 35 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 36 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -166,6 +167,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 2 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Greedy
 
@@ -190,7 +192,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 7 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 8 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 9 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 9 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 10 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -276,6 +279,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 2 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
 | 3 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 4 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Simulation
 
