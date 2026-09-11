@@ -812,5 +812,19 @@
       "Prefix Sum",
       "Randomized"
     ]
+  },
+  {
+    "slug": "unique-3-digit-even-numbers",
+    "title": "Unique 3-Digit Even Numbers",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "unique-3-digit-even-numbers/",
+    "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Recursion",
+      "Enumeration"
+    ]
   }
 ]
