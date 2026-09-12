@@ -865,5 +865,21 @@
       "Binary Search",
       "Ternary Search"
     ]
+  },
+  {
+    "slug": "find-k-closest-elements",
+    "title": "Find K Closest Elements",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-k-closest-elements/",
+    "url": "https://leetcode.com/problems/find-k-closest-elements/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
