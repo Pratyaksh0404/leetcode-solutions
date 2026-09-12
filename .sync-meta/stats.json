@@ -852,5 +852,18 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "slug": "peak-index-in-a-mountain-array",
+    "title": "Peak Index in a Mountain Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "peak-index-in-a-mountain-array/",
+    "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Ternary Search"
+    ]
   }
 ]
