@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 67 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 35 &nbsp;|&nbsp; 🔴 Hard: 11
+**Total solved:** 68 &nbsp;|&nbsp; 🟢 Easy: 21 &nbsp;|&nbsp; 🟡 Medium: 36 &nbsp;|&nbsp; 🔴 Hard: 11
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -45,12 +45,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 29 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 30 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
 | 31 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 32 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 33 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 34 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 35 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 36 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 37 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 32 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 33 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 34 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 35 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 36 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 37 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 38 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -91,11 +92,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 16 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 17 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
 | 18 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 19 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 20 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 21 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 22 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 23 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 19 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 20 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 21 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 22 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 23 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 24 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Binary Tree
 
