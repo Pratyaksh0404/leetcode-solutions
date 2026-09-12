@@ -881,5 +881,19 @@
       "Sorting",
       "Heap (Priority Queue)"
     ]
+  },
+  {
+    "slug": "longest-increasing-subsequence",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "longest-increasing-subsequence/",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Longest Increasing Subsequence"
+    ]
   }
 ]
