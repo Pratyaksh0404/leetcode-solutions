@@ -840,5 +840,17 @@
       "Dynamic Programming",
       "Sorting"
     ]
+  },
+  {
+    "slug": "single-element-in-a-sorted-array",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "single-element-in-a-sorted-array/",
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "topics": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
