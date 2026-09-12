@@ -826,5 +826,19 @@
       "Recursion",
       "Enumeration"
     ]
+  },
+  {
+    "slug": "maximum-score-of-non-overlapping-intervals",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "maximum-score-of-non-overlapping-intervals/",
+    "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
   }
 ]
