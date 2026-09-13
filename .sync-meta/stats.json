@@ -907,5 +907,16 @@
       "Array",
       "Matrix"
     ]
+  },
+  {
+    "slug": "cyclically-shift-rows-and-columns",
+    "title": "Cyclically Shift Rows and Columns",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "cyclically-shift-rows-and-columns/",
+    "url": "https://leetcode.com/problems/cyclically-shift-rows-and-columns/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
