@@ -895,5 +895,17 @@
       "Dynamic Programming",
       "Longest Increasing Subsequence"
     ]
+  },
+  {
+    "slug": "image-overlap",
+    "title": "Image Overlap",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "image-overlap/",
+    "url": "https://leetcode.com/problems/image-overlap/",
+    "topics": [
+      "Array",
+      "Matrix"
+    ]
   }
 ]
