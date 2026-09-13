@@ -918,5 +918,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimum-operations-to-make-every-element-palindromic",
+    "title": "Minimum Operations to Make Every Element Palindromic",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-operations-to-make-every-element-palindromic/",
+    "url": "https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
