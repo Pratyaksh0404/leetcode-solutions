@@ -940,5 +940,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "count-shadow-pairs-ii",
+    "title": "Count Shadow Pairs II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "count-shadow-pairs-ii/",
+    "url": "https://leetcode.com/problems/count-shadow-pairs-ii/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
