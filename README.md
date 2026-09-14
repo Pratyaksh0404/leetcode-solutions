@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 76 &nbsp;|&nbsp; 🟢 Easy: 22 &nbsp;|&nbsp; 🟡 Medium: 42 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 77 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 42 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -182,6 +182,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 2 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
+## Geometry
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+
 ## Greedy
 
 | # | My Solution | Difficulty | Language |
@@ -250,8 +256,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
 | 7 | [Gray Code](gray-code/) | Medium | python3 |
 | 8 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 10 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 9 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
