@@ -963,5 +963,18 @@
       "Math",
       "Geometry"
     ]
+  },
+  {
+    "slug": "letter-combinations-of-a-phone-number",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "letter-combinations-of-a-phone-number/",
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
   }
 ]
