@@ -951,5 +951,17 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "rectangle-overlap",
+    "title": "Rectangle Overlap",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "rectangle-overlap/",
+    "url": "https://leetcode.com/problems/rectangle-overlap/",
+    "topics": [
+      "Math",
+      "Geometry"
+    ]
   }
 ]
