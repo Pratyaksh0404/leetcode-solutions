@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 77 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 42 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 78 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 12
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -64,9 +64,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Combination Sum](combination-sum/) | Medium | python3 |
 | 2 | [Combination Sum II](combination-sum-ii/) | Medium | python3 |
 | 3 | [Gray Code](gray-code/) | Medium | python3 |
-| 4 | [N-Queens](n-queens/) | Hard | python3 |
-| 5 | [Permutations](permutations/) | Medium | python3 |
-| 6 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 4 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 5 | [N-Queens](n-queens/) | Hard | python3 |
+| 6 | [Permutations](permutations/) | Medium | python3 |
+| 7 | [Permutations II](permutations-ii/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -204,15 +205,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 2 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 3 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 5 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 6 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 7 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 8 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 9 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 10 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 5 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 6 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 7 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 8 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 9 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 10 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 11 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -345,15 +347,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
 | 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
 | 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 6 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 7 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 8 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 9 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 10 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 11 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 12 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 4 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 7 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 8 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 11 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 12 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 13 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Ternary Search
 
