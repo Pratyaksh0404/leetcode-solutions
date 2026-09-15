@@ -1003,5 +1003,20 @@
       "Backtracking",
       "Bit Manipulation"
     ]
+  },
+  {
+    "slug": "word-search",
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "word-search/",
+    "url": "https://leetcode.com/problems/word-search/",
+    "topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
   }
 ]
