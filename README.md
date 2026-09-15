@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 80 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 44 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 81 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -57,6 +57,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 41 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
 | 42 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 | 43 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 44 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -70,6 +71,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Permutations](permutations/) | Medium | python3 |
 | 7 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 8 | [Subsets](subsets/) | Medium | python3 |
+| 9 | [Word Search](word-search/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -151,6 +153,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+| 2 | [Word Search](word-search/) | Medium | python3 |
 
 ## Design
 
@@ -275,6 +278,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Image Overlap](image-overlap/) | Medium | python3 |
 | 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 4 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 5 | [Word Search](word-search/) | Medium | python3 |
 
 ## Merge Sort
 
@@ -363,6 +367,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Simplify Path](simplify-path/) | Medium | python3 |
 | 13 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 | 14 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 15 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
