@@ -1044,5 +1044,18 @@
       "Two Pointers",
       "Floyd's Cycle Finding Algorithm"
     ]
+  },
+  {
+    "slug": "intersection-of-two-linked-lists",
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "intersection-of-two-linked-lists/",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
   }
 ]
