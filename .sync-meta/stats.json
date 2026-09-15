@@ -1058,16 +1058,16 @@
     ]
   },
   {
-    "slug": "spiral-matrix",
-    "title": "Spiral Matrix",
+    "slug": "set-matrix-zeroes",
+    "title": "Set Matrix Zeroes",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "spiral-matrix/",
-    "url": "https://leetcode.com/problems/spiral-matrix/",
+    "path": "set-matrix-zeroes/",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes/",
     "topics": [
       "Array",
-      "Matrix",
-      "Simulation"
+      "Hash Table",
+      "Matrix"
     ]
   }
 ]
