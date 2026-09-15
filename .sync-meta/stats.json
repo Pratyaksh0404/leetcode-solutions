@@ -990,5 +990,18 @@
       "Dynamic Programming",
       "Greedy"
     ]
+  },
+  {
+    "slug": "subsets",
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "subsets/",
+    "url": "https://leetcode.com/problems/subsets/",
+    "topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
   }
 ]
