@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 82 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 46 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 82 &nbsp;|&nbsp; 🟢 Easy: 24 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -244,7 +244,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
 | 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 3 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list/) | Medium | python3 |
+| 3 | [Merge Two Sorted Lists](merge-two-sorted-lists/) | Easy | python3 |
 | 4 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
 | 5 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
@@ -311,10 +311,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 2 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 3 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
-| 4 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 1 | [Merge Two Sorted Lists](merge-two-sorted-lists/) | Easy | python3 |
+| 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 5 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Simulation
 
@@ -397,9 +398,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 4 | [Next Permutation](next-permutation/) | Medium | python3 |
 | 5 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 6 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list/) | Medium | python3 |
-| 7 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 8 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 6 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
