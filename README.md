@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 82 &nbsp;|&nbsp; 🟢 Easy: 24 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 81 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -244,9 +244,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
 | 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 3 | [Merge Two Sorted Lists](merge-two-sorted-lists/) | Easy | python3 |
-| 4 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 5 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
@@ -311,11 +310,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Merge Two Sorted Lists](merge-two-sorted-lists/) | Easy | python3 |
-| 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
-| 5 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 1 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 2 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 3 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 4 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Simulation
 
