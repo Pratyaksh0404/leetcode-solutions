@@ -1056,5 +1056,18 @@
       "Linked List",
       "Recursion"
     ]
+  },
+  {
+    "slug": "rotate-image",
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "rotate-image/",
+    "url": "https://leetcode.com/problems/rotate-image/",
+    "topics": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
   }
 ]
