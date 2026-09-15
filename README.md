@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 82 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 83 &nbsp;|&nbsp; 🟢 Easy: 24 &nbsp;|&nbsp; 🟡 Medium: 45 &nbsp;|&nbsp; 🔴 Hard: 14
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -191,6 +191,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 2 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
+## Floyd's Cycle Finding Algorithm
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+
 ## Geometry
 
 | # | My Solution | Difficulty | Language |
@@ -217,14 +223,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [First Missing Positive](first-missing-positive/) | Hard | python3 |
 | 3 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
 | 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 6 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 7 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 8 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 9 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 10 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 11 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 12 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 5 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 7 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 8 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 10 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 11 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 12 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 13 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -245,9 +252,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
-| 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 2 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 3 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 4 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 5 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
@@ -395,11 +403,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 3 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 4 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 5 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 6 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 3 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 4 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 5 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 6 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 7 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 8 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
