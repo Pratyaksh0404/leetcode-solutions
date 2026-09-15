@@ -1018,5 +1018,17 @@
       "Depth-First Search",
       "Matrix"
     ]
+  },
+  {
+    "slug": "remove-nth-node-from-end-of-list",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "remove-nth-node-from-end-of-list/",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ]
   }
 ]
