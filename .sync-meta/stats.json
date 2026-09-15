@@ -1046,16 +1046,15 @@
     ]
   },
   {
-    "slug": "intersection-of-two-linked-lists",
-    "title": "Intersection of Two Linked Lists",
+    "slug": "reverse-linked-list",
+    "title": "Reverse Linked List",
     "difficulty": "Easy",
     "language": "python3",
-    "path": "intersection-of-two-linked-lists/",
-    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "path": "reverse-linked-list/",
+    "url": "https://leetcode.com/problems/reverse-linked-list/",
     "topics": [
-      "Hash Table",
       "Linked List",
-      "Two Pointers"
+      "Recursion"
     ]
   }
 ]
