@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 78 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 12
+**Total solved:** 79 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -172,9 +172,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
 | 4 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 5 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
-| 6 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 7 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 8 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 7 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 8 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 9 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Enumeration
 
@@ -197,8 +198,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 5 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 6 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 5 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 6 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -350,13 +352,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
 | 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 7 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 8 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 10 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 11 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 12 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 13 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 8 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 9 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 11 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 12 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 13 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 14 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Ternary Search
 
@@ -382,10 +385,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [4Sum](4sum/) | Medium | python3 |
 | 2 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 3 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 4 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 5 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 6 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 3 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 4 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 5 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 6 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
