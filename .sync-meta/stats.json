@@ -976,5 +976,19 @@
       "String",
       "Backtracking"
     ]
+  },
+  {
+    "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "maximum-number-of-non-overlapping-palindrome-substrings/",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Greedy"
+    ]
   }
 ]
