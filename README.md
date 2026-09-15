@@ -50,11 +50,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 34 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 35 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
 | 36 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 37 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 38 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 39 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 40 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 41 | [Spiral Matrix](spiral-matrix/) | Medium | python3 |
+| 37 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 38 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 39 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 40 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 41 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 42 | [Subsets](subsets/) | Medium | python3 |
 | 43 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
 | 44 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
@@ -229,10 +229,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 8 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 10 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 11 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 12 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 13 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 10 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 11 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 12 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 13 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 14 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -290,7 +291,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Image Overlap](image-overlap/) | Medium | python3 |
 | 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 4 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 5 | [Spiral Matrix](spiral-matrix/) | Medium | python3 |
+| 5 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 6 | [Word Search](word-search/) | Medium | python3 |
 
 ## Merge Sort
@@ -334,7 +335,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 2 | [Spiral Matrix](spiral-matrix/) | Medium | python3 |
 
 ## Sliding Window
 
