@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 79 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 43 &nbsp;|&nbsp; 🔴 Hard: 13
+**Total solved:** 80 &nbsp;|&nbsp; 🟢 Easy: 23 &nbsp;|&nbsp; 🟡 Medium: 44 &nbsp;|&nbsp; 🔴 Hard: 13
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -53,9 +53,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 37 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
 | 38 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 | 39 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 40 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 41 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 42 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 40 | [Subsets](subsets/) | Medium | python3 |
+| 41 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 42 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 43 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Backtracking
 
@@ -68,6 +69,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [N-Queens](n-queens/) | Hard | python3 |
 | 6 | [Permutations](permutations/) | Medium | python3 |
 | 7 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 8 | [Subsets](subsets/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -121,6 +123,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Gray Code](gray-code/) | Medium | python3 |
 | 3 | [Hamming Distance](hamming-distance/) | Easy | python3 |
 | 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 5 | [Subsets](subsets/) | Medium | python3 |
 
 ## Breadth-First Search
 
