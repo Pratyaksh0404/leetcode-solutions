@@ -1018,5 +1018,17 @@
       "Depth-First Search",
       "Matrix"
     ]
+  },
+  {
+    "slug": "first-missing-positive",
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "first-missing-positive/",
+    "url": "https://leetcode.com/problems/first-missing-positive/",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
