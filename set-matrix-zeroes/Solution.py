@@ -1,13 +1,18 @@
 class Solution:
-    def setZeroes(self, matrix: List[List[int]]) -> None:
-        rows, cols = len(matrix), len(matrix[0])
-        cells = set()
+    def setZeroes(self, mat: List[List[int]]) -> None:
+        rows, cols = len(mat), len(mat[0])
+        zr = set()
+        zc = set()
+        
         for r in range(rows):
             for c in range(cols):
-                if matrix[r][c] == 0:
-                    cells.add((r, c))
+                if mat[r][c] == 0:
+                    zr.add(r)
+                    zc.add(c)
         
-        for r, c in cells:
-            matrix[r] = [0] * cols
-            for row in matrix:
-                row[c] = 0
+        for r in zr:
+            mat[r] = [0] * cols
+            
+        for c in zc:
+            for r in range(rows):
+                mat[r][c] = 0
