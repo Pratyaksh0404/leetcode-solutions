@@ -1020,15 +1020,15 @@
     ]
   },
   {
-    "slug": "remove-nth-node-from-end-of-list",
-    "title": "Remove Nth Node From End of List",
-    "difficulty": "Medium",
+    "slug": "merge-two-sorted-lists",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
     "language": "python3",
-    "path": "remove-nth-node-from-end-of-list/",
-    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "path": "merge-two-sorted-lists/",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
     "topics": [
       "Linked List",
-      "Two Pointers"
+      "Recursion"
     ]
   }
 ]
