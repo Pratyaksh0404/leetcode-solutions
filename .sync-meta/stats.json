@@ -1058,16 +1058,16 @@
     ]
   },
   {
-    "slug": "rotate-image",
-    "title": "Rotate Image",
+    "slug": "spiral-matrix",
+    "title": "Spiral Matrix",
     "difficulty": "Medium",
     "language": "python3",
-    "path": "rotate-image/",
-    "url": "https://leetcode.com/problems/rotate-image/",
+    "path": "spiral-matrix/",
+    "url": "https://leetcode.com/problems/spiral-matrix/",
     "topics": [
       "Array",
-      "Math",
-      "Matrix"
+      "Matrix",
+      "Simulation"
     ]
   }
 ]
