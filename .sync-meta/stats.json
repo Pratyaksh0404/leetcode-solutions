@@ -1018,17 +1018,5 @@
       "Depth-First Search",
       "Matrix"
     ]
-  },
-  {
-    "slug": "merge-two-sorted-lists",
-    "title": "Merge Two Sorted Lists",
-    "difficulty": "Easy",
-    "language": "python3",
-    "path": "merge-two-sorted-lists/",
-    "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
-    "topics": [
-      "Linked List",
-      "Recursion"
-    ]
   }
 ]
