@@ -1083,5 +1083,16 @@
       "Combinatorics",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "factorial-trailing-zeroes",
+    "title": "Factorial Trailing Zeroes",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "factorial-trailing-zeroes/",
+    "url": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+    "topics": [
+      "Math"
+    ]
   }
 ]
