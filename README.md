@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 92 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 93 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 15
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -37,31 +37,32 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 21 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
 | 22 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
 | 23 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 24 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 25 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 26 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 27 | [N-Queens](n-queens/) | Hard | python3 |
-| 28 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 29 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 30 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
-| 31 | [Permutations](permutations/) | Medium | python3 |
-| 32 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 33 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 34 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 35 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 36 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 37 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 38 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 39 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 40 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 41 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 42 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 43 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 44 | [Subsets](subsets/) | Medium | python3 |
-| 45 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 46 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 47 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 48 | [Word Search](word-search/) | Medium | python3 |
+| 24 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 25 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 26 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 27 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 28 | [N-Queens](n-queens/) | Hard | python3 |
+| 29 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 30 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 31 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
+| 32 | [Permutations](permutations/) | Medium | python3 |
+| 33 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 34 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 35 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 36 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 37 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 38 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 39 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 40 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 41 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 42 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 43 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 44 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 45 | [Subsets](subsets/) | Medium | python3 |
+| 46 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 47 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 48 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 49 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -201,6 +202,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 2 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
+## Euclidean Algorithm
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+
 ## Floyd's Cycle Finding Algorithm
 
 | # | My Solution | Difficulty | Language |
@@ -212,16 +219,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
-| 2 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
-| 3 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 4 | [Rectangle Area](rectangle-area/) | Medium | python3 |
-| 5 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 2 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 3 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 4 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 5 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 6 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
 
 ## Greatest Common Divisor
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 1 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 2 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
 
 ## Greedy
 
@@ -245,14 +254,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 5 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 7 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 8 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 9 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 10 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 11 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 12 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 13 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 14 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 7 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 8 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 9 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 11 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 12 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 13 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 14 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 15 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -306,14 +316,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
 | 9 | [Gray Code](gray-code/) | Medium | python3 |
 | 10 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
-| 11 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
-| 12 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 13 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 14 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 15 | [Rectangle Area](rectangle-area/) | Medium | python3 |
-| 16 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 17 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 18 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 11 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 12 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 13 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 14 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 15 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 16 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 17 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 18 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 19 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
