@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 91 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 50 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 92 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 14
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -214,7 +214,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
 | 2 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
 | 3 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 4 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 4 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 5 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
 
 ## Greatest Common Divisor
 
@@ -309,9 +310,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
 | 13 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
 | 14 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 15 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 16 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 17 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 15 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 16 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 17 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 18 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
