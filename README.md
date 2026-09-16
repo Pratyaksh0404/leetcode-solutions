@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 88 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 49 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 89 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 50 &nbsp;|&nbsp; 🔴 Hard: 14
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -209,7 +209,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 1 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 2 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+
+## Greatest Common Divisor
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
 
 ## Greedy
 
@@ -256,6 +263,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [First Bad Version](first-bad-version/) | Easy | python3 |
 | 2 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 
+## Least Common Multiple
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+
 ## Linked List
 
 | # | My Solution | Difficulty | Language |
@@ -287,11 +300,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
 | 8 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
 | 9 | [Gray Code](gray-code/) | Medium | python3 |
-| 10 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 11 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 12 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 13 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 14 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 10 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 11 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 12 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 13 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 14 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 15 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -315,6 +329,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
+| 2 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
 
 ## Persistent Data Structure
 
