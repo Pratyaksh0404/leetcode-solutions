@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 85 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 46 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 86 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 47 &nbsp;|&nbsp; 🔴 Hard: 14
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -136,6 +136,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 2 | [Word Ladder](word-ladder/) | Hard | python3 |
 
+## Combinatorics
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+
 ## Counting
 
 | # | My Solution | Difficulty | Language |
@@ -182,8 +188,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
 | 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 7 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 8 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 9 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 8 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 9 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 10 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Enumeration
 
@@ -278,10 +285,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
 | 6 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
 | 7 | [Gray Code](gray-code/) | Medium | python3 |
-| 8 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 9 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 11 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 8 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 9 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 10 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 11 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -310,9 +318,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 2 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 3 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 1 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 2 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 3 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 4 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 
 ## Randomized
 
