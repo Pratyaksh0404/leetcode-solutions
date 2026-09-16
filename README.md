@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 93 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 51 &nbsp;|&nbsp; 🔴 Hard: 15
+**Total solved:** 94 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 52 &nbsp;|&nbsp; 🔴 Hard: 15
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -218,12 +218,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
-| 2 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 3 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
-| 4 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 5 | [Rectangle Area](rectangle-area/) | Medium | python3 |
-| 6 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 1 | [Circle and Rectangle Overlapping](circle-and-rectangle-overlapping/) | Medium | python3 |
+| 2 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
+| 3 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 4 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 5 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 6 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 7 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
 
 ## Greatest Common Divisor
 
@@ -307,24 +308,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Arranging Coins](arranging-coins/) | Easy | python3 |
-| 2 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
-| 3 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
-| 4 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
-| 5 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
-| 6 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
-| 7 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 8 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
-| 9 | [Gray Code](gray-code/) | Medium | python3 |
-| 10 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
-| 11 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 12 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
-| 13 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 14 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 15 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 16 | [Rectangle Area](rectangle-area/) | Medium | python3 |
-| 17 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 18 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 19 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 2 | [Circle and Rectangle Overlapping](circle-and-rectangle-overlapping/) | Medium | python3 |
+| 3 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
+| 4 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
+| 5 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
+| 6 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
+| 7 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
+| 8 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 9 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
+| 10 | [Gray Code](gray-code/) | Medium | python3 |
+| 11 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
+| 12 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 13 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 14 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 15 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 16 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 17 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 18 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 19 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 20 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
