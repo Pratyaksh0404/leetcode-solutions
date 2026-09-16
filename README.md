@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 87 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 48 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 88 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 49 &nbsp;|&nbsp; 🔴 Hard: 14
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -279,18 +279,19 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Arranging Coins](arranging-coins/) | Easy | python3 |
-| 2 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
-| 3 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
-| 4 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
-| 5 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
-| 6 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 7 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
-| 8 | [Gray Code](gray-code/) | Medium | python3 |
-| 9 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 10 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 11 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 12 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 13 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 2 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
+| 3 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
+| 4 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
+| 5 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
+| 6 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
+| 7 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
+| 8 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
+| 9 | [Gray Code](gray-code/) | Medium | python3 |
+| 10 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 11 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 12 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 13 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 14 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -309,6 +310,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 
+## Number Theory
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
+
 ## Persistent Data Structure
 
 | # | My Solution | Difficulty | Language |
@@ -323,6 +330,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
 | 3 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
 | 4 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+
+## Primality Test
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
+
+## Prime Number Sieve
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
 
 ## Randomized
 
@@ -339,6 +358,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
 | 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 | 5 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+
+## Sieve Theory
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
 
 ## Simulation
 
