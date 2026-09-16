@@ -1152,5 +1152,17 @@
       "Geometry",
       "Polygons"
     ]
+  },
+  {
+    "slug": "rectangle-area",
+    "title": "Rectangle Area",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "rectangle-area/",
+    "url": "https://leetcode.com/problems/rectangle-area/",
+    "topics": [
+      "Math",
+      "Geometry"
+    ]
   }
 ]
