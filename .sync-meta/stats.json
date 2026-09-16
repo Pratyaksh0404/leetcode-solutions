@@ -1124,5 +1124,19 @@
       "Least Common Multiple",
       "Greatest Common Divisor"
     ]
+  },
+  {
+    "slug": "projection-area-of-3d-shapes",
+    "title": "Projection Area of 3D Shapes",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "projection-area-of-3d-shapes/",
+    "url": "https://leetcode.com/problems/projection-area-of-3d-shapes/",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Matrix"
+    ]
   }
 ]
