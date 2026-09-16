@@ -1138,5 +1138,19 @@
       "Geometry",
       "Matrix"
     ]
+  },
+  {
+    "slug": "largest-triangle-area",
+    "title": "Largest Triangle Area",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "largest-triangle-area/",
+    "url": "https://leetcode.com/problems/largest-triangle-area/",
+    "topics": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Polygons"
+    ]
   }
 ]
