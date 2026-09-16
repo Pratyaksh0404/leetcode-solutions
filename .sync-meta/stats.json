@@ -1109,5 +1109,20 @@
       "Sieve Theory",
       "Prime Number Sieve"
     ]
+  },
+  {
+    "slug": "mirror-reflection",
+    "title": "Mirror Reflection",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "mirror-reflection/",
+    "url": "https://leetcode.com/problems/mirror-reflection/",
+    "topics": [
+      "Math",
+      "Geometry",
+      "Number Theory",
+      "Least Common Multiple",
+      "Greatest Common Divisor"
+    ]
   }
 ]
