@@ -1069,5 +1069,19 @@
       "Hash Table",
       "Matrix"
     ]
+  },
+  {
+    "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+    "title": "Number of Sets of K Non-Overlapping Line Segments",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "number-of-sets-of-k-non-overlapping-line-segments/",
+    "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics",
+      "Prefix Sum"
+    ]
   }
 ]
