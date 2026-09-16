@@ -1094,5 +1094,20 @@
     "topics": [
       "Math"
     ]
+  },
+  {
+    "slug": "closest-prime-numbers-in-range",
+    "title": "Closest Prime Numbers in Range",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "closest-prime-numbers-in-range/",
+    "url": "https://leetcode.com/problems/closest-prime-numbers-in-range/",
+    "topics": [
+      "Math",
+      "Number Theory",
+      "Primality Test",
+      "Sieve Theory",
+      "Prime Number Sieve"
+    ]
   }
 ]
