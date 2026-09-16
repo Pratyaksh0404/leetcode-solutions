@@ -1164,5 +1164,21 @@
       "Math",
       "Geometry"
     ]
+  },
+  {
+    "slug": "max-points-on-a-line",
+    "title": "Max Points on a Line",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "max-points-on-a-line/",
+    "url": "https://leetcode.com/problems/max-points-on-a-line/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor"
+    ]
   }
 ]
