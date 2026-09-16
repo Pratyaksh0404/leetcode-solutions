@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 86 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 47 &nbsp;|&nbsp; 🔴 Hard: 14
+**Total solved:** 87 &nbsp;|&nbsp; 🟢 Easy: 25 &nbsp;|&nbsp; 🟡 Medium: 48 &nbsp;|&nbsp; 🔴 Hard: 14
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -284,12 +284,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Count Commas in Range](count-commas-in-range/) | Easy | python3 |
 | 5 | [Count Commas in Range II](count-commas-in-range-ii/) | Medium | python3 |
 | 6 | [Divide Two Integers](divide-two-integers/) | Medium | python3 |
-| 7 | [Gray Code](gray-code/) | Medium | python3 |
-| 8 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 9 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 10 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 11 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 12 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 7 | [Factorial Trailing Zeroes](factorial-trailing-zeroes/) | Medium | python3 |
+| 8 | [Gray Code](gray-code/) | Medium | python3 |
+| 9 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 10 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 11 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 12 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 13 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
