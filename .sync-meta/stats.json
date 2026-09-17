@@ -1220,5 +1220,20 @@
       "Dynamic Programming",
       "Backtracking"
     ]
+  },
+  {
+    "slug": "binary-tree-maximum-path-sum",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "binary-tree-maximum-path-sum/",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
   }
 ]
