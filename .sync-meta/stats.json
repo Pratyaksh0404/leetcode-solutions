@@ -1247,5 +1247,18 @@
       "Array",
       "Two Pointers"
     ]
+  },
+  {
+    "slug": "3sum",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "3sum/",
+    "url": "https://leetcode.com/problems/3sum/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
   }
 ]
