@@ -1192,5 +1192,20 @@
       "Math",
       "Geometry"
     ]
+  },
+  {
+    "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+    "url": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
   }
 ]
