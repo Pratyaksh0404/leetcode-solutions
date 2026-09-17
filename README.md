@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 95 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 53 &nbsp;|&nbsp; 🔴 Hard: 15
+**Total solved:** 96 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 15
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -74,10 +74,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Gray Code](gray-code/) | Medium | python3 |
 | 4 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
 | 5 | [N-Queens](n-queens/) | Hard | python3 |
-| 6 | [Permutations](permutations/) | Medium | python3 |
-| 7 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 8 | [Subsets](subsets/) | Medium | python3 |
-| 9 | [Word Search](word-search/) | Medium | python3 |
+| 6 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 7 | [Permutations](permutations/) | Medium | python3 |
+| 8 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 9 | [Subsets](subsets/) | Medium | python3 |
+| 10 | [Word Search](word-search/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -195,8 +196,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 8 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
 | 9 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 10 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 11 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 10 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 11 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 12 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Enumeration
 
@@ -458,14 +460,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 8 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 9 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 10 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 11 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 12 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 13 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 14 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 15 | [Word Search](word-search/) | Medium | python3 |
+| 8 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 9 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 10 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 11 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 12 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 13 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 14 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 15 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 16 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
