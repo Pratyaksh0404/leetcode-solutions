@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 96 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 15
+**Total solved:** 97 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 16
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -123,7 +123,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+| 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
+| 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -166,8 +167,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
-| 2 | [Word Search](word-search/) | Medium | python3 |
+| 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
+| 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+| 3 | [Word Search](word-search/) | Medium | python3 |
 
 ## Design
 
@@ -183,22 +185,29 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 
+## DP on Trees
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
+
 ## Dynamic Programming
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
-| 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
-| 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 4 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
-| 5 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 6 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
-| 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 8 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 9 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 10 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 11 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 12 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
+| 2 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
+| 3 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
+| 4 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 5 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
+| 6 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 7 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
+| 8 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 9 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 10 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 11 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 12 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 13 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 
 ## Enumeration
 
@@ -486,7 +495,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+| 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
+| 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 
 ## Two Pointers
 
