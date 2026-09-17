@@ -1207,5 +1207,18 @@
       "Dynamic Programming",
       "Sliding Window"
     ]
+  },
+  {
+    "slug": "palindrome-partitioning",
+    "title": "Palindrome Partitioning",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "palindrome-partitioning/",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
   }
 ]
