@@ -1235,5 +1235,17 @@
       "Binary Tree",
       "DP on Trees"
     ]
+  },
+  {
+    "slug": "move-zeroes",
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "move-zeroes/",
+    "url": "https://leetcode.com/problems/move-zeroes/",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ]
   }
 ]
