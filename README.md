@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 97 &nbsp;|&nbsp; 🟢 Easy: 27 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 16
+**Total solved:** 98 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 54 &nbsp;|&nbsp; 🔴 Hard: 16
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -42,28 +42,29 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 26 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
 | 27 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 28 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 29 | [N-Queens](n-queens/) | Hard | python3 |
-| 30 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 31 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 32 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
-| 33 | [Permutations](permutations/) | Medium | python3 |
-| 34 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 35 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 36 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 37 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 38 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 39 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 40 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 41 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 42 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 43 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 44 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 45 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 46 | [Subsets](subsets/) | Medium | python3 |
-| 47 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 48 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 49 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 50 | [Word Search](word-search/) | Medium | python3 |
+| 29 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 30 | [N-Queens](n-queens/) | Hard | python3 |
+| 31 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 32 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 33 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
+| 34 | [Permutations](permutations/) | Medium | python3 |
+| 35 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 36 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 37 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 38 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 39 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 40 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 41 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 42 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 43 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 44 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 45 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 46 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 47 | [Subsets](subsets/) | Medium | python3 |
+| 48 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 49 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 50 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 51 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -506,10 +507,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
 | 3 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 4 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 5 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 6 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 7 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 8 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 5 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 6 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 7 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 8 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 9 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
