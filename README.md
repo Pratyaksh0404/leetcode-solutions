@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 99 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 16
+**Total solved:** 100 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -258,8 +258,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 5 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 6 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 7 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 6 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 7 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 8 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -273,14 +274,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 7 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 8 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 9 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 10 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 11 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 12 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 13 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 14 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 15 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 16 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 9 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 10 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 11 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 12 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 13 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 14 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 15 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 16 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 17 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -448,12 +450,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
 | 4 | [Find Right Interval](find-right-interval/) | Medium | python3 |
 | 5 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 6 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 7 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 8 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 9 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 10 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 6 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 7 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 8 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 9 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 10 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 11 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 12 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
@@ -472,15 +475,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 8 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 9 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 10 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 11 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 12 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 13 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 14 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 15 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 16 | [Word Search](word-search/) | Medium | python3 |
+| 8 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 9 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 10 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 11 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 12 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 13 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 14 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 15 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 16 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 17 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
