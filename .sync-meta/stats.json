@@ -1260,5 +1260,19 @@
       "Two Pointers",
       "Sorting"
     ]
+  },
+  {
+    "slug": "maximum-number-of-non-overlapping-substrings",
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "maximum-number-of-non-overlapping-substrings/",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
   }
 ]
