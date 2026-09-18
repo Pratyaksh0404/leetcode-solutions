@@ -1284,5 +1284,19 @@
       "Greedy",
       "Sorting"
     ]
+  },
+  {
+    "slug": "validate-binary-search-tree",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "validate-binary-search-tree/",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
   }
 ]
