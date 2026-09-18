@@ -949,7 +949,14 @@
     "path": "count-shadow-pairs-ii/",
     "url": "https://leetcode.com/problems/count-shadow-pairs-ii/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Stack",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting",
+      "Monotonic Stack"
     ]
   },
   {
