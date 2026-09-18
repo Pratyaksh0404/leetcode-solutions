@@ -929,7 +929,8 @@
     "path": "minimum-operations-to-make-every-element-palindromic/",
     "url": "https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Binary Search"
     ]
   },
   {
