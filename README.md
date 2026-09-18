@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 100 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 55 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 101 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 56 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -132,12 +132,19 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 29 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 | 30 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
+## Binary Search Tree
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+
 ## Binary Tree
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+| 3 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -182,7 +189,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
-| 3 | [Word Search](word-search/) | Medium | python3 |
+| 3 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 4 | [Word Search](word-search/) | Medium | python3 |
 
 ## Design
 
@@ -532,6 +540,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
+| 3 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Two Pointers
 
