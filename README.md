@@ -22,8 +22,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
 | 7 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
 | 8 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 9 | [Count Shadow Pairs I](count-shadow-pairs-i/) | Medium | python3 |
-| 10 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 9 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 10 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
 | 11 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 12 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
 | 13 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
@@ -362,12 +362,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 2 | [Image Overlap](image-overlap/) | Medium | python3 |
-| 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 4 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 5 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 6 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 7 | [Word Search](word-search/) | Medium | python3 |
+| 2 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
+| 3 | [Image Overlap](image-overlap/) | Medium | python3 |
+| 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 5 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 6 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 7 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 8 | [Word Search](word-search/) | Medium | python3 |
 
 ## Merge Sort
 
@@ -379,8 +380,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Shadow Pairs I](count-shadow-pairs-i/) | Medium | python3 |
-| 2 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 
 ## Number Theory
 
@@ -454,7 +454,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 1 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
+| 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 
 ## Sliding Window
 
@@ -486,9 +487,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Shadow Pairs I](count-shadow-pairs-i/) | Medium | python3 |
-| 2 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 3 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 2 | [Simplify Path](simplify-path/) | Medium | python3 |
 
 ## String
 
@@ -557,6 +557,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
-| 2 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
+| 2 | [Count Shadow Pairs I](count-shadow-pairs-i/) | Medium | python3 |
 | 3 | [Minimum Operations to Make Every Element Palindromic](minimum-operations-to-make-every-element-palindromic/) | Medium | python3 |
 | 4 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
