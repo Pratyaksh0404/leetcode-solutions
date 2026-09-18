@@ -916,7 +916,9 @@
     "path": "cyclically-shift-rows-and-columns/",
     "url": "https://leetcode.com/problems/cyclically-shift-rows-and-columns/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Matrix",
+      "Simulation"
     ]
   },
   {
@@ -938,9 +940,7 @@
     "path": "count-shadow-pairs-i/",
     "url": "https://leetcode.com/problems/count-shadow-pairs-i/",
     "topics": [
-      "Array",
-      "Stack",
-      "Monotonic Stack"
+      "Uncategorized"
     ]
   },
   {
