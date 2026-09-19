@@ -1342,5 +1342,18 @@
       "Counting",
       "Boyer–Moore Majority Vote Algorithm"
     ]
+  },
+  {
+    "slug": "rotate-array",
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "rotate-array/",
+    "url": "https://leetcode.com/problems/rotate-array/",
+    "topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
   }
 ]
