@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 105 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 59 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 106 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 60 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -54,24 +54,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 38 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
 | 39 | [Permutations](permutations/) | Medium | python3 |
 | 40 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 41 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 42 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 43 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 44 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 45 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 46 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 47 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 48 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 49 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 50 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 51 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 52 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 53 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 54 | [Subsets](subsets/) | Medium | python3 |
-| 55 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 56 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 57 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 58 | [Word Search](word-search/) | Medium | python3 |
+| 41 | [Product of Array Except Self](product-of-array-except-self/) | Medium | python3 |
+| 42 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 43 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 44 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 45 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 46 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 47 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 48 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 49 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 50 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 51 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 52 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 53 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 54 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 55 | [Subsets](subsets/) | Medium | python3 |
+| 56 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 57 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 58 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 59 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -437,9 +438,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 2 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 3 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 4 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 2 | [Product of Array Except Self](product-of-array-except-self/) | Medium | python3 |
+| 3 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 4 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 5 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 
 ## Primality Test
 
