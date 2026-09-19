@@ -1328,15 +1328,19 @@
     ]
   },
   {
-    "slug": "single-number",
-    "title": "Single Number",
+    "slug": "majority-element",
+    "title": "Majority Element",
     "difficulty": "Easy",
     "language": "python3",
-    "path": "single-number/",
-    "url": "https://leetcode.com/problems/single-number/",
+    "path": "majority-element/",
+    "url": "https://leetcode.com/problems/majority-element/",
     "topics": [
       "Array",
-      "Bit Manipulation"
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting",
+      "Boyer–Moore Majority Vote Algorithm"
     ]
   }
 ]
