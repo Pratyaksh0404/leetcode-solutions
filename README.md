@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 103 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 58 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 104 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 58 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -61,15 +61,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 45 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 46 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 47 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 48 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 49 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 50 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 51 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 52 | [Subsets](subsets/) | Medium | python3 |
-| 53 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 54 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 55 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 56 | [Word Search](word-search/) | Medium | python3 |
+| 48 | [Single Number](single-number/) | Easy | python3 |
+| 49 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 50 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 51 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 52 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 53 | [Subsets](subsets/) | Medium | python3 |
+| 54 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 55 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 56 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 57 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -156,7 +157,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Gray Code](gray-code/) | Medium | python3 |
 | 3 | [Hamming Distance](hamming-distance/) | Easy | python3 |
 | 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 5 | [Subsets](subsets/) | Medium | python3 |
+| 5 | [Single Number](single-number/) | Easy | python3 |
+| 6 | [Subsets](subsets/) | Medium | python3 |
 
 ## Breadth-First Search
 
