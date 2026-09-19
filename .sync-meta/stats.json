@@ -1367,5 +1367,20 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "two-letter-card-game",
+    "title": "Two-Letter Card Game",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "two-letter-card-game/",
+    "url": "https://leetcode.com/problems/two-letter-card-game/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting",
+      "Enumeration"
+    ]
   }
 ]
