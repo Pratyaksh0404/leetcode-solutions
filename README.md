@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 106 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 60 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 107 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -70,9 +70,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 54 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 55 | [Subsets](subsets/) | Medium | python3 |
 | 56 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 57 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 58 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 59 | [Word Search](word-search/) | Medium | python3 |
+| 57 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 58 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 59 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 60 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -194,6 +195,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 2 | [Majority Element](majority-element/) | Easy | python3 |
 | 3 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 4 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 
 ## Database
 
@@ -256,7 +258,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 2 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 2 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 3 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Euclidean Algorithm
 
@@ -322,8 +325,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 15 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 16 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 17 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 18 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 17 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 18 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 19 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -550,8 +554,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
 | 14 | [Simplify Path](simplify-path/) | Medium | python3 |
 | 15 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 16 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 17 | [Word Search](word-search/) | Medium | python3 |
+| 16 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 17 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 18 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
