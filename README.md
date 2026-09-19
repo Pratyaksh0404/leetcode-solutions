@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 102 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 57 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 103 &nbsp;|&nbsp; 🟢 Easy: 28 &nbsp;|&nbsp; 🟡 Medium: 58 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -64,11 +64,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 48 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
 | 49 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 | 50 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 51 | [Subsets](subsets/) | Medium | python3 |
-| 52 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 53 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 54 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 55 | [Word Search](word-search/) | Medium | python3 |
+| 51 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 52 | [Subsets](subsets/) | Medium | python3 |
+| 53 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 54 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 55 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 56 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -164,6 +165,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Binary Tree Level Order Traversal](binary-tree-level-order-traversal/) | Medium | python3 |
 | 2 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 3 | [Word Ladder](word-ladder/) | Hard | python3 |
+
+## Bubble Sort
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Sort Colors](sort-colors/) | Medium | python3 |
 
 ## Combinatorics
 
@@ -434,6 +441,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
 
+## Quicksort
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Sort Colors](sort-colors/) | Medium | python3 |
+
 ## Randomized
 
 | # | My Solution | Difficulty | Language |
@@ -492,8 +505,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
 | 10 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 11 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 12 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 13 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 12 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 13 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 14 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
@@ -557,8 +571,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Move Zeroes](move-zeroes/) | Easy | python3 |
 | 7 | [Next Permutation](next-permutation/) | Medium | python3 |
 | 8 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 9 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 10 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 9 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 10 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
