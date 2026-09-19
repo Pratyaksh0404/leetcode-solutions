@@ -1326,5 +1326,17 @@
       "Quicksort",
       "Bubble Sort"
     ]
+  },
+  {
+    "slug": "single-number",
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "single-number/",
+    "url": "https://leetcode.com/problems/single-number/",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ]
   }
 ]
