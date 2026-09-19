@@ -1298,5 +1298,18 @@
       "Binary Search Tree",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "binary-tree-level-order-traversal",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "binary-tree-level-order-traversal/",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 ]
