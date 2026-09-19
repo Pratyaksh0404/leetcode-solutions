@@ -1311,5 +1311,20 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "sort-colors",
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "sort-colors/",
+    "url": "https://leetcode.com/problems/sort-colors/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Quicksort",
+      "Bubble Sort"
+    ]
   }
 ]
