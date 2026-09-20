@@ -1416,5 +1416,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "lexicographically-largest-power-array",
+    "title": "Lexicographically Largest Power Array",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "lexicographically-largest-power-array/",
+    "url": "https://leetcode.com/problems/lexicographically-largest-power-array/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
