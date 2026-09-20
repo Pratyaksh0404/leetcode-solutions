@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 111 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 62 &nbsp;|&nbsp; 🔴 Hard: 18
+**Total solved:** 112 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 63 &nbsp;|&nbsp; 🔴 Hard: 18
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -611,6 +611,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
 | 2 | [Count Shadow Pairs I](count-shadow-pairs-i/) | Medium | python3 |
 | 3 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
-| 4 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 5 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
-| 6 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 4 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
+| 5 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 6 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
+| 7 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
