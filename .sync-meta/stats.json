@@ -1405,5 +1405,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "number-of-intersecting-interval-pairs-ii",
+    "title": "Number of Intersecting Interval Pairs II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "number-of-intersecting-interval-pairs-ii/",
+    "url": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
