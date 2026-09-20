@@ -1394,5 +1394,16 @@
       "String",
       "Simulation"
     ]
+  },
+  {
+    "slug": "number-of-intersecting-interval-pairs-i",
+    "title": "Number of Intersecting Interval Pairs I",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "number-of-intersecting-interval-pairs-i/",
+    "url": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
