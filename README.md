@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 107 &nbsp;|&nbsp; 🟢 Easy: 29 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 108 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -499,6 +499,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
 | 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 3 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
 
 ## Sliding Window
 
@@ -550,13 +551,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
 | 10 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 11 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 12 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 13 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 14 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 15 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 16 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 17 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 18 | [Word Search](word-search/) | Medium | python3 |
+| 12 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 13 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 14 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 15 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 16 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 17 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 18 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 19 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
