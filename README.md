@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 108 &nbsp;|&nbsp; 🟢 Easy: 30 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 17
+**Total solved:** 109 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 61 &nbsp;|&nbsp; 🔴 Hard: 17
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -610,4 +610,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Integers Appearing in a Single Block](count-integers-appearing-in-a-single-block/) | Easy | python3 |
 | 2 | [Count Shadow Pairs I](count-shadow-pairs-i/) | Medium | python3 |
-| 3 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 3 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 4 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
