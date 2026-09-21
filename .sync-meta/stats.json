@@ -1451,5 +1451,18 @@
       "Math",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "container-with-most-water",
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "container-with-most-water/",
+    "url": "https://leetcode.com/problems/container-with-most-water/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
   }
 ]
