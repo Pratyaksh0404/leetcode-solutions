@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 114 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 18
+**Total solved:** 115 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 66 &nbsp;|&nbsp; 🔴 Hard: 18
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -63,19 +63,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 47 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 48 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 49 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 50 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 51 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 52 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 53 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 54 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 55 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 56 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 57 | [Subsets](subsets/) | Medium | python3 |
-| 58 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 59 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 60 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 61 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 62 | [Word Search](word-search/) | Medium | python3 |
+| 50 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
+| 51 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 52 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 53 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 54 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 55 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 56 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 57 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 58 | [Subsets](subsets/) | Medium | python3 |
+| 59 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 60 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 61 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 62 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 63 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -131,13 +132,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 21 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
 | 22 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 23 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 24 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 25 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 26 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 27 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 28 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 29 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 30 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 24 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
+| 25 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 26 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 27 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 28 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 29 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 30 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 31 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Binary Search Tree
 
@@ -230,6 +232,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Majority Element](majority-element/) | Easy | python3 |
 | 3 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 4 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 5 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
 
 ## DP on Trees
 
@@ -408,8 +411,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 5 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
 | 6 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 7 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 8 | [Word Search](word-search/) | Medium | python3 |
+| 7 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
+| 8 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 9 | [Word Search](word-search/) | Medium | python3 |
 
 ## Merge Sort
 
