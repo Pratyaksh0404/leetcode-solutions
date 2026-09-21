@@ -1438,5 +1438,18 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "find-x-value-of-array-i",
+    "title": "Find X Value of Array I",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-x-value-of-array-i/",
+    "url": "https://leetcode.com/problems/find-x-value-of-array-i/",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
   }
 ]
