@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 113 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 64 &nbsp;|&nbsp; 🔴 Hard: 18
+**Total solved:** 114 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 65 &nbsp;|&nbsp; 🔴 Hard: 18
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -21,60 +21,61 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Combination Sum II](combination-sum-ii/) | Medium | python3 |
 | 6 | [Construct Uniform Parity Array I](construct-uniform-parity-array-i/) | Easy | python3 |
 | 7 | [Construct Uniform Parity Array II](construct-uniform-parity-array-ii/) | Medium | python3 |
-| 8 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
-| 9 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 10 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
-| 11 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 12 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
-| 13 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 14 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
-| 15 | [Find Right Interval](find-right-interval/) | Medium | python3 |
-| 16 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
-| 17 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
-| 18 | [Find X Value of Array I](find-x-value-of-array-i/) | Medium | python3 |
-| 19 | [First Missing Positive](first-missing-positive/) | Hard | python3 |
-| 20 | [H-Index II](h-index-ii/) | Medium | python3 |
-| 21 | [Image Overlap](image-overlap/) | Medium | python3 |
-| 22 | [Insert Interval](insert-interval/) | Medium | python3 |
-| 23 | [Jump Game](jump-game/) | Medium | python3 |
-| 24 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 25 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
-| 26 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
-| 27 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
-| 28 | [Majority Element](majority-element/) | Easy | python3 |
-| 29 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 30 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 31 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 32 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
-| 33 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 34 | [Minimum Operations to Make Every Element Palindromic](minimum-operations-to-make-every-element-palindromic/) | Medium | python3 |
-| 35 | [Move Zeroes](move-zeroes/) | Easy | python3 |
-| 36 | [N-Queens](n-queens/) | Hard | python3 |
-| 37 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 38 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 39 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
-| 40 | [Permutations](permutations/) | Medium | python3 |
-| 41 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 42 | [Product of Array Except Self](product-of-array-except-self/) | Medium | python3 |
-| 43 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 44 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 45 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 46 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 47 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 48 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 49 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 50 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 51 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 52 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 53 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 54 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 55 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 56 | [Subsets](subsets/) | Medium | python3 |
-| 57 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 58 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 59 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 60 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 61 | [Word Search](word-search/) | Medium | python3 |
+| 8 | [Container With Most Water](container-with-most-water/) | Medium | python3 |
+| 9 | [Count Negative Numbers in a Sorted Matrix](count-negative-numbers-in-a-sorted-matrix/) | Easy | python3 |
+| 10 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 11 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
+| 12 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 13 | [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) | Medium | python3 |
+| 14 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
+| 15 | [Find Minimum in Rotated Sorted Array II](find-minimum-in-rotated-sorted-array-ii/) | Hard | python3 |
+| 16 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 17 | [Find Smallest Letter Greater Than Target](find-smallest-letter-greater-than-target/) | Easy | python3 |
+| 18 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
+| 19 | [Find X Value of Array I](find-x-value-of-array-i/) | Medium | python3 |
+| 20 | [First Missing Positive](first-missing-positive/) | Hard | python3 |
+| 21 | [H-Index II](h-index-ii/) | Medium | python3 |
+| 22 | [Image Overlap](image-overlap/) | Medium | python3 |
+| 23 | [Insert Interval](insert-interval/) | Medium | python3 |
+| 24 | [Jump Game](jump-game/) | Medium | python3 |
+| 25 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 26 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
+| 27 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
+| 28 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
+| 29 | [Majority Element](majority-element/) | Easy | python3 |
+| 30 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 31 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 32 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 33 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
+| 34 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 35 | [Minimum Operations to Make Every Element Palindromic](minimum-operations-to-make-every-element-palindromic/) | Medium | python3 |
+| 36 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 37 | [N-Queens](n-queens/) | Hard | python3 |
+| 38 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 39 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 40 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
+| 41 | [Permutations](permutations/) | Medium | python3 |
+| 42 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 43 | [Product of Array Except Self](product-of-array-except-self/) | Medium | python3 |
+| 44 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 45 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 46 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 47 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 48 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 49 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 50 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 51 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 52 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 53 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 54 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 55 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 56 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 57 | [Subsets](subsets/) | Medium | python3 |
+| 58 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 59 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 60 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 61 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 62 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -298,14 +299,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 2 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 3 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 4 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 5 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 6 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 7 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 8 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 1 | [Container With Most Water](container-with-most-water/) | Medium | python3 |
+| 2 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
+| 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 7 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 8 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 9 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -590,16 +592,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [3Sum](3sum/) | Medium | python3 |
 | 2 | [4Sum](4sum/) | Medium | python3 |
-| 3 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 4 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 5 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 6 | [Move Zeroes](move-zeroes/) | Easy | python3 |
-| 7 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 8 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 9 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 10 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 11 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 12 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 3 | [Container With Most Water](container-with-most-water/) | Medium | python3 |
+| 4 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
+| 5 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 7 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 8 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 9 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 10 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 11 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 12 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 13 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
