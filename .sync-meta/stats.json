@@ -1491,5 +1491,20 @@
       "Math",
       "Segment Tree"
     ]
+  },
+  {
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
   }
 ]
