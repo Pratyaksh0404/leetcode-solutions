@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 117 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 67 &nbsp;|&nbsp; 🔴 Hard: 19
+**Total solved:** 118 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 68 &nbsp;|&nbsp; 🔴 Hard: 19
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -313,8 +313,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
 | 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 7 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 8 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 9 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 8 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 9 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 10 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -332,14 +333,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
 | 11 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 12 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 13 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 14 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 15 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 16 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 17 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 18 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 19 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 20 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 13 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 14 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 15 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 16 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 17 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 18 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 19 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 20 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 21 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -565,16 +567,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 8 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 9 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 10 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 11 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 12 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 13 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 14 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 15 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 16 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 17 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 18 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 19 | [Word Search](word-search/) | Medium | python3 |
+| 10 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 11 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 12 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 13 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 14 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 15 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 16 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 17 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 18 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 19 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 20 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
@@ -611,10 +614,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Move Zeroes](move-zeroes/) | Easy | python3 |
 | 8 | [Next Permutation](next-permutation/) | Medium | python3 |
 | 9 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 10 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 11 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 12 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 13 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 10 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 11 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 12 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 13 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 14 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
