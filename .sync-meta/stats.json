@@ -1506,5 +1506,19 @@
       "Tree",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "partition-labels",
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "partition-labels/",
+    "url": "https://leetcode.com/problems/partition-labels/",
+    "topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
   }
 ]
