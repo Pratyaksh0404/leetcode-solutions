@@ -1535,5 +1535,20 @@
       "Sliding Window",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "trapping-rain-water",
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "trapping-rain-water/",
+    "url": "https://leetcode.com/problems/trapping-rain-water/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
   }
 ]
