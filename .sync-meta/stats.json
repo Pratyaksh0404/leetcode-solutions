@@ -1550,5 +1550,19 @@
       "Stack",
       "Monotonic Stack"
     ]
+  },
+  {
+    "slug": "palindrome-linked-list",
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "palindrome-linked-list/",
+    "url": "https://leetcode.com/problems/palindrome-linked-list/",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
   }
 ]
