@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 120 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 20
+**Total solved:** 121 &nbsp;|&nbsp; 🟢 Easy: 32 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 20
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -375,9 +375,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
 | 2 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 3 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 4 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
-| 5 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 6 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 4 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 5 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
+| 6 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 7 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
@@ -499,11 +500,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 2 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
-| 3 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 4 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
-| 5 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 1 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 2 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 3 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
+| 4 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 5 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 6 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Segment Tree
 
@@ -560,8 +562,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 2 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 3 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 2 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 3 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 4 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
@@ -623,12 +626,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Move Zeroes](move-zeroes/) | Easy | python3 |
 | 8 | [Next Permutation](next-permutation/) | Medium | python3 |
 | 9 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 10 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 11 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 12 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 13 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 14 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 15 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 10 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 11 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 12 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 13 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 14 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 15 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 16 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
