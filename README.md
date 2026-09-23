@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 119 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 19
+**Total solved:** 120 &nbsp;|&nbsp; 🟢 Easy: 31 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 20
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -76,10 +76,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 60 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 61 | [Subsets](subsets/) | Medium | python3 |
 | 62 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 63 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 64 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 65 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 66 | [Word Search](word-search/) | Medium | python3 |
+| 63 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 64 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 65 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 66 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 67 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -264,6 +265,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
 | 13 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 14 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 15 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## Enumeration
 
@@ -437,6 +439,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 2 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## Number Theory
 
@@ -558,6 +561,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 2 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 3 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
@@ -623,7 +627,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 11 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 12 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 13 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 14 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 14 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 15 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
