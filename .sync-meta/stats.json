@@ -1633,5 +1633,21 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "find-the-duplicate-number",
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-the-duplicate-number/",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation",
+      "Pigeonhole Principle",
+      "Floyd's Cycle Finding Algorithm"
+    ]
   }
 ]
