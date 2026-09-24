@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 121 &nbsp;|&nbsp; 🟢 Easy: 32 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 20
+**Total solved:** 122 &nbsp;|&nbsp; 🟢 Easy: 33 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 20
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -70,17 +70,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 54 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 55 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 56 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 57 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 58 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 59 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 60 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 61 | [Subsets](subsets/) | Medium | python3 |
-| 62 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 63 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 64 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 65 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 66 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 67 | [Word Search](word-search/) | Medium | python3 |
+| 57 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
+| 58 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 59 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 60 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 61 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 62 | [Subsets](subsets/) | Medium | python3 |
+| 63 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 64 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 65 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 66 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 67 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 68 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -413,7 +414,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 20 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
 | 21 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 22 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 23 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 23 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
+| 24 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
