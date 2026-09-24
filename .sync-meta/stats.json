@@ -1576,5 +1576,20 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "slug": "flatten-binary-tree-to-linked-list",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "flatten-binary-tree-to-linked-list/",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
   }
 ]
