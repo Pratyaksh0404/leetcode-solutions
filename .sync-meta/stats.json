@@ -1564,5 +1564,17 @@
       "Stack",
       "Recursion"
     ]
+  },
+  {
+    "slug": "smallest-index-with-digit-sum-equal-to-index",
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "smallest-index-with-digit-sum-equal-to-index/",
+    "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+    "topics": [
+      "Array",
+      "Math"
+    ]
   }
 ]
