@@ -1619,5 +1619,19 @@
       "Binary Search Tree",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "invert-binary-tree",
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "invert-binary-tree/",
+    "url": "https://leetcode.com/problems/invert-binary-tree/",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 ]
