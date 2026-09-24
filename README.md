@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 124 &nbsp;|&nbsp; 🟢 Easy: 34 &nbsp;|&nbsp; 🟡 Medium: 70 &nbsp;|&nbsp; 🔴 Hard: 20
+**Total solved:** 125 &nbsp;|&nbsp; 🟢 Easy: 34 &nbsp;|&nbsp; 🟡 Medium: 71 &nbsp;|&nbsp; 🔴 Hard: 20
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -151,7 +151,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 1 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
+| 2 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Binary Tree
 
@@ -163,7 +164,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 | 5 | [Diameter of Binary Tree](diameter-of-binary-tree/) | Easy | python3 |
 | 6 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 7 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 7 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
+| 8 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -225,8 +227,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 | 3 | [Diameter of Binary Tree](diameter-of-binary-tree/) | Easy | python3 |
 | 4 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 5 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
-| 6 | [Word Search](word-search/) | Medium | python3 |
+| 5 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
+| 6 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 7 | [Word Search](word-search/) | Medium | python3 |
 
 ## Design
 
@@ -622,7 +625,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
 | 5 | [Diameter of Binary Tree](diameter-of-binary-tree/) | Easy | python3 |
 | 6 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 7 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 7 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
+| 8 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Two Pointers
 
