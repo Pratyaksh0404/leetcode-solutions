@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 122 &nbsp;|&nbsp; 🟢 Easy: 33 &nbsp;|&nbsp; 🟡 Medium: 69 &nbsp;|&nbsp; 🔴 Hard: 20
+**Total solved:** 123 &nbsp;|&nbsp; 🟢 Easy: 33 &nbsp;|&nbsp; 🟡 Medium: 70 &nbsp;|&nbsp; 🔴 Hard: 20
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -161,7 +161,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 3 | [Construct Binary Tree from Preorder and Inorder Traversal](construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | python3 |
 | 4 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
-| 5 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 5 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 6 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -221,8 +222,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
-| 3 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
-| 4 | [Word Search](word-search/) | Medium | python3 |
+| 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 4 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 5 | [Word Search](word-search/) | Medium | python3 |
 
 ## Design
 
@@ -374,12 +376,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
-| 2 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 3 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 4 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 5 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
-| 6 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 7 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 2 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 3 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 4 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 5 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 6 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
+| 7 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 8 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
@@ -564,9 +567,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 2 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 3 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 4 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 2 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 3 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 4 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 5 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
@@ -613,7 +617,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 3 | [Construct Binary Tree from Preorder and Inorder Traversal](construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | python3 |
 | 4 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
-| 5 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 5 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 6 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Two Pointers
 
