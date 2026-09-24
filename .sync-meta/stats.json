@@ -1591,5 +1591,19 @@
       "Depth-First Search",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "diameter-of-binary-tree",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "diameter-of-binary-tree/",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
   }
 ]
