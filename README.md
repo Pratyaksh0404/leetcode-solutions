@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 127 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 20
+**Total solved:** 128 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 72 &nbsp;|&nbsp; 🔴 Hard: 21
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -88,16 +88,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Combination Sum](combination-sum/) | Medium | python3 |
-| 2 | [Combination Sum II](combination-sum-ii/) | Medium | python3 |
-| 3 | [Gray Code](gray-code/) | Medium | python3 |
-| 4 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
-| 5 | [N-Queens](n-queens/) | Hard | python3 |
-| 6 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 7 | [Permutations](permutations/) | Medium | python3 |
-| 8 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 9 | [Subsets](subsets/) | Medium | python3 |
-| 10 | [Word Search](word-search/) | Medium | python3 |
+| 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
+| 2 | [Combination Sum](combination-sum/) | Medium | python3 |
+| 3 | [Combination Sum II](combination-sum-ii/) | Medium | python3 |
+| 4 | [Gray Code](gray-code/) | Medium | python3 |
+| 5 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 6 | [N-Queens](n-queens/) | Hard | python3 |
+| 7 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 8 | [Permutations](permutations/) | Medium | python3 |
+| 9 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 10 | [Subsets](subsets/) | Medium | python3 |
+| 11 | [Word Search](word-search/) | Medium | python3 |
 
 ## Bidirectional Search
 
@@ -192,9 +193,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Binary Tree Level Order Traversal](binary-tree-level-order-traversal/) | Medium | python3 |
-| 2 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
-| 3 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 4 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 2 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
+| 3 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
+| 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 5 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Bubble Sort
 
@@ -341,28 +343,29 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Construct Binary Tree from Preorder and Inorder Traversal](construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | python3 |
-| 2 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 3 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
-| 4 | [First Missing Positive](first-missing-positive/) | Hard | python3 |
-| 5 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
-| 6 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 7 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 8 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 9 | [Majority Element](majority-element/) | Easy | python3 |
-| 10 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 11 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 12 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 13 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
-| 14 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 15 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 16 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 17 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 18 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 19 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 20 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 21 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 22 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
+| 2 | [Construct Binary Tree from Preorder and Inorder Traversal](construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | python3 |
+| 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 4 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
+| 5 | [First Missing Positive](first-missing-positive/) | Hard | python3 |
+| 6 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 7 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 8 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 9 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 10 | [Majority Element](majority-element/) | Easy | python3 |
+| 11 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 12 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 13 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 14 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
+| 15 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 16 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 17 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 18 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 19 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 20 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 21 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 22 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 23 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -567,54 +570,57 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [3Sum](3sum/) | Medium | python3 |
 | 2 | [4Sum](4sum/) | Medium | python3 |
-| 3 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 4 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 5 | [Find Right Interval](find-right-interval/) | Medium | python3 |
-| 6 | [Majority Element](majority-element/) | Easy | python3 |
-| 7 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 8 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 9 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 10 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 11 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 12 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 13 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 14 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 15 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 3 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
+| 4 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 5 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
+| 6 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 7 | [Majority Element](majority-element/) | Easy | python3 |
+| 8 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 9 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 10 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 11 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 12 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 13 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 14 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 15 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 16 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 2 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 3 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 4 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 5 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
+| 2 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
+| 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 4 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 5 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 6 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
-| 2 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
-| 3 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 4 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
-| 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 8 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 9 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 10 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 11 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 12 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 13 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 14 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 15 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 16 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 17 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 18 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 19 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 20 | [Word Search](word-search/) | Medium | python3 |
+| 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
+| 2 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
+| 3 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
+| 4 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 5 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 6 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 7 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 8 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 9 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 10 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 11 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 12 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 13 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 14 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 15 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 16 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 17 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 18 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 19 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 20 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 21 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
