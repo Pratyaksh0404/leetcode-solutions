@@ -1,4 +1,5 @@
 class Solution:
+
     def braceExpansionII(self, expression: str) -> list[str]:
         def parse(expr):
             groups = [[]]
@@ -7,23 +8,19 @@ class Solution:
                 if expr[i] == "{":
                     depth, start = 1, i + 1
                     i += 1
-                    while depth > 0:
+                    while depth:
                         if expr[i] == "{":
                             depth += 1
                         elif expr[i] == "}":
                             depth -= 1
                         i += 1
-                    sub = parse(expr[start : i - 1])
-                    groups[-1].append(sub)
+                    groups[-1].append(parse(expr[start : i - 1]))
                 elif expr[i] == ",":
                     groups.append([])
                     i += 1
                 else:
-                    j = i
-                    while j < len(expr) and expr[j].isalpha():
-                        j += 1
-                    groups[-1].append({expr[i:j]})
-                    i = j
+                    groups[-1].append({expr[i]})
+                    i += 1
 
             ans = set()
             for group in groups:
