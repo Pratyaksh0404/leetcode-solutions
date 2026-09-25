@@ -1678,5 +1678,18 @@
       "Sorting",
       "Quicksort"
     ]
+  },
+  {
+    "slug": "maximum-subarray",
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximum-subarray/",
+    "url": "https://leetcode.com/problems/maximum-subarray/",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
   }
 ]
