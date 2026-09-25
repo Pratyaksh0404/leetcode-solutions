@@ -1649,5 +1649,21 @@
       "Pigeonhole Principle",
       "Floyd's Cycle Finding Algorithm"
     ]
+  },
+  {
+    "slug": "brace-expansion-ii",
+    "title": "Brace Expansion II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "brace-expansion-ii/",
+    "url": "https://leetcode.com/problems/brace-expansion-ii/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Stack",
+      "Breadth-First Search",
+      "Sorting"
+    ]
   }
 ]
