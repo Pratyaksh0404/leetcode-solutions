@@ -1665,5 +1665,18 @@
       "Breadth-First Search",
       "Sorting"
     ]
+  },
+  {
+    "slug": "merge-intervals",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "merge-intervals/",
+    "url": "https://leetcode.com/problems/merge-intervals/",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ]
   }
 ]
