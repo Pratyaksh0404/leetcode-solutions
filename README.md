@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 130 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 74 &nbsp;|&nbsp; 🔴 Hard: 21
+**Total solved:** 131 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 75 &nbsp;|&nbsp; 🔴 Hard: 21
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -245,8 +245,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 2 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 1 | [Min Stack](min-stack/) | Medium | python3 |
+| 2 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 3 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 
 ## Divide and Conquer
 
@@ -598,9 +599,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 2 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 4 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 5 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 6 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 4 | [Min Stack](min-stack/) | Medium | python3 |
+| 5 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 6 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 7 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
