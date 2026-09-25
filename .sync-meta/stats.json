@@ -1691,5 +1691,17 @@
       "Divide and Conquer",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "min-stack",
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "min-stack/",
+    "url": "https://leetcode.com/problems/min-stack/",
+    "topics": [
+      "Stack",
+      "Design"
+    ]
   }
 ]
