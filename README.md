@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 134 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 78 &nbsp;|&nbsp; 🔴 Hard: 21
+**Total solved:** 135 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 78 &nbsp;|&nbsp; 🔴 Hard: 22
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -74,18 +74,19 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 58 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 59 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 60 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 61 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 62 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 63 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 64 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 65 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 66 | [Subsets](subsets/) | Medium | python3 |
-| 67 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 68 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 69 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 70 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 71 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 72 | [Word Search](word-search/) | Medium | python3 |
+| 61 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 62 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
+| 63 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 64 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 65 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 66 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 67 | [Subsets](subsets/) | Medium | python3 |
+| 68 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 69 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 70 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 71 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 72 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 73 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -382,6 +383,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
 | 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 3 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Interactive
 
@@ -465,6 +467,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 
+## Monotonic Queue
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+
 ## Monotonic Stack
 
 | # | My Solution | Difficulty | Language |
@@ -521,6 +529,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Closest Prime Numbers in Range](closest-prime-numbers-in-range/) | Medium | python3 |
 
+## Queue
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+
 ## Quicksort
 
 | # | My Solution | Difficulty | Language |
@@ -533,6 +547,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+
+## Range Minimum/Maximum Query
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Recursion
 
@@ -575,6 +595,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
 | 4 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
 | 5 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 6 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Sorting
 
