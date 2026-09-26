@@ -1703,5 +1703,18 @@
       "Stack",
       "Design"
     ]
+  },
+  {
+    "slug": "evaluate-the-bracket-pairs-of-a-string",
+    "title": "Evaluate the Bracket Pairs of a String",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "evaluate-the-bracket-pairs-of-a-string/",
+    "url": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
