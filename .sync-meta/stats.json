@@ -1730,5 +1730,18 @@
       "Greedy",
       "Monotonic Stack"
     ]
+  },
+  {
+    "slug": "find-all-anagrams-in-a-string",
+    "title": "Find All Anagrams in a String",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-all-anagrams-in-a-string/",
+    "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
   }
 ]
