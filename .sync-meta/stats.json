@@ -1743,5 +1743,21 @@
       "String",
       "Sliding Window"
     ]
+  },
+  {
+    "slug": "sliding-window-maximum",
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "sliding-window-maximum/",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue",
+      "Range Minimum/Maximum Query"
+    ]
   }
 ]
