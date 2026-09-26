@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 132 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 76 &nbsp;|&nbsp; 🔴 Hard: 21
+**Total solved:** 133 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 77 &nbsp;|&nbsp; 🔴 Hard: 21
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -343,7 +343,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 8 | [Partition Labels](partition-labels/) | Medium | python3 |
 | 9 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 10 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 10 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -468,7 +469,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
-| 2 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 2 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 3 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## Number Theory
 
@@ -604,7 +606,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Min Stack](min-stack/) | Medium | python3 |
 | 5 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
 | 6 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 7 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 7 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 8 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
@@ -628,10 +631,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 16 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 17 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
 | 18 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 19 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 20 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 21 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 22 | [Word Search](word-search/) | Medium | python3 |
+| 19 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 20 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 21 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 22 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 23 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
