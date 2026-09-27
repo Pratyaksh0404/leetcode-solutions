@@ -1783,5 +1783,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "longest-subarray-with-restricted-pair-sums",
+    "title": "Longest Subarray With Restricted Pair Sums",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "longest-subarray-with-restricted-pair-sums/",
+    "url": "https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
