@@ -1,17 +1,11 @@
-from itertools import pairwise
-from collections import defaultdict
-
+from collections import Counter
 class Solution:
-    def maxEqualAdjacentPairs(self, nums: list[int]) -> int:        
+    def maxEqualAdjacentPairs(self, nums: list[int]) -> int:
         q = 0
-        g = defaultdict(int)
-        
-        for a, b in pairwise(nums):
-            if a == b:
+        g = Counter()
+        for a,b in zip(nums,nums[1:]):
+            if a==b:
                 q += 1
             else:
-                if a > b:
-                    a, b = b, a
-                g[(a, b)] += 1
-                
-        return q + max(g.values(), default=0)
+                g[(a,b) if a<b else (b,a)]+=1
+        return q + (max(g.values()) if g else 0)
