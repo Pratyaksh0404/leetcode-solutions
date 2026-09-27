@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 135 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 78 &nbsp;|&nbsp; 🔴 Hard: 22
+**Total solved:** 136 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 79 &nbsp;|&nbsp; 🔴 Hard: 22
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -191,6 +191,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Majority Element](majority-element/) | Easy | python3 |
+
+## Bracket Sequences
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -628,9 +634,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
 | 4 | [Min Stack](min-stack/) | Medium | python3 |
 | 5 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 6 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 7 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 8 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 6 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 7 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 8 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 9 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
@@ -652,14 +659,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 15 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 16 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 17 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 18 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 19 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 20 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 21 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 22 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 23 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 24 | [Word Search](word-search/) | Medium | python3 |
+| 17 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 18 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 19 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 20 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 21 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 22 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 23 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 24 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 25 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
