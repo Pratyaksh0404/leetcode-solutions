@@ -1772,5 +1772,16 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "maximum-equal-adjacent-pairs-after-at-most-one-replacement",
+    "title": "Maximum Equal Adjacent Pairs After at Most One Replacement",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
+    "url": "https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
