@@ -1858,5 +1858,18 @@
       "Design",
       "Queue"
     ]
+  },
+  {
+    "slug": "minimum-window-substring",
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "minimum-window-substring/",
+    "url": "https://leetcode.com/problems/minimum-window-substring/",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
   }
 ]
