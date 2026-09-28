@@ -1902,5 +1902,18 @@
       "Memoization",
       "Brute-Force Search"
     ]
+  },
+  {
+    "slug": "minimum-path-sum",
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-path-sum/",
+    "url": "https://leetcode.com/problems/minimum-path-sum/",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
   }
 ]
