@@ -2,7 +2,6 @@ class Solution:
     def largestPower(self, nums: list[int]) -> list[int]:
         grp = [nums]
         ans = [0] * 15
-        
         for b in range(14, -1, -1):
             mask = 1 << b
             curr = 0
