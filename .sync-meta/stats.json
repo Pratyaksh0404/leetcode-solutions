@@ -1845,5 +1845,18 @@
       "Queue",
       "Simulation"
     ]
+  },
+  {
+    "slug": "implement-queue-using-stacks",
+    "title": "Implement Queue using Stacks",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "implement-queue-using-stacks/",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
   }
 ]
