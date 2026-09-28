@@ -1805,5 +1805,18 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "maximum-nesting-depth-of-the-parentheses",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "maximum-nesting-depth-of-the-parentheses/",
+    "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+    "topics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
   }
 ]
