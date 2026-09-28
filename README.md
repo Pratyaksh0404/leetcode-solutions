@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 142 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 23
+**Total solved:** 143 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 23
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -256,9 +256,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Min Stack](min-stack/) | Medium | python3 |
-| 2 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 3 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 1 | [Implement Queue using Stacks](implement-queue-using-stacks/) | Easy | python3 |
+| 2 | [Min Stack](min-stack/) | Medium | python3 |
+| 3 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 4 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 
 ## Divide and Conquer
 
@@ -542,9 +543,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
-| 2 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
-| 3 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 1 | [Implement Queue using Stacks](implement-queue-using-stacks/) | Easy | python3 |
+| 2 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
+| 3 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 4 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Quicksort
 
@@ -639,14 +641,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 2 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 4 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
-| 5 | [Min Stack](min-stack/) | Medium | python3 |
-| 6 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
-| 7 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 8 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 9 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 10 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 11 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 4 | [Implement Queue using Stacks](implement-queue-using-stacks/) | Easy | python3 |
+| 5 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 6 | [Min Stack](min-stack/) | Medium | python3 |
+| 7 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
+| 8 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 9 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 10 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 11 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 12 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
