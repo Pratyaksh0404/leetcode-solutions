@@ -1871,5 +1871,19 @@
       "String",
       "Sliding Window"
     ]
+  },
+  {
+    "slug": "lru-cache",
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "lru-cache/",
+    "url": "https://leetcode.com/problems/lru-cache/",
+    "topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
   }
 ]
