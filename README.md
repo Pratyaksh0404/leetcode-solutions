@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 139 &nbsp;|&nbsp; 🟢 Easy: 35 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 23
+**Total solved:** 140 &nbsp;|&nbsp; 🟢 Easy: 36 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 23
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -196,7 +196,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 1 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 2 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -632,12 +633,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 2 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 4 | [Min Stack](min-stack/) | Medium | python3 |
-| 5 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 6 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 7 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 8 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 9 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 4 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 5 | [Min Stack](min-stack/) | Medium | python3 |
+| 6 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 7 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 8 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 9 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 10 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 
 ## String
 
@@ -652,22 +654,23 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
 | 8 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 9 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 10 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 11 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 12 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 13 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 14 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 15 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 16 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 17 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 18 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 19 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 20 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 21 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 22 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 23 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 24 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 25 | [Word Search](word-search/) | Medium | python3 |
+| 10 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 11 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 12 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 13 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 14 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 15 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 16 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 17 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 18 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 19 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 20 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 21 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 22 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 23 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 24 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 25 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 26 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
