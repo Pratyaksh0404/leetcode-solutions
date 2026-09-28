@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 141 &nbsp;|&nbsp; 🟢 Easy: 37 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 23
+**Total solved:** 142 &nbsp;|&nbsp; 🟢 Easy: 38 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 23
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -83,11 +83,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 67 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 68 | [Subsets](subsets/) | Medium | python3 |
 | 69 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 70 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 71 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 72 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 73 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 74 | [Word Search](word-search/) | Medium | python3 |
+| 70 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 71 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 72 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 73 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 74 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 75 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -543,6 +544,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 2 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 3 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Quicksort
 
@@ -595,6 +597,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 3 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 4 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 5 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Sliding Window
 
