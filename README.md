@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 144 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 81 &nbsp;|&nbsp; 🔴 Hard: 24
+**Total solved:** 145 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 82 &nbsp;|&nbsp; 🔴 Hard: 24
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -257,9 +257,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Implement Queue using Stacks](implement-queue-using-stacks/) | Easy | python3 |
-| 2 | [Min Stack](min-stack/) | Medium | python3 |
-| 3 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 4 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 2 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 3 | [Min Stack](min-stack/) | Medium | python3 |
+| 4 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 5 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 
 ## Divide and Conquer
 
@@ -272,6 +273,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 6 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 | 7 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
+
+## Doubly-Linked List
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [LRU Cache](lru-cache/) | Medium | python3 |
 
 ## DP on Trees
 
@@ -372,21 +379,22 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 10 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 11 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 12 | [Majority Element](majority-element/) | Easy | python3 |
-| 13 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 14 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 15 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 16 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
-| 17 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 18 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 19 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 20 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 21 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 22 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 23 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 24 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 25 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 26 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 12 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 13 | [Majority Element](majority-element/) | Easy | python3 |
+| 14 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 15 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 16 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 17 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
+| 18 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 19 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 20 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 21 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 22 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 23 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 24 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 25 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 26 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 27 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -416,11 +424,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
 | 2 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
 | 3 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 4 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 5 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 6 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
-| 7 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 8 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 4 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 5 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 6 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 7 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
+| 8 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 9 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
