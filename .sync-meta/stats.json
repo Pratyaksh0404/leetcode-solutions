@@ -1832,5 +1832,18 @@
       "Queue",
       "Simulation"
     ]
+  },
+  {
+    "slug": "time-needed-to-buy-tickets",
+    "title": "Time Needed to Buy Tickets",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "time-needed-to-buy-tickets/",
+    "url": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+    "topics": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ]
   }
 ]
