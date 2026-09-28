@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 145 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 82 &nbsp;|&nbsp; 🔴 Hard: 24
+**Total solved:** 146 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 83 &nbsp;|&nbsp; 🔴 Hard: 24
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -88,7 +88,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 72 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 | 73 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 | 74 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 75 | [Word Search](word-search/) | Medium | python3 |
+| 75 | [Word Break](word-break/) | Medium | python3 |
+| 76 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -211,6 +212,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
 | 5 | [Word Ladder](word-ladder/) | Hard | python3 |
 
+## Brute-Force Search
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Break](word-break/) | Medium | python3 |
+
 ## Bubble Sort
 
 | # | My Solution | Difficulty | Language |
@@ -307,6 +314,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 15 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 16 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 17 | [Word Break](word-break/) | Medium | python3 |
 
 ## Enumeration
 
@@ -394,7 +402,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 24 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 | 25 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 | 26 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 27 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 27 | [Word Break](word-break/) | Medium | python3 |
+| 28 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -480,6 +489,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
 | 8 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 9 | [Word Search](word-search/) | Medium | python3 |
+
+## Memoization
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Break](word-break/) | Medium | python3 |
 
 ## Merge Sort
 
@@ -691,8 +706,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 23 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
 | 24 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 | 25 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 26 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 27 | [Word Search](word-search/) | Medium | python3 |
+| 26 | [Word Break](word-break/) | Medium | python3 |
+| 27 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 28 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
@@ -719,6 +735,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
 | 8 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
 | 9 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+
+## Trie
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Word Break](word-break/) | Medium | python3 |
 
 ## Two Pointers
 
