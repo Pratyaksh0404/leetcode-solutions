@@ -1885,5 +1885,22 @@
       "Design",
       "Doubly-Linked List"
     ]
+  },
+  {
+    "slug": "word-break",
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "word-break/",
+    "url": "https://leetcode.com/problems/word-break/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization",
+      "Brute-Force Search"
+    ]
   }
 ]
