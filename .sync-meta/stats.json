@@ -1818,5 +1818,19 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "number-of-students-unable-to-eat-lunch",
+    "title": "Number of Students Unable to Eat Lunch",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "number-of-students-unable-to-eat-lunch/",
+    "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+    "topics": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Simulation"
+    ]
   }
 ]
