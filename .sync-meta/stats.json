@@ -1986,5 +1986,18 @@
       "Knapsack Problem",
       "Complete Knapsack"
     ]
+  },
+  {
+    "slug": "valid-sudoku",
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "valid-sudoku/",
+    "url": "https://leetcode.com/problems/valid-sudoku/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
   }
 ]
