@@ -1929,5 +1929,19 @@
       "Matrix",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "longest-valid-parentheses",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "longest-valid-parentheses/",
+    "url": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Bracket Sequences"
+    ]
   }
 ]
