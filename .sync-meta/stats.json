@@ -1943,5 +1943,18 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "rotting-oranges",
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "rotting-oranges/",
+    "url": "https://leetcode.com/problems/rotting-oranges/",
+    "topics": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
   }
 ]
