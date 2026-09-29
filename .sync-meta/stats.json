@@ -1971,5 +1971,20 @@
       "Knapsack Problem",
       "Complete Knapsack"
     ]
+  },
+  {
+    "slug": "coin-change",
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "coin-change/",
+    "url": "https://leetcode.com/problems/coin-change/",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ]
   }
 ]
