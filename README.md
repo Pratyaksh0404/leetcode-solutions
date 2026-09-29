@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 150 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 85 &nbsp;|&nbsp; 🔴 Hard: 26
+**Total solved:** 151 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 86 &nbsp;|&nbsp; 🔴 Hard: 26
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -215,8 +215,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 3 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
 | 4 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 5 | [Rotting Oranges](rotting-oranges/) | Medium | python3 |
-| 6 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 5 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+| 6 | [Rotting Oranges](rotting-oranges/) | Medium | python3 |
+| 7 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Brute-Force Search
 
@@ -235,6 +236,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+
+## Complete Knapsack
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Perfect Squares](perfect-squares/) | Medium | python3 |
 
 ## Counting
 
@@ -320,10 +327,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Minimum Path Sum](minimum-path-sum/) | Medium | python3 |
 | 15 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
 | 16 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 17 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 18 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 19 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 20 | [Word Break](word-break/) | Medium | python3 |
+| 17 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+| 18 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 19 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 20 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 21 | [Word Break](word-break/) | Medium | python3 |
 
 ## Enumeration
 
@@ -429,6 +437,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [First Bad Version](first-bad-version/) | Easy | python3 |
 | 2 | [Guess Number Higher or Lower](guess-number-higher-or-lower/) | Easy | python3 |
 
+## Knapsack Problem
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+
 ## Least Common Multiple
 
 | # | My Solution | Difficulty | Language |
@@ -476,14 +490,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
 | 15 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
 | 16 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 17 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 18 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 19 | [Rectangle Area](rectangle-area/) | Medium | python3 |
-| 20 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 21 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 22 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 23 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 24 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 17 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+| 18 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 19 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 20 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 21 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 22 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 23 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 24 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
+| 25 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
