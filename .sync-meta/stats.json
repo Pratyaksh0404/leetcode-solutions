@@ -1956,5 +1956,20 @@
       "Breadth-First Search",
       "Matrix"
     ]
+  },
+  {
+    "slug": "perfect-squares",
+    "title": "Perfect Squares",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "perfect-squares/",
+    "url": "https://leetcode.com/problems/perfect-squares/",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ]
   }
 ]
