@@ -2,6 +2,7 @@ class Solution:
     def dfs(self, grid: List[List[str]], row: int, col: int, R: int, C: int):
         diff = [0,1,0,-1,0]
         grid[row][col] = '0'
+        
         for di in range(4):
             adjR, adjC = row+diff[di], col+diff[di+1]
             if(adjR >= 0 and adjR < R and adjC >= 0 and adjC < C and grid[adjR][adjC] == '1'):
