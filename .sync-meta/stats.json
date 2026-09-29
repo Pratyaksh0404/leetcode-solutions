@@ -1999,5 +1999,17 @@
       "Hash Table",
       "Matrix"
     ]
+  },
+  {
+    "slug": "maximum-product-subarray",
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximum-product-subarray/",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]
