@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 152 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 87 &nbsp;|&nbsp; 🔴 Hard: 26
+**Total solved:** 153 &nbsp;|&nbsp; 🟢 Easy: 39 &nbsp;|&nbsp; 🟡 Medium: 88 &nbsp;|&nbsp; 🔴 Hard: 26
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -91,9 +91,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 75 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 | 76 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 | 77 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 78 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 79 | [Word Break](word-break/) | Medium | python3 |
-| 80 | [Word Search](word-search/) | Medium | python3 |
+| 78 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 79 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 80 | [Word Break](word-break/) | Medium | python3 |
+| 81 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -423,8 +424,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 24 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 | 25 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 | 26 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 27 | [Word Break](word-break/) | Medium | python3 |
-| 28 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 27 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 28 | [Word Break](word-break/) | Medium | python3 |
+| 29 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -520,7 +522,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
 | 10 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
 | 11 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 12 | [Word Search](word-search/) | Medium | python3 |
+| 12 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 13 | [Word Search](word-search/) | Medium | python3 |
 
 ## Memoization
 
