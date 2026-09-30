@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 161 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 26
+**Total solved:** 162 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 27
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -262,6 +262,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 4 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 
+## Data Stream
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Find Median from Data Stream](find-median-from-data-stream/) | Hard | python3 |
+
 ## Database
 
 | # | My Solution | Difficulty | Language |
@@ -288,11 +294,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Implement Queue using Stacks](implement-queue-using-stacks/) | Easy | python3 |
-| 2 | [LRU Cache](lru-cache/) | Medium | python3 |
-| 3 | [Min Stack](min-stack/) | Medium | python3 |
-| 4 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 5 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 1 | [Find Median from Data Stream](find-median-from-data-stream/) | Hard | python3 |
+| 2 | [Implement Queue using Stacks](implement-queue-using-stacks/) | Easy | python3 |
+| 3 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 4 | [Min Stack](min-stack/) | Medium | python3 |
+| 5 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 6 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 
 ## Directed Acyclic Graph
 
@@ -459,8 +466,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 2 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 3 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 2 | [Find Median from Data Stream](find-median-from-data-stream/) | Hard | python3 |
+| 3 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 4 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Interactive
 
@@ -713,19 +721,20 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 4 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 5 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 6 | [Find Right Interval](find-right-interval/) | Medium | python3 |
-| 7 | [Majority Element](majority-element/) | Easy | python3 |
-| 8 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
-| 9 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 10 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 11 | [Merge Intervals](merge-intervals/) | Medium | python3 |
-| 12 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 13 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 14 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 15 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 16 | [Sort List](sort-list/) | Medium | python3 |
-| 17 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 6 | [Find Median from Data Stream](find-median-from-data-stream/) | Hard | python3 |
+| 7 | [Find Right Interval](find-right-interval/) | Medium | python3 |
+| 8 | [Majority Element](majority-element/) | Easy | python3 |
+| 9 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
+| 10 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 11 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 12 | [Merge Intervals](merge-intervals/) | Medium | python3 |
+| 13 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 14 | [Permutations II](permutations-ii/) | Medium | python3 |
+| 15 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 16 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 17 | [Sort List](sort-list/) | Medium | python3 |
+| 18 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
@@ -827,21 +836,22 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [4Sum](4sum/) | Medium | python3 |
 | 3 | [Container With Most Water](container-with-most-water/) | Medium | python3 |
 | 4 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
-| 5 | [Find the Duplicate Number](find-the-duplicate-number/) | Medium | python3 |
-| 6 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 7 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
-| 8 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 9 | [Move Zeroes](move-zeroes/) | Easy | python3 |
-| 10 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 11 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 12 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 13 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 14 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 15 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 16 | [Sort List](sort-list/) | Medium | python3 |
-| 17 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 18 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 5 | [Find Median from Data Stream](find-median-from-data-stream/) | Hard | python3 |
+| 6 | [Find the Duplicate Number](find-the-duplicate-number/) | Medium | python3 |
+| 7 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 8 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
+| 9 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 10 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 11 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 12 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 13 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 14 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 15 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 16 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 17 | [Sort List](sort-list/) | Medium | python3 |
+| 18 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 19 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 20 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
