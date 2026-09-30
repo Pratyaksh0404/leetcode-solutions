@@ -2039,5 +2039,17 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "pascals-triangle",
+    "title": "Pascal's Triangle",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "pascals-triangle/",
+    "url": "https://leetcode.com/problems/pascals-triangle/",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]
