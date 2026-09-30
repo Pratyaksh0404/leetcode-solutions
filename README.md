@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 160 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 94 &nbsp;|&nbsp; 🔴 Hard: 26
+**Total solved:** 161 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 26
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -311,6 +311,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 6 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 | 7 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
+| 8 | [Sort List](sort-list/) | Medium | python3 |
 
 ## Doubly-Linked List
 
@@ -495,7 +496,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
 | 9 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
 | 10 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 11 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 11 | [Sort List](sort-list/) | Medium | python3 |
+| 12 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
@@ -564,6 +566,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 2 | [Sort List](sort-list/) | Medium | python3 |
 
 ## Monotonic Queue
 
@@ -720,8 +723,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 14 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 15 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 16 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 17 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 16 | [Sort List](sort-list/) | Medium | python3 |
+| 17 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
@@ -834,9 +838,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 13 | [Partition Labels](partition-labels/) | Medium | python3 |
 | 14 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 15 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 16 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 17 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 16 | [Sort List](sort-list/) | Medium | python3 |
+| 17 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 18 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
