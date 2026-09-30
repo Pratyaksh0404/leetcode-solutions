@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 159 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 93 &nbsp;|&nbsp; 🔴 Hard: 26
+**Total solved:** 160 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 94 &nbsp;|&nbsp; 🔴 Hard: 26
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -220,12 +220,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Binary Tree Level Order Traversal](binary-tree-level-order-traversal/) | Medium | python3 |
 | 2 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 3 | [Coin Change](coin-change/) | Medium | python3 |
-| 4 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
-| 5 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 6 | [Number of Islands](number-of-islands/) | Medium | python3 |
-| 7 | [Perfect Squares](perfect-squares/) | Medium | python3 |
-| 8 | [Rotting Oranges](rotting-oranges/) | Medium | python3 |
-| 9 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 4 | [Course Schedule](course-schedule/) | Medium | python3 |
+| 5 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
+| 6 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 7 | [Number of Islands](number-of-islands/) | Medium | python3 |
+| 8 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+| 9 | [Rotting Oranges](rotting-oranges/) | Medium | python3 |
+| 10 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Brute-Force Search
 
@@ -274,13 +275,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Binary Tree Maximum Path Sum](binary-tree-maximum-path-sum/) | Hard | python3 |
 | 2 | [Count Nodes Equal to Average of Subtree](count-nodes-equal-to-average-of-subtree/) | Medium | python3 |
-| 3 | [Diameter of Binary Tree](diameter-of-binary-tree/) | Easy | python3 |
-| 4 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
-| 5 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
-| 6 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
-| 7 | [Number of Islands](number-of-islands/) | Medium | python3 |
-| 8 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
-| 9 | [Word Search](word-search/) | Medium | python3 |
+| 3 | [Course Schedule](course-schedule/) | Medium | python3 |
+| 4 | [Diameter of Binary Tree](diameter-of-binary-tree/) | Easy | python3 |
+| 5 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
+| 6 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
+| 7 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
+| 8 | [Number of Islands](number-of-islands/) | Medium | python3 |
+| 9 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 10 | [Word Search](word-search/) | Medium | python3 |
 
 ## Design
 
@@ -291,6 +293,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Min Stack](min-stack/) | Medium | python3 |
 | 4 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 5 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+
+## Directed Acyclic Graph
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Course Schedule](course-schedule/) | Medium | python3 |
 
 ## Divide and Conquer
 
@@ -379,6 +387,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
 | 6 | [Rectangle Area](rectangle-area/) | Medium | python3 |
 | 7 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+
+## Graph Theory
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Course Schedule](course-schedule/) | Medium | python3 |
 
 ## Greatest Common Divisor
 
@@ -768,6 +782,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
+
+## Topological Sort
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Course Schedule](course-schedule/) | Medium | python3 |
 
 ## Tournament Sort
 
