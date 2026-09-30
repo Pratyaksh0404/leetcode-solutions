@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 158 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 92 &nbsp;|&nbsp; 🔴 Hard: 26
+**Total solved:** 159 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 93 &nbsp;|&nbsp; 🔴 Hard: 26
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -366,6 +366,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Find the Duplicate Number](find-the-duplicate-number/) | Medium | python3 |
 | 2 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
+| 3 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
 
 ## Geometry
 
@@ -417,25 +418,26 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
 | 10 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
 | 11 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 12 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 13 | [LRU Cache](lru-cache/) | Medium | python3 |
-| 14 | [Majority Element](majority-element/) | Easy | python3 |
-| 15 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 16 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 17 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 18 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
-| 19 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 20 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 21 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 22 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 23 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 24 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 25 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 26 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 27 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 28 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 29 | [Word Break](word-break/) | Medium | python3 |
-| 30 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 12 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
+| 13 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 14 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 15 | [Majority Element](majority-element/) | Easy | python3 |
+| 16 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 17 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 18 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 19 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
+| 20 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 21 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 22 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 23 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 24 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 25 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 26 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 27 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 28 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 29 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 30 | [Word Break](word-break/) | Medium | python3 |
+| 31 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -473,12 +475,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | python3 |
 | 3 | [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list/) | Medium | python3 |
 | 4 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 5 | [LRU Cache](lru-cache/) | Medium | python3 |
-| 6 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
-| 7 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 8 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
-| 9 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 10 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 5 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
+| 6 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 7 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
+| 8 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 9 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
+| 10 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 11 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
@@ -802,17 +805,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
 | 5 | [Find the Duplicate Number](find-the-duplicate-number/) | Medium | python3 |
 | 6 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
-| 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 8 | [Move Zeroes](move-zeroes/) | Easy | python3 |
-| 9 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 10 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 11 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 12 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 13 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 14 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 15 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 16 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 17 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 7 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
+| 8 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 9 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 10 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 11 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 12 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 13 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 14 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 15 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 16 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 17 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
