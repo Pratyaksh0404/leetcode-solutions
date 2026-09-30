@@ -2107,5 +2107,20 @@
       "Sorting",
       "Merge Sort"
     ]
+  },
+  {
+    "slug": "find-median-from-data-stream",
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "find-median-from-data-stream/",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "topics": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
   }
 ]
