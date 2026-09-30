@@ -2051,5 +2051,17 @@
       "Array",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "copy-list-with-random-pointer",
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "copy-list-with-random-pointer/",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "topics": [
+      "Hash Table",
+      "Linked List"
+    ]
   }
 ]
