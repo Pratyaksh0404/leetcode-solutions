@@ -2077,5 +2077,20 @@
       "Two Pointers",
       "Floyd's Cycle Finding Algorithm"
     ]
+  },
+  {
+    "slug": "course-schedule",
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "course-schedule/",
+    "url": "https://leetcode.com/problems/course-schedule/",
+    "topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Directed Acyclic Graph"
+    ]
   }
 ]
