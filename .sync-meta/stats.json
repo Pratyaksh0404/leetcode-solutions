@@ -2092,5 +2092,20 @@
       "Topological Sort",
       "Directed Acyclic Graph"
     ]
+  },
+  {
+    "slug": "sort-list",
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "sort-list/",
+    "url": "https://leetcode.com/problems/sort-list/",
+    "topics": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
   }
 ]
