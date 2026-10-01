@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 162 &nbsp;|&nbsp; 🟢 Easy: 40 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 27
+**Total solved:** 163 &nbsp;|&nbsp; 🟢 Easy: 41 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 27
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -212,6 +212,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
 | 4 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
 | 5 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 6 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
 
 ## Breadth-First Search
 
@@ -754,6 +755,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Simplify Path](simplify-path/) | Medium | python3 |
 | 13 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
 | 14 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 15 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
 
 ## String
 
@@ -786,9 +788,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 25 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
 | 26 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 | 27 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 28 | [Word Break](word-break/) | Medium | python3 |
-| 29 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 30 | [Word Search](word-search/) | Medium | python3 |
+| 28 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 29 | [Word Break](word-break/) | Medium | python3 |
+| 30 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 31 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
