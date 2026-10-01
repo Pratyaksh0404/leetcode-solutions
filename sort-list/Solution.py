@@ -6,6 +6,7 @@
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         temp = []
+        
         while head:
             temp.append(head.val)
             head = head.next
