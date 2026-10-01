@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 166 &nbsp;|&nbsp; 🟢 Easy: 44 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 27
+**Total solved:** 167 &nbsp;|&nbsp; 🟢 Easy: 45 &nbsp;|&nbsp; 🟡 Medium: 95 &nbsp;|&nbsp; 🔴 Hard: 27
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -276,8 +276,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Big Countries](big-countries/) | Easy | pythondata |
 | 2 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
 | 3 | [Customers Who Never Order](customers-who-never-order/) | Easy | pythondata |
-| 4 | [Recyclable and Low Fat Products](recyclable-and-low-fat-products/) | Easy | pythondata |
-| 5 | [Rising Temperature](rising-temperature/) | Easy | mysql |
+| 4 | [Invalid Tweets](invalid-tweets/) | Easy | pythondata |
+| 5 | [Recyclable and Low Fat Products](recyclable-and-low-fat-products/) | Easy | pythondata |
+| 6 | [Rising Temperature](rising-temperature/) | Easy | mysql |
 
 ## Depth-First Search
 
