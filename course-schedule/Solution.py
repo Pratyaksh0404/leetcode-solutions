@@ -1,5 +1,6 @@
 class Solution:
     def canFinish(self, n: int, p: List[List[int]]) -> bool:
+
         adj = [[] for _ in range(n)]
         ii = [0] * n
         ans = []
@@ -11,6 +12,7 @@ class Solution:
             ii[c] += 1
 
         q = deque()
+        
         for i in range(n):
             if ii[i] == 0:
                 q.append(i)
