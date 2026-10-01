@@ -2168,5 +2168,16 @@
     "topics": [
       "Database"
     ]
+  },
+  {
+    "slug": "invalid-tweets",
+    "title": "Invalid Tweets",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "path": "invalid-tweets/",
+    "url": "https://leetcode.com/problems/invalid-tweets/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
