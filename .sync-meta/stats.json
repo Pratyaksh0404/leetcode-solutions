@@ -2135,5 +2135,16 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "big-countries",
+    "title": "Big Countries",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "path": "big-countries/",
+    "url": "https://leetcode.com/problems/big-countries/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
