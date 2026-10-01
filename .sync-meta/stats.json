@@ -2157,5 +2157,16 @@
     "topics": [
       "Database"
     ]
+  },
+  {
+    "slug": "customers-who-never-order",
+    "title": "Customers Who Never Order",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "path": "customers-who-never-order/",
+    "url": "https://leetcode.com/problems/customers-who-never-order/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
