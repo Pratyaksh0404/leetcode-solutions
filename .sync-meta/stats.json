@@ -2122,5 +2122,18 @@
       "Heap (Priority Queue)",
       "Data Stream"
     ]
+  },
+  {
+    "slug": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "valid-parentheses/",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "topics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
   }
 ]
