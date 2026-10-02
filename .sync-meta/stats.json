@@ -2193,5 +2193,16 @@
       "Backtracking",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "article-views-i",
+    "title": "Article Views I",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "path": "article-views-i/",
+    "url": "https://leetcode.com/problems/article-views-i/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
