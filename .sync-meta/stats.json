@@ -2179,5 +2179,19 @@
     "topics": [
       "Database"
     ]
+  },
+  {
+    "slug": "generate-parentheses",
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "generate-parentheses/",
+    "url": "https://leetcode.com/problems/generate-parentheses/",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ]
   }
 ]
