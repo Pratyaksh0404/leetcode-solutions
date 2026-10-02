@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 168 &nbsp;|&nbsp; 🟢 Easy: 45 &nbsp;|&nbsp; 🟡 Medium: 96 &nbsp;|&nbsp; 🔴 Hard: 27
+**Total solved:** 169 &nbsp;|&nbsp; 🟢 Easy: 46 &nbsp;|&nbsp; 🟡 Medium: 96 &nbsp;|&nbsp; 🔴 Hard: 27
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -275,12 +275,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Big Countries](big-countries/) | Easy | pythondata |
-| 2 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
-| 3 | [Customers Who Never Order](customers-who-never-order/) | Easy | pythondata |
-| 4 | [Invalid Tweets](invalid-tweets/) | Easy | pythondata |
-| 5 | [Recyclable and Low Fat Products](recyclable-and-low-fat-products/) | Easy | pythondata |
-| 6 | [Rising Temperature](rising-temperature/) | Easy | mysql |
+| 1 | [Article Views I](article-views-i/) | Easy | pythondata |
+| 2 | [Big Countries](big-countries/) | Easy | pythondata |
+| 3 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
+| 4 | [Customers Who Never Order](customers-who-never-order/) | Easy | pythondata |
+| 5 | [Invalid Tweets](invalid-tweets/) | Easy | pythondata |
+| 6 | [Recyclable and Low Fat Products](recyclable-and-low-fat-products/) | Easy | pythondata |
+| 7 | [Rising Temperature](rising-temperature/) | Easy | mysql |
 
 ## Depth-First Search
 
