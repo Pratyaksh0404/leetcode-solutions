@@ -49,8 +49,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 33 | [Jump Game II](jump-game-ii/) | Medium | python3 |
 | 34 | [Kth Missing Positive Number](kth-missing-positive-number/) | Easy | python3 |
 | 35 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
-| 36 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
-| 37 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
+| 36 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
+| 37 | [Longest Subarray With Restricted Pair Sums](longest-subarray-with-restricted-pair-sums/) | Medium | python3 |
 | 38 | [Majority Element](majority-element/) | Easy | python3 |
 | 39 | [Make Lexicographically Smallest Array by Swapping Elements](make-lexicographically-smallest-array-by-swapping-elements/) | Medium | python3 |
 | 40 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
@@ -198,9 +198,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Find the Duplicate Number](find-the-duplicate-number/) | Medium | python3 |
 | 3 | [Gray Code](gray-code/) | Medium | python3 |
 | 4 | [Hamming Distance](hamming-distance/) | Easy | python3 |
-| 5 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
-| 6 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 7 | [Subsets](subsets/) | Medium | python3 |
+| 5 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 6 | [Subsets](subsets/) | Medium | python3 |
 
 ## Boyer–Moore Majority Vote Algorithm
 
@@ -430,15 +429,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Container With Most Water](container-with-most-water/) | Medium | python3 |
 | 2 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
 | 3 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 4 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
-| 5 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 6 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 7 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 8 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 9 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 10 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 11 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 12 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 4 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 5 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 7 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 8 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 9 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 10 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -458,24 +456,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 12 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 13 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
 | 14 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 15 | [LRU Cache](lru-cache/) | Medium | python3 |
-| 16 | [Majority Element](majority-element/) | Easy | python3 |
-| 17 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
-| 18 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 19 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
-| 20 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
-| 21 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 22 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 23 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 24 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 25 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 26 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 27 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 28 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 29 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 30 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 31 | [Word Break](word-break/) | Medium | python3 |
-| 32 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 15 | [Longest Subarray With Restricted Pair Sums](longest-subarray-with-restricted-pair-sums/) | Medium | python3 |
+| 16 | [LRU Cache](lru-cache/) | Medium | python3 |
+| 17 | [Majority Element](majority-element/) | Easy | python3 |
+| 18 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
+| 19 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 20 | [Minimum Moves to Clean the Classroom](minimum-moves-to-clean-the-classroom/) | Medium | python3 |
+| 21 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
+| 22 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 23 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 24 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 25 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 26 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 27 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 28 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 29 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 30 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 31 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 32 | [Word Break](word-break/) | Medium | python3 |
+| 33 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -724,10 +723,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Find All Anagrams in a String](find-all-anagrams-in-a-string/) | Medium | python3 |
 | 2 | [Find K Closest Elements](find-k-closest-elements/) | Medium | python3 |
 | 3 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | python3 |
-| 4 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
-| 5 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 6 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 7 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 4 | [Longest Subarray With Restricted Pair Sums](longest-subarray-with-restricted-pair-sums/) | Medium | python3 |
+| 5 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
+| 6 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 7 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 8 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Sorting
 
@@ -885,7 +885,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Longest Subarray With Restricted Pair Sums](longest-subarray-with-restricted-pair-sums/) | Medium | python3 |
+| 1 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
 | 2 | [Maximize Meeting Earnings with Idle Gaps](maximize-meeting-earnings-with-idle-gaps/) | Hard | python3 |
 | 3 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
 | 4 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
