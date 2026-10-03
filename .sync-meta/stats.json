@@ -1429,7 +1429,9 @@
     "path": "lexicographically-largest-power-array/",
     "url": "https://leetcode.com/problems/lexicographically-largest-power-array/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Greedy",
+      "Bit Manipulation"
     ]
   },
   {
