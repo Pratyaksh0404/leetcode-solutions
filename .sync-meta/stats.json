@@ -1429,9 +1429,7 @@
     "path": "lexicographically-largest-power-array/",
     "url": "https://leetcode.com/problems/lexicographically-largest-power-array/",
     "topics": [
-      "Array",
-      "Greedy",
-      "Bit Manipulation"
+      "Uncategorized"
     ]
   },
   {
@@ -1798,7 +1796,9 @@
     "path": "longest-subarray-with-restricted-pair-sums/",
     "url": "https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Hash Table",
+      "Sliding Window"
     ]
   },
   {
