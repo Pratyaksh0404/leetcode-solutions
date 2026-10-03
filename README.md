@@ -91,14 +91,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 75 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 76 | [Subsets](subsets/) | Medium | python3 |
 | 77 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 78 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 79 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 80 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 81 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 82 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 83 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 84 | [Word Break](word-break/) | Medium | python3 |
-| 85 | [Word Search](word-search/) | Medium | python3 |
+| 78 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 79 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 80 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 81 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 82 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 83 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 84 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 85 | [Word Break](word-break/) | Medium | python3 |
+| 86 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -552,7 +553,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 22 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 23 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 24 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 25 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 25 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 26 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -709,7 +711,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 3 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 4 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 5 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 5 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 6 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Sliding Window
 
@@ -887,4 +890,3 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
 | 7 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
 | 8 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
-| 9 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
