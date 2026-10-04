@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 169 &nbsp;|&nbsp; 🟢 Easy: 46 &nbsp;|&nbsp; 🟡 Medium: 96 &nbsp;|&nbsp; 🔴 Hard: 27
+**Total solved:** 170 &nbsp;|&nbsp; 🟢 Easy: 46 &nbsp;|&nbsp; 🟡 Medium: 97 &nbsp;|&nbsp; 🔴 Hard: 27
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -218,6 +218,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
 | 6 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
 | 7 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 8 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -373,7 +374,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 22 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 23 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 24 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 25 | [Word Break](word-break/) | Medium | python3 |
+| 25 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 26 | [Word Break](word-break/) | Medium | python3 |
 
 ## Enumeration
 
@@ -436,7 +438,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Partition Labels](partition-labels/) | Medium | python3 |
 | 9 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
 | 10 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 11 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 11 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 12 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -773,6 +776,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
 | 15 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
 | 16 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 17 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## String
 
@@ -807,9 +811,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 27 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
 | 28 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
 | 29 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 30 | [Word Break](word-break/) | Medium | python3 |
-| 31 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 32 | [Word Search](word-search/) | Medium | python3 |
+| 30 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 31 | [Word Break](word-break/) | Medium | python3 |
+| 32 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 33 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
