@@ -2258,5 +2258,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "count-good-strings",
+    "title": "Count Good Strings",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "count-good-strings/",
+    "url": "https://leetcode.com/problems/count-good-strings/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
