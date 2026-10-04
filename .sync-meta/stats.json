@@ -1407,10 +1407,7 @@
     "path": "number-of-intersecting-interval-pairs-i/",
     "url": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
     "topics": [
-      "Array",
-      "Binary Search",
-      "Sorting",
-      "Enumeration"
+      "Uncategorized"
     ]
   },
   {
@@ -1421,7 +1418,9 @@
     "path": "number-of-intersecting-interval-pairs-ii/",
     "url": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Binary Search",
+      "Sorting"
     ]
   },
   {
