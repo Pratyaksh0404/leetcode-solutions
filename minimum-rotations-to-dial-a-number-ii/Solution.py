@@ -1,21 +1,28 @@
 class Solution:
     def minRotations(self, n: int, s: str) -> int:
-        A = [int(c) for c in s]
-        D = [[min(abs(i - j), 10 - abs(i - j)) for j in range(10)] for i in range(10)]
-        
-        base = 0
-        prev = 0
-        for a in A:
-            base += D[prev][a]
-            prev = a
-            
-        last = A[-1]
-        mini = 0
-        
+        dig = [int(c) for c in s]
+        pre = [0]*n
+        curr = 0
         for i in range(n):
-            p = 0 if i == 0 else A[i-1]
-            diff = D[p][last] - D[p][A[i]]
-            if diff < mini:
-                mini = diff
+            d = abs(dig[i]-curr)
+            pre[i] = (pre[i-1] if i>0 else 0) + min(d,10-d)
+            curr = dig[i]
+
+        rev = [0]*(n+1)
+        for i in range(n-2,-1,-1):
+            d = abs(dig[i]-dig[i+1])
+            rev[i] = rev[i+1]+min(d,10-d)
+
+        ans = pre[-1]
+        for k in range(n):
+            if k==0:
+                cost = min(dig[-1],10-dig[-1])
+            else:
+                cost = pre[k-1]
+                d = abs(dig[-1]-dig[k-1])
+                cost += min(d,10-d)
+            cost += rev[k]
+            ans = min(ans,cost)
+
+        return ans
                 
-        return base + mini
