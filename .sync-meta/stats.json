@@ -2247,5 +2247,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimum-rotations-to-dial-a-number-i",
+    "title": "Minimum Rotations to Dial a Number I",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "minimum-rotations-to-dial-a-number-i/",
+    "url": "https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
