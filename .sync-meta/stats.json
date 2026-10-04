@@ -2210,5 +2210,20 @@
     "topics": [
       "Database"
     ]
+  },
+  {
+    "slug": "valid-parenthesis-string",
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "valid-parenthesis-string/",
+    "url": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ]
   }
 ]
