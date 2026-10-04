@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 172 &nbsp;|&nbsp; 🟢 Easy: 46 &nbsp;|&nbsp; 🟡 Medium: 99 &nbsp;|&nbsp; 🔴 Hard: 27
+**Total solved:** 173 &nbsp;|&nbsp; 🟢 Easy: 47 &nbsp;|&nbsp; 🟡 Medium: 99 &nbsp;|&nbsp; 🔴 Hard: 27
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -895,7 +895,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
 | 4 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
 | 5 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
-| 6 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 7 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 8 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
-| 9 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 6 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
+| 7 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
+| 8 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 9 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
+| 10 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
