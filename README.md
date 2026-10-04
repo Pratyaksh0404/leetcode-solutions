@@ -66,7 +66,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 50 | [Move Zeroes](move-zeroes/) | Easy | python3 |
 | 51 | [N-Queens](n-queens/) | Hard | python3 |
 | 52 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 53 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 53 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
 | 54 | [Number of Islands](number-of-islands/) | Medium | python3 |
 | 55 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 56 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
@@ -156,7 +156,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 18 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | python3 |
 | 19 | [Minimum Operations to Make Every Element Palindromic](minimum-operations-to-make-every-element-palindromic/) | Medium | python3 |
 | 20 | [Minimum Operations to Reduce X to Zero](minimum-operations-to-reduce-x-to-zero/) | Medium | python3 |
-| 21 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 21 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
 | 22 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
 | 23 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
 | 24 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
@@ -384,9 +384,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 2 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 3 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 4 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 2 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 3 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Euclidean Algorithm
 
@@ -751,7 +750,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 11 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
 | 12 | [Merge Intervals](merge-intervals/) | Medium | python3 |
-| 13 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 13 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
 | 14 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
 | 15 | [Permutations II](permutations-ii/) | Medium | python3 |
 | 16 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
@@ -902,5 +901,5 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
 | 7 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
 | 8 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 9 | [Number of Intersecting Interval Pairs II](number-of-intersecting-interval-pairs-ii/) | Medium | python3 |
+| 9 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
 | 10 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
