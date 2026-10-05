@@ -2271,5 +2271,18 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "score-of-parentheses",
+    "title": "Score of Parentheses",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "score-of-parentheses/",
+    "url": "https://leetcode.com/problems/score-of-parentheses/",
+    "topics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
   }
 ]
