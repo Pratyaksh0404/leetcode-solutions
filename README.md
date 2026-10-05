@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 174 &nbsp;|&nbsp; 🟢 Easy: 47 &nbsp;|&nbsp; 🟡 Medium: 99 &nbsp;|&nbsp; 🔴 Hard: 28
+**Total solved:** 175 &nbsp;|&nbsp; 🟢 Easy: 47 &nbsp;|&nbsp; 🟡 Medium: 100 &nbsp;|&nbsp; 🔴 Hard: 28
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -219,8 +219,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
 | 5 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
 | 6 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 7 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 8 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 7 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 8 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 9 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -775,11 +776,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 11 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
 | 12 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 13 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 14 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 15 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 16 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 17 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 13 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 14 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 15 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 16 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 17 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 18 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## String
 
@@ -808,16 +810,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 21 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
 | 22 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
 | 23 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 24 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 25 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 26 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 27 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 28 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 29 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 30 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 31 | [Word Break](word-break/) | Medium | python3 |
-| 32 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 33 | [Word Search](word-search/) | Medium | python3 |
+| 24 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 25 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 26 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 27 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 28 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 29 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 30 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 31 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 32 | [Word Break](word-break/) | Medium | python3 |
+| 33 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 34 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
