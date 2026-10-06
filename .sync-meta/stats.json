@@ -2298,5 +2298,16 @@
       "Greedy",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "calculate-special-bonus",
+    "title": "Calculate Special Bonus",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "path": "calculate-special-bonus/",
+    "url": "https://leetcode.com/problems/calculate-special-bonus/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
