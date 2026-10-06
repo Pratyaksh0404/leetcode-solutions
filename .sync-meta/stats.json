@@ -2284,5 +2284,19 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "minimum-add-to-make-parentheses-valid",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-add-to-make-parentheses-valid/",
+    "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ]
   }
 ]
