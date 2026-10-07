@@ -2309,5 +2309,18 @@
     "topics": [
       "Database"
     ]
+  },
+  {
+    "slug": "remove-invalid-parentheses",
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "remove-invalid-parentheses/",
+    "url": "https://leetcode.com/problems/remove-invalid-parentheses/",
+    "topics": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
   }
 ]
