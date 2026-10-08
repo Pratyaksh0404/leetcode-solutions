@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 178 &nbsp;|&nbsp; 🟢 Easy: 48 &nbsp;|&nbsp; 🟡 Medium: 101 &nbsp;|&nbsp; 🔴 Hard: 29
+**Total solved:** 179 &nbsp;|&nbsp; 🟢 Easy: 49 &nbsp;|&nbsp; 🟡 Medium: 101 &nbsp;|&nbsp; 🔴 Hard: 29
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -220,10 +220,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
 | 5 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
 | 6 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 7 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 8 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 9 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 10 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 7 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 8 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 9 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 10 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 11 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -781,13 +782,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
 | 11 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 12 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 13 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 14 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 15 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 16 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 17 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 18 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 19 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 13 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 14 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 15 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 16 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 17 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 18 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 19 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 20 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## String
 
@@ -815,20 +817,21 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 20 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 21 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 22 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
-| 23 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 24 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 25 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 26 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 27 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 28 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 29 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 30 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 31 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 32 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 33 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 34 | [Word Break](word-break/) | Medium | python3 |
-| 35 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 36 | [Word Search](word-search/) | Medium | python3 |
+| 23 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 24 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 25 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 26 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 27 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 28 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 29 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 30 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 31 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 32 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 33 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 34 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 35 | [Word Break](word-break/) | Medium | python3 |
+| 36 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 37 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
