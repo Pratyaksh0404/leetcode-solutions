@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 179 &nbsp;|&nbsp; 🟢 Easy: 49 &nbsp;|&nbsp; 🟡 Medium: 101 &nbsp;|&nbsp; 🔴 Hard: 29
+**Total solved:** 180 &nbsp;|&nbsp; 🟢 Easy: 50 &nbsp;|&nbsp; 🟡 Medium: 101 &nbsp;|&nbsp; 🔴 Hard: 29
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -292,9 +292,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Calculate Special Bonus](calculate-special-bonus/) | Easy | pythondata |
 | 4 | [Combine Two Tables](combine-two-tables/) | Easy | mysql |
 | 5 | [Customers Who Never Order](customers-who-never-order/) | Easy | pythondata |
-| 6 | [Invalid Tweets](invalid-tweets/) | Easy | pythondata |
-| 7 | [Recyclable and Low Fat Products](recyclable-and-low-fat-products/) | Easy | pythondata |
-| 8 | [Rising Temperature](rising-temperature/) | Easy | mysql |
+| 6 | [Find Users With Valid E-Mails](find-users-with-valid-e-mails/) | Easy | pythondata |
+| 7 | [Invalid Tweets](invalid-tweets/) | Easy | pythondata |
+| 8 | [Recyclable and Low Fat Products](recyclable-and-low-fat-products/) | Easy | pythondata |
+| 9 | [Rising Temperature](rising-temperature/) | Easy | mysql |
 
 ## Depth-First Search
 
