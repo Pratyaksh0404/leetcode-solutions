@@ -2322,5 +2322,18 @@
       "Backtracking",
       "Breadth-First Search"
     ]
+  },
+  {
+    "slug": "remove-outermost-parentheses",
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "remove-outermost-parentheses/",
+    "url": "https://leetcode.com/problems/remove-outermost-parentheses/",
+    "topics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
   }
 ]
