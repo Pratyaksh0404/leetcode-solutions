@@ -2335,5 +2335,16 @@
       "Stack",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "find-users-with-valid-e-mails",
+    "title": "Find Users With Valid E-Mails",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "path": "find-users-with-valid-e-mails/",
+    "url": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+    "topics": [
+      "Database"
+    ]
   }
 ]
