@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 180 &nbsp;|&nbsp; 🟢 Easy: 50 &nbsp;|&nbsp; 🟡 Medium: 101 &nbsp;|&nbsp; 🔴 Hard: 29
+**Total solved:** 181 &nbsp;|&nbsp; 🟢 Easy: 50 &nbsp;|&nbsp; 🟡 Medium: 102 &nbsp;|&nbsp; 🔴 Hard: 29
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -220,11 +220,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
 | 5 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
 | 6 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 7 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 8 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 9 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 10 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 11 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 7 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 8 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 9 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 10 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 11 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 12 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## Breadth-First Search
 
@@ -445,11 +446,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 7 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 8 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 9 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 10 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 11 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 12 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 13 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 9 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 10 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 11 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 12 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 13 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 14 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -781,16 +783,17 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
 | 9 | [Min Stack](min-stack/) | Medium | python3 |
 | 10 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 11 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
-| 12 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 13 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 14 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 15 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 16 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 17 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 18 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 19 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 20 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 11 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 12 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
+| 13 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 14 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 15 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 16 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 17 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 18 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 19 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 20 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 21 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 
 ## String
 
@@ -812,27 +815,28 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 15 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 16 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 17 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 18 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 19 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 20 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 21 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 22 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
-| 23 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 24 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 25 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 26 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 27 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 28 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 29 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 30 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 31 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 32 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 33 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 34 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 35 | [Word Break](word-break/) | Medium | python3 |
-| 36 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 37 | [Word Search](word-search/) | Medium | python3 |
+| 17 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 18 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 19 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 20 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 21 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 22 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 23 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
+| 24 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 25 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 26 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 27 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 28 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 29 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 30 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 31 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 32 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 33 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 34 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 35 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 36 | [Word Break](word-break/) | Medium | python3 |
+| 37 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 38 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
