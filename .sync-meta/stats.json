@@ -2360,5 +2360,22 @@
       "Greedy",
       "Bracket Sequences"
     ]
+  },
+  {
+    "slug": "maximum-sum-of-m-non-overlapping-subarrays-ii",
+    "title": "Maximum Sum of M Non-Overlapping Subarrays II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "maximum-sum-of-m-non-overlapping-subarrays-ii/",
+    "url": "https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Queue",
+      "Sliding Window",
+      "Prefix Sum",
+      "Monotonic Queue"
+    ]
   }
 ]
