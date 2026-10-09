@@ -2346,5 +2346,19 @@
     "topics": [
       "Database"
     ]
+  },
+  {
+    "slug": "minimum-insertions-to-balance-a-parentheses-string",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-insertions-to-balance-a-parentheses-string/",
+    "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+    "topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ]
   }
 ]
