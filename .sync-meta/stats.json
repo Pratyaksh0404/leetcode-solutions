@@ -2377,5 +2377,20 @@
       "Prefix Sum",
       "Monotonic Queue"
     ]
+  },
+  {
+    "slug": "minimum-sum-of-squared-difference",
+    "title": "Minimum Sum of Squared Difference",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-sum-of-squared-difference/",
+    "url": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
