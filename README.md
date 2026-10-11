@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 183 &nbsp;|&nbsp; 🟢 Easy: 50 &nbsp;|&nbsp; 🟡 Medium: 103 &nbsp;|&nbsp; 🔴 Hard: 30
+**Total solved:** 184 &nbsp;|&nbsp; 🟢 Easy: 51 &nbsp;|&nbsp; 🟡 Medium: 103 &nbsp;|&nbsp; 🔴 Hard: 30
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -96,14 +96,15 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 80 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 81 | [Subsets](subsets/) | Medium | python3 |
 | 82 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 83 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 84 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 85 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 86 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 87 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 88 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 89 | [Word Break](word-break/) | Medium | python3 |
-| 90 | [Word Search](word-search/) | Medium | python3 |
+| 83 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 84 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 85 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 86 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 87 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 88 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 89 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 90 | [Word Break](word-break/) | Medium | python3 |
+| 91 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -397,8 +398,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 2 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 3 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 2 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 3 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 4 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Euclidean Algorithm
 
