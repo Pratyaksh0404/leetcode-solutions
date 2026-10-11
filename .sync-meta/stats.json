@@ -2392,5 +2392,17 @@
       "Sorting",
       "Heap (Priority Queue)"
     ]
+  },
+  {
+    "slug": "sum-of-squares-of-special-elements",
+    "title": "Sum of Squares of Special Elements ",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "sum-of-squares-of-special-elements/",
+    "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+    "topics": [
+      "Array",
+      "Enumeration"
+    ]
   }
 ]
