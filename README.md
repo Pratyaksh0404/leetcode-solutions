@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 191 &nbsp;|&nbsp; 🟢 Easy: 52 &nbsp;|&nbsp; 🟡 Medium: 107 &nbsp;|&nbsp; 🔴 Hard: 32
+**Total solved:** 192 &nbsp;|&nbsp; 🟢 Easy: 53 &nbsp;|&nbsp; 🟡 Medium: 107 &nbsp;|&nbsp; 🔴 Hard: 32
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -934,12 +934,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Maximize Meeting Earnings with Idle Gaps](maximize-meeting-earnings-with-idle-gaps/) | Hard | python3 |
 | 7 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
 | 8 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
-| 9 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
-| 10 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
-| 11 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
-| 12 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 13 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 14 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
-| 15 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
-| 16 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 17 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
+| 9 | [Maximum Product Pair With Target Sum](maximum-product-pair-with-target-sum/) | Easy | python3 |
+| 10 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
+| 11 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
+| 12 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
+| 13 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
+| 14 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 15 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
+| 16 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
+| 17 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 18 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
