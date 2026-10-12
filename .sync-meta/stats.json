@@ -2481,5 +2481,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "maximum-product-pair-with-target-sum",
+    "title": "Maximum Product Pair With Target Sum",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "maximum-product-pair-with-target-sum/",
+    "url": "https://leetcode.com/problems/maximum-product-pair-with-target-sum/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
