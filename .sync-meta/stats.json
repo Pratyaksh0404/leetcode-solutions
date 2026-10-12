@@ -2426,5 +2426,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "longest-resilient-subarray-i",
+    "title": "Longest Resilient Subarray I",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "longest-resilient-subarray-i/",
+    "url": "https://leetcode.com/problems/longest-resilient-subarray-i/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
