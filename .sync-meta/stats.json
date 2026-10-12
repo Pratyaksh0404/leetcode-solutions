@@ -2404,5 +2404,16 @@
       "Array",
       "Enumeration"
     ]
+  },
+  {
+    "slug": "longest-resilient-subarray-ii",
+    "title": "Longest Resilient Subarray II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "longest-resilient-subarray-ii/",
+    "url": "https://leetcode.com/problems/longest-resilient-subarray-ii/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
