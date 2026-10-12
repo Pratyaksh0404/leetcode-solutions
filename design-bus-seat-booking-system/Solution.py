@@ -1,24 +1,26 @@
 class BusBooking:
 
     def __init__(self, n: int):
-        self.booked = set()
-        self.total_time = 0
-        self.costs = {}
+        self.n=n
+        self.cost={}
+        self.total=0
 
     def toggle(self, seat: str) -> None:
-        if seat in self.booked:
-            self.booked.remove(seat)
-            self.total_time -= self.costs.pop(seat)
-        else:
-            self.booked.add(seat)
-            c, r = seat[0], seat[1:]
-            adj = 'B' if c == 'A' else ('C' if c == 'D' else None)
-            cost = 3 if adj and f"{adj}{r}" in self.booked else 1
-            self.costs[seat] = cost
-            self.total_time += cost
-
+        if seat in self.cost:
+            self.total-=self.cost.pop(seat)
+            return
+        l,row=seat[0],seat[1:]
+        c=1
+        if l=='A' and ('B'+row) in self.cost:
+            c=3
+        elif l=='D' and ('C'+row) in self.cost:
+            c=3
+        self.cost[seat]=c
+        self.total+=c
+        
     def getTotalTime(self) -> int:
-        return self.total_time
+        return self.total
 
     def getMinTime(self) -> int:
-        return len(self.booked)
+        return len(self.cost)
+
