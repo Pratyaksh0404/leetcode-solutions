@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 190 &nbsp;|&nbsp; 🟢 Easy: 51 &nbsp;|&nbsp; 🟡 Medium: 107 &nbsp;|&nbsp; 🔴 Hard: 32
+**Total solved:** 191 &nbsp;|&nbsp; 🟢 Easy: 52 &nbsp;|&nbsp; 🟡 Medium: 107 &nbsp;|&nbsp; 🔴 Hard: 32
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -942,3 +942,4 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
 | 15 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
 | 16 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 17 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
