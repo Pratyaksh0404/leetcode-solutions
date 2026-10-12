@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 185 &nbsp;|&nbsp; 🟢 Easy: 51 &nbsp;|&nbsp; 🟡 Medium: 104 &nbsp;|&nbsp; 🔴 Hard: 30
+**Total solved:** 186 &nbsp;|&nbsp; 🟢 Easy: 51 &nbsp;|&nbsp; 🟡 Medium: 104 &nbsp;|&nbsp; 🔴 Hard: 31
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -933,7 +933,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
 | 6 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
 | 7 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
-| 8 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
-| 9 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 10 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 11 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 8 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
+| 9 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
+| 10 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
+| 11 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 12 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
