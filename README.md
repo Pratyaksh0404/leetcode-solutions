@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 189 &nbsp;|&nbsp; 🟢 Easy: 51 &nbsp;|&nbsp; 🟡 Medium: 106 &nbsp;|&nbsp; 🔴 Hard: 32
+**Total solved:** 190 &nbsp;|&nbsp; 🟢 Easy: 51 &nbsp;|&nbsp; 🟡 Medium: 107 &nbsp;|&nbsp; 🔴 Hard: 32
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -939,5 +939,6 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 11 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
 | 12 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
 | 13 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 14 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
-| 15 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 14 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
+| 15 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
+| 16 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
