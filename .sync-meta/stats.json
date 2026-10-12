@@ -2415,5 +2415,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimize-inversions-in-a-prefix-tree",
+    "title": "Minimize Inversions in a Prefix Tree",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "minimize-inversions-in-a-prefix-tree/",
+    "url": "https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
