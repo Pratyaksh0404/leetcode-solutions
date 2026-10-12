@@ -2437,5 +2437,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "prime-subset-selection-ii",
+    "title": "Prime Subset Selection II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "prime-subset-selection-ii/",
+    "url": "https://leetcode.com/problems/prime-subset-selection-ii/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
