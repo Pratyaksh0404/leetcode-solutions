@@ -2470,5 +2470,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "three-fibonacci-sum",
+    "title": "Three Fibonacci Sum",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "three-fibonacci-sum/",
+    "url": "https://leetcode.com/problems/three-fibonacci-sum/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
