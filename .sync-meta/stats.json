@@ -2506,5 +2506,18 @@
       "Greedy",
       "Bit Manipulation"
     ]
+  },
+  {
+    "slug": "maximum-alternating-sum-of-squares",
+    "title": "Maximum Alternating Sum of Squares",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximum-alternating-sum-of-squares/",
+    "url": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
   }
 ]
