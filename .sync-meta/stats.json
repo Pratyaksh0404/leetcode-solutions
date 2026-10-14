@@ -2519,5 +2519,17 @@
       "Greedy",
       "Sorting"
     ]
+  },
+  {
+    "slug": "maximize-sum-of-squares-of-digits",
+    "title": "Maximize Sum of Squares of Digits",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximize-sum-of-squares-of-digits/",
+    "url": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
   }
 ]
