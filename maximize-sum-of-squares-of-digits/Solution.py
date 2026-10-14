@@ -2,6 +2,7 @@ class Solution:
     def maxSumOfSquares(self, num: int, sum: int) -> str:
         if sum<1 or sum>9*num:
             return ""
+            
         a = sum
         ans = []
         for i in range(num):
