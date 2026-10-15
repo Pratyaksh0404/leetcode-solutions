@@ -2531,5 +2531,19 @@
       "Math",
       "Greedy"
     ]
+  },
+  {
+    "slug": "subarrays-distinct-element-sum-of-squares-i",
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "subarrays-distinct-element-sum-of-squares-i/",
+    "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
   }
 ]
