@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 196 &nbsp;|&nbsp; 🟢 Easy: 54 &nbsp;|&nbsp; 🟡 Medium: 109 &nbsp;|&nbsp; 🔴 Hard: 33
+**Total solved:** 197 &nbsp;|&nbsp; 🟢 Easy: 54 &nbsp;|&nbsp; 🟡 Medium: 109 &nbsp;|&nbsp; 🔴 Hard: 34
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -97,17 +97,18 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 81 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 82 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 83 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
-| 84 | [Subsets](subsets/) | Medium | python3 |
-| 85 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 86 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
-| 87 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 88 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 89 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 90 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 91 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 92 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 93 | [Word Break](word-break/) | Medium | python3 |
-| 94 | [Word Search](word-search/) | Medium | python3 |
+| 84 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
+| 85 | [Subsets](subsets/) | Medium | python3 |
+| 86 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 87 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 88 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 89 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 90 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 91 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 92 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 93 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 94 | [Word Break](word-break/) | Medium | python3 |
+| 95 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -139,6 +140,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 2 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
+| 3 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
 
 ## Binary Search
 
@@ -502,12 +504,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 27 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 28 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 29 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
-| 30 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 31 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 32 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 33 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 34 | [Word Break](word-break/) | Medium | python3 |
-| 35 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 30 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
+| 31 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 32 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 33 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 34 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 35 | [Word Break](word-break/) | Medium | python3 |
+| 36 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -738,6 +741,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Count Shadow Pairs II](count-shadow-pairs-ii/) | Hard | python3 |
 | 2 | [Find X Value of Array II](find-x-value-of-array-ii/) | Hard | python3 |
 | 3 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
+| 4 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
 
 ## Sieve Theory
 
