@@ -2559,5 +2559,18 @@
       "Binary Indexed Tree",
       "Segment Tree"
     ]
+  },
+  {
+    "slug": "minimum-swaps-to-sort-by-digit-sum",
+    "title": "Minimum Swaps to Sort by Digit Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-swaps-to-sort-by-digit-sum/",
+    "url": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
   }
 ]
