@@ -2615,5 +2615,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "last-visited-cell-in-a-directional-grid",
+    "title": "Last Visited Cell in a Directional Grid",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "last-visited-cell-in-a-directional-grid/",
+    "url": "https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
