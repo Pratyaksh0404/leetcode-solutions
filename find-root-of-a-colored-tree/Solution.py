@@ -2,39 +2,29 @@
 class Solution:
     def findColoredRoot(self, edges: list[list[int]], colors: str) -> int:
         n = len(colors)
-        adj = [[] for _ in range(n)]
+        nxt = {'R': 'B', 'B': 'W', 'W': 'R'}
+        indegree = [0] * n
+        outdegree = [0] * n
 
         for u, v in edges:
-            adj[u].append(v)
-            adj[v].append(u)
+            if nxt[colors[u]] == colors[v]:
+                outdegree[u] += 1
+                indegree[v] += 1
+            elif nxt[colors[v]] == colors[u]:
+                outdegree[v] += 1
+                indegree[u] += 1
+            else:
+                return -1
 
-        nxt = {'R': 'B', 'B': 'W', 'W': 'R'}
-        prv = {'R': 'W', 'B': 'R', 'W': 'B'}
+        root = -1
 
-        for root in range(n):
-            if len(adj[root]) > 2:
-                continue
+        for i in range(n):
+            if outdegree[i] > 2 or indegree[i] > 1:
+                return -1
 
-            valid = True
-            stack = [(root, -1)]
+            if indegree[i] == 0:
+                if root != -1:
+                    return -1
+                root = i
 
-            while stack:
-                u, parent = stack.pop()
-
-                for v in adj[u]:
-                    if v == parent:
-                        continue
-
-                    if colors[v] != nxt[colors[u]]:
-                        valid = False
-                        break
-
-                    stack.append((v, u))
-
-                if not valid:
-                    break
-
-            if valid:
-                return root
-
-        return -1
+        return root
