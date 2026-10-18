@@ -2626,5 +2626,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimum-deletions-to-make-array-sharp",
+    "title": "Minimum Deletions to Make Array Sharp",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "minimum-deletions-to-make-array-sharp/",
+    "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
