@@ -2593,5 +2593,16 @@
       "Binary Tree",
       "Fermat's Little Theorem"
     ]
+  },
+  {
+    "slug": "minimum-interval-selection-to-cover-target-intervals",
+    "title": "Minimum Interval Selection to Cover Target Intervals",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "minimum-interval-selection-to-cover-target-intervals/",
+    "url": "https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
