@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 201 &nbsp;|&nbsp; 🟢 Easy: 54 &nbsp;|&nbsp; 🟡 Medium: 111 &nbsp;|&nbsp; 🔴 Hard: 36
+**Total solved:** 202 &nbsp;|&nbsp; 🟢 Easy: 54 &nbsp;|&nbsp; 🟡 Medium: 112 &nbsp;|&nbsp; 🔴 Hard: 36
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -965,20 +965,21 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 1 | [Count Good Strings](count-good-strings/) | Hard | python3 |
 | 2 | [Design Bus Seat Booking System](design-bus-seat-booking-system/) | Medium | python3 |
 | 3 | [Find Root of a Colored Tree](find-root-of-a-colored-tree/) | Medium | python3 |
-| 4 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
-| 5 | [Longest Resilient Subarray I](longest-resilient-subarray-i/) | Medium | python3 |
-| 6 | [Longest Resilient Subarray II](longest-resilient-subarray-ii/) | Medium | python3 |
-| 7 | [Maximize Meeting Earnings with Idle Gaps](maximize-meeting-earnings-with-idle-gaps/) | Hard | python3 |
-| 8 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
-| 9 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
-| 10 | [Maximum Product Pair With Target Sum](maximum-product-pair-with-target-sum/) | Easy | python3 |
-| 11 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
-| 12 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
-| 13 | [Minimum Interval Selection to Cover Target Intervals](minimum-interval-selection-to-cover-target-intervals/) | Hard | python3 |
-| 14 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
-| 15 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 16 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 17 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
-| 18 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
-| 19 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 20 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
+| 4 | [Last Visited Cell in a Directional Grid](last-visited-cell-in-a-directional-grid/) | Medium | python3 |
+| 5 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
+| 6 | [Longest Resilient Subarray I](longest-resilient-subarray-i/) | Medium | python3 |
+| 7 | [Longest Resilient Subarray II](longest-resilient-subarray-ii/) | Medium | python3 |
+| 8 | [Maximize Meeting Earnings with Idle Gaps](maximize-meeting-earnings-with-idle-gaps/) | Hard | python3 |
+| 9 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
+| 10 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
+| 11 | [Maximum Product Pair With Target Sum](maximum-product-pair-with-target-sum/) | Easy | python3 |
+| 12 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
+| 13 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
+| 14 | [Minimum Interval Selection to Cover Target Intervals](minimum-interval-selection-to-cover-target-intervals/) | Hard | python3 |
+| 15 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
+| 16 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
+| 17 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 18 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
+| 19 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
+| 20 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 21 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
