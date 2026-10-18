@@ -2604,5 +2604,16 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "find-root-of-a-colored-tree",
+    "title": "Find Root of a Colored Tree",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "find-root-of-a-colored-tree/",
+    "url": "https://leetcode.com/problems/find-root-of-a-colored-tree/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
