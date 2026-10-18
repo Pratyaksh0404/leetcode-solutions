@@ -2637,5 +2637,18 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "longest-almost-palindromic-substring",
+    "title": "Longest Almost-Palindromic Substring",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "longest-almost-palindromic-substring/",
+    "url": "https://leetcode.com/problems/longest-almost-palindromic-substring/",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
   }
 ]
