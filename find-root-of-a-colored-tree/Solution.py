@@ -1,26 +1,40 @@
-from collections import deque
+
 class Solution:
     def findColoredRoot(self, edges: list[list[int]], colors: str) -> int:
-        n,a = len(colors),[[] for _ in range(len(colors))]
-        for u,v in edges:
-            a[u].append(v)
-            a[v].append(u)
-        s = {'R':'RBW','B':'BWR','W':'WRB'}
-        for i in range(n):
-            q,v,ok = deque([(i,0)]),{i},True
-            while q and ok:
-                u,d = q.popleft()
-                if colors[u]!= s[colors[i]][d%3]:
-                    ok = 0
+        n = len(colors)
+        adj = [[] for _ in range(n)]
+
+        for u, v in edges:
+            adj[u].append(v)
+            adj[v].append(u)
+
+        nxt = {'R': 'B', 'B': 'W', 'W': 'R'}
+        prv = {'R': 'W', 'B': 'R', 'W': 'B'}
+
+        for root in range(n):
+            if len(adj[root]) > 2:
+                continue
+
+            valid = True
+            stack = [(root, -1)]
+
+            while stack:
+                u, parent = stack.pop()
+
+                for v in adj[u]:
+                    if v == parent:
+                        continue
+
+                    if colors[v] != nxt[colors[u]]:
+                        valid = False
+                        break
+
+                    stack.append((v, u))
+
+                if not valid:
                     break
-                c = 0
-                for x in a[u]:
-                    if x not in v:
-                        v.add(x)
-                        c += 1
-                        q.append((x,d+1))
-                if c>2:
-                    ok = 0
-            if ok:
-                return i
+
+            if valid:
+                return root
+
         return -1
