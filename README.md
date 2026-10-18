@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 203 &nbsp;|&nbsp; 🟢 Easy: 55 &nbsp;|&nbsp; 🟡 Medium: 112 &nbsp;|&nbsp; 🔴 Hard: 36
+**Total solved:** 204 &nbsp;|&nbsp; 🟢 Easy: 55 &nbsp;|&nbsp; 🟡 Medium: 113 &nbsp;|&nbsp; 🔴 Hard: 36
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -388,24 +388,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 8 | [Find X Value of Array I](find-x-value-of-array-i/) | Medium | python3 |
 | 9 | [Generate Parentheses](generate-parentheses/) | Medium | python3 |
 | 10 | [Jump Game II](jump-game-ii/) | Medium | python3 |
-| 11 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
-| 12 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
-| 13 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 14 | [Maximum Product Subarray](maximum-product-subarray/) | Medium | python3 |
-| 15 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
-| 16 | [Maximum Subarray](maximum-subarray/) | Medium | python3 |
-| 17 | [Maximum Sum of M Non-Overlapping Subarrays II](maximum-sum-of-m-non-overlapping-subarrays-ii/) | Hard | python3 |
-| 18 | [Minimum Path Sum](minimum-path-sum/) | Medium | python3 |
-| 19 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 20 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
-| 21 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 22 | [Pascal's Triangle](pascals-triangle/) | Easy | python3 |
-| 23 | [Perfect Squares](perfect-squares/) | Medium | python3 |
-| 24 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 25 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 26 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 27 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 28 | [Word Break](word-break/) | Medium | python3 |
+| 11 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
+| 12 | [Longest Increasing Subsequence](longest-increasing-subsequence/) | Medium | python3 |
+| 13 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
+| 14 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 15 | [Maximum Product Subarray](maximum-product-subarray/) | Medium | python3 |
+| 16 | [Maximum Score of Non-overlapping Intervals](maximum-score-of-non-overlapping-intervals/) | Hard | python3 |
+| 17 | [Maximum Subarray](maximum-subarray/) | Medium | python3 |
+| 18 | [Maximum Sum of M Non-Overlapping Subarrays II](maximum-sum-of-m-non-overlapping-subarrays-ii/) | Hard | python3 |
+| 19 | [Minimum Path Sum](minimum-path-sum/) | Medium | python3 |
+| 20 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 21 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
+| 22 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 23 | [Pascal's Triangle](pascals-triangle/) | Easy | python3 |
+| 24 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+| 25 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 26 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 27 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 28 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 29 | [Word Break](word-break/) | Medium | python3 |
 
 ## Enumeration
 
@@ -856,35 +857,36 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Generate Parentheses](generate-parentheses/) | Medium | python3 |
 | 8 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
 | 9 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 10 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 11 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
-| 12 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
-| 13 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
-| 14 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 15 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 16 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 17 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
-| 18 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 19 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 20 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 21 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 22 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 23 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
-| 24 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 25 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 26 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 27 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 28 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 29 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 30 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 31 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 32 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 33 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 34 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 35 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 36 | [Word Break](word-break/) | Medium | python3 |
-| 37 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 38 | [Word Search](word-search/) | Medium | python3 |
+| 10 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
+| 11 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 12 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
+| 13 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 14 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
+| 15 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 16 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 17 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
+| 18 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 19 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 20 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 21 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 22 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 23 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 24 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
+| 25 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 26 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 27 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 28 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 29 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 30 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 31 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 32 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 33 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 34 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 35 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 36 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 37 | [Word Break](word-break/) | Medium | python3 |
+| 38 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 39 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
@@ -937,18 +939,19 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 6 | [Find the Duplicate Number](find-the-duplicate-number/) | Medium | python3 |
 | 7 | [Linked List Cycle](linked-list-cycle/) | Easy | python3 |
 | 8 | [Linked List Cycle II](linked-list-cycle-ii/) | Medium | python3 |
-| 9 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 10 | [Move Zeroes](move-zeroes/) | Easy | python3 |
-| 11 | [Next Permutation](next-permutation/) | Medium | python3 |
-| 12 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
-| 13 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
-| 14 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 15 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 16 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 17 | [Sort List](sort-list/) | Medium | python3 |
-| 18 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 19 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 20 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 9 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
+| 10 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 11 | [Move Zeroes](move-zeroes/) | Easy | python3 |
+| 12 | [Next Permutation](next-permutation/) | Medium | python3 |
+| 13 | [Number of Subsequences That Satisfy the Given Sum Condition](number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | python3 |
+| 14 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
+| 15 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 16 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 17 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 18 | [Sort List](sort-list/) | Medium | python3 |
+| 19 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 20 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 21 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Union-Find
 
