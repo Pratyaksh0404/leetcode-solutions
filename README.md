@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 199 &nbsp;|&nbsp; 🟢 Easy: 54 &nbsp;|&nbsp; 🟡 Medium: 110 &nbsp;|&nbsp; 🔴 Hard: 35
+**Total solved:** 200 &nbsp;|&nbsp; 🟢 Easy: 54 &nbsp;|&nbsp; 🟡 Medium: 110 &nbsp;|&nbsp; 🔴 Hard: 36
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -973,10 +973,11 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Maximum Product Pair With Target Sum](maximum-product-pair-with-target-sum/) | Easy | python3 |
 | 10 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
 | 11 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
-| 12 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
-| 13 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 14 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 15 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
-| 16 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
-| 17 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 18 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
+| 12 | [Minimum Interval Selection to Cover Target Intervals](minimum-interval-selection-to-cover-target-intervals/) | Hard | python3 |
+| 13 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
+| 14 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
+| 15 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 16 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
+| 17 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
+| 18 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 19 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
