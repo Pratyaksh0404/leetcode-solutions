@@ -2650,5 +2650,18 @@
       "String",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "find-target-indices-after-sorting-array",
+    "title": "Find Target Indices After Sorting Array",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "find-target-indices-after-sorting-array/",
+    "url": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
   }
 ]
