@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 205 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 113 &nbsp;|&nbsp; 🔴 Hard: 36
+**Total solved:** 206 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 113 &nbsp;|&nbsp; 🔴 Hard: 37
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -103,15 +103,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 87 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
 | 88 | [Subsets](subsets/) | Medium | python3 |
 | 89 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 90 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
-| 91 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 92 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 93 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 94 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 95 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 96 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 97 | [Word Break](word-break/) | Medium | python3 |
-| 98 | [Word Search](word-search/) | Medium | python3 |
+| 90 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 91 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 92 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 93 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 94 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 95 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 96 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 97 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 98 | [Word Break](word-break/) | Medium | python3 |
+| 99 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -415,9 +416,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 2 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
-| 3 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 4 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 2 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 3 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 4 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 5 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
 ## Euclidean Algorithm
 
@@ -613,7 +615,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 24 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 25 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 26 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 27 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 27 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 28 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -819,7 +822,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 21 | [Sort Colors](sort-colors/) | Medium | python3 |
 | 22 | [Sort List](sort-list/) | Medium | python3 |
 | 23 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 24 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 24 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 25 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Stack
 
