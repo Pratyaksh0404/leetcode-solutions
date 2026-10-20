@@ -2663,5 +2663,19 @@
       "Binary Search",
       "Sorting"
     ]
+  },
+  {
+    "slug": "sum-of-sortable-integers",
+    "title": "Sum of Sortable Integers",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "sum-of-sortable-integers/",
+    "url": "https://leetcode.com/problems/sum-of-sortable-integers/",
+    "topics": [
+      "Array",
+      "Math",
+      "Sorting",
+      "Enumeration"
+    ]
   }
 ]
