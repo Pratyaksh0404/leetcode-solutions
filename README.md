@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 206 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 113 &nbsp;|&nbsp; 🔴 Hard: 37
+**Total solved:** 207 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 114 &nbsp;|&nbsp; 🔴 Hard: 37
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -99,20 +99,21 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 83 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
 | 84 | [Snapshot Array](snapshot-array/) | Medium | python3 |
 | 85 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 86 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
-| 87 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
-| 88 | [Subsets](subsets/) | Medium | python3 |
-| 89 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 90 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
-| 91 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
-| 92 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 93 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 94 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 95 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 96 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 97 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 98 | [Word Break](word-break/) | Medium | python3 |
-| 99 | [Word Search](word-search/) | Medium | python3 |
+| 86 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
+| 87 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
+| 88 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
+| 89 | [Subsets](subsets/) | Medium | python3 |
+| 90 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 91 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 92 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 93 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 94 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 95 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 96 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 97 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 98 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 99 | [Word Break](word-break/) | Medium | python3 |
+| 100 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -634,8 +635,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 10 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
 | 11 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
 | 12 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 13 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 14 | [Word Search](word-search/) | Medium | python3 |
+| 13 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
+| 14 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 15 | [Word Search](word-search/) | Medium | python3 |
 
 ## Memoization
 
@@ -779,7 +781,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
 | 3 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 4 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 5 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 5 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
+| 6 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Sliding Window
 
