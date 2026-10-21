@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 207 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 114 &nbsp;|&nbsp; 🔴 Hard: 37
+**Total solved:** 208 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 115 &nbsp;|&nbsp; 🔴 Hard: 37
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -876,27 +876,28 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 16 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 17 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
 | 18 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
-| 19 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 20 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 21 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 22 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 23 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 24 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
-| 25 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 26 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 27 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 28 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 29 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 30 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 31 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 32 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 33 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 34 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 35 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 36 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 37 | [Word Break](word-break/) | Medium | python3 |
-| 38 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 39 | [Word Search](word-search/) | Medium | python3 |
+| 19 | [Minimum Operations to Sort a String](minimum-operations-to-sort-a-string/) | Medium | python3 |
+| 20 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 21 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 22 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 23 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 24 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 25 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
+| 26 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 27 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 28 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 29 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 30 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 31 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 32 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 33 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 34 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 35 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 36 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 37 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 38 | [Word Break](word-break/) | Medium | python3 |
+| 39 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 40 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
