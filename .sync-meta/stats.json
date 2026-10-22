@@ -2701,5 +2701,16 @@
     "topics": [
       "String"
     ]
+  },
+  {
+    "slug": "minimum-operations-to-sort-a-permutation",
+    "title": "Minimum Operations to Sort a Permutation",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-operations-to-sort-a-permutation/",
+    "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+    "topics": [
+      "Array"
+    ]
   }
 ]
