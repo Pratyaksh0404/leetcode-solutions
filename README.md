@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 210 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 117 &nbsp;|&nbsp; 🔴 Hard: 37
+**Total solved:** 211 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 118 &nbsp;|&nbsp; 🔴 Hard: 37
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -578,9 +578,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 | 8 | [Palindrome Linked List](palindrome-linked-list/) | Easy | python3 |
 | 9 | [Reverse Linked List](reverse-linked-list/) | Easy | python3 |
-| 10 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
-| 11 | [Sort List](sort-list/) | Medium | python3 |
-| 12 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
+| 10 | [Reverse Linked List II](reverse-linked-list-ii/) | Medium | python3 |
+| 11 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group/) | Hard | python3 |
+| 12 | [Sort List](sort-list/) | Medium | python3 |
+| 13 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 
 ## Longest Increasing Subsequence
 
