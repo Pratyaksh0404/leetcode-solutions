@@ -2735,5 +2735,20 @@
     "topics": [
       "Linked List"
     ]
+  },
+  {
+    "slug": "unique-binary-search-trees",
+    "title": "Unique Binary Search Trees",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "unique-binary-search-trees/",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees/",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
   }
 ]
