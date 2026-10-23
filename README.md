@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 211 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 118 &nbsp;|&nbsp; 🔴 Hard: 37
+**Total solved:** 212 &nbsp;|&nbsp; 🟢 Easy: 56 &nbsp;|&nbsp; 🟡 Medium: 119 &nbsp;|&nbsp; 🔴 Hard: 37
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -197,7 +197,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
 | 2 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
-| 3 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 3 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 4 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Binary Tree
 
@@ -212,7 +213,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
 | 8 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
 | 9 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
-| 10 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 10 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 11 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Bit Manipulation
 
@@ -412,8 +414,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 25 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 26 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 27 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 28 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 29 | [Word Break](word-break/) | Medium | python3 |
+| 28 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 29 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 30 | [Word Break](word-break/) | Medium | python3 |
 
 ## Enumeration
 
@@ -621,7 +624,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 25 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 26 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
 | 27 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
-| 28 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 28 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 29 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -934,7 +938,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 7 | [Invert Binary Tree](invert-binary-tree/) | Easy | python3 |
 | 8 | [Kth Smallest Element in a BST](kth-smallest-element-in-a-bst/) | Medium | python3 |
 | 9 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
-| 10 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
+| 10 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 11 | [Validate Binary Search Tree](validate-binary-search-tree/) | Medium | python3 |
 
 ## Trie
 
