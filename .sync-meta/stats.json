@@ -2712,5 +2712,17 @@
     "topics": [
       "Array"
     ]
+  },
+  {
+    "slug": "maximum-k-to-sort-a-permutation",
+    "title": "Maximum K to Sort a Permutation",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximum-k-to-sort-a-permutation/",
+    "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+    "topics": [
+      "Array",
+      "Bit Manipulation"
+    ]
   }
 ]
