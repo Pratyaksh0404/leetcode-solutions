@@ -2724,5 +2724,16 @@
       "Array",
       "Bit Manipulation"
     ]
+  },
+  {
+    "slug": "reverse-linked-list-ii",
+    "title": "Reverse Linked List II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "reverse-linked-list-ii/",
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+    "topics": [
+      "Linked List"
+    ]
   }
 ]
