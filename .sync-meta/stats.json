@@ -2750,5 +2750,17 @@
       "Binary Search Tree",
       "Binary Tree"
     ]
+  },
+  {
+    "slug": "count-days-spent-together",
+    "title": "Count Days Spent Together",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "count-days-spent-together/",
+    "url": "https://leetcode.com/problems/count-days-spent-together/",
+    "topics": [
+      "Math",
+      "String"
+    ]
   }
 ]
