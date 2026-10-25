@@ -2762,5 +2762,20 @@
       "Math",
       "String"
     ]
+  },
+  {
+    "slug": "number-of-closed-islands",
+    "title": "Number of Closed Islands",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "number-of-closed-islands/",
+    "url": "https://leetcode.com/problems/number-of-closed-islands/",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ]
   }
 ]
