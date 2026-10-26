@@ -2777,5 +2777,20 @@
       "Union-Find",
       "Matrix"
     ]
+  },
+  {
+    "slug": "count-islands-with-total-value-divisible-by-k",
+    "title": "Count Islands With Total Value Divisible by K",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "count-islands-with-total-value-divisible-by-k/",
+    "url": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ]
   }
 ]
