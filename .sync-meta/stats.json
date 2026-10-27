@@ -2792,5 +2792,16 @@
       "Union-Find",
       "Matrix"
     ]
+  },
+  {
+    "slug": "create-grid-with-exactly-one-path",
+    "title": "Create Grid With Exactly One Path",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "create-grid-with-exactly-one-path/",
+    "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
