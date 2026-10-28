@@ -2803,5 +2803,19 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "minimum-xor-path-in-a-grid",
+    "title": "Minimum XOR Path in a Grid",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-xor-path-in-a-grid/",
+    "url": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Matrix"
+    ]
   }
 ]
