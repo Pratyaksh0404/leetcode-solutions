@@ -2817,5 +2817,23 @@
       "Bit Manipulation",
       "Matrix"
     ]
+  },
+  {
+    "slug": "palindromic-path-queries-in-a-tree",
+    "title": "Palindromic Path Queries in a Tree",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "palindromic-path-queries-in-a-tree/",
+    "url": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+    "topics": [
+      "Array",
+      "String",
+      "Divide and Conquer",
+      "Bit Manipulation",
+      "Tree",
+      "Depth-First Search",
+      "Binary Indexed Tree",
+      "Segment Tree"
+    ]
   }
 ]
