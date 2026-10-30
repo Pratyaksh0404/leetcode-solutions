@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 218 &nbsp;|&nbsp; 🟢 Easy: 58 &nbsp;|&nbsp; 🟡 Medium: 122 &nbsp;|&nbsp; 🔴 Hard: 38
+**Total solved:** 219 &nbsp;|&nbsp; 🟢 Easy: 58 &nbsp;|&nbsp; 🟡 Medium: 123 &nbsp;|&nbsp; 🔴 Hard: 38
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -479,6 +479,7 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Course Schedule](course-schedule/) | Medium | python3 |
+| 2 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
 
 ## Greatest Common Divisor
 
@@ -560,7 +561,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 2 | [Find Median from Data Stream](find-median-from-data-stream/) | Hard | python3 |
 | 3 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 | 4 | [Minimum Sum of Squared Difference](minimum-sum-of-squared-difference/) | Medium | python3 |
-| 5 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 5 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
+| 6 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Interactive
 
@@ -794,6 +796,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 4 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
 | 5 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
 
+## Shortest Path
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
+
 ## Sieve Theory
 
 | # | My Solution | Difficulty | Language |
@@ -918,15 +926,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 31 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 32 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
 | 33 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 34 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 35 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 36 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 37 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 38 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 39 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 40 | [Word Break](word-break/) | Medium | python3 |
-| 41 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 42 | [Word Search](word-search/) | Medium | python3 |
+| 34 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
+| 35 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 36 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 37 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 38 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 39 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 40 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 41 | [Word Break](word-break/) | Medium | python3 |
+| 42 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 43 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
