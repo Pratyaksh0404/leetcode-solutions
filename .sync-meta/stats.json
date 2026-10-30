@@ -2835,5 +2835,19 @@
       "Binary Indexed Tree",
       "Segment Tree"
     ]
+  },
+  {
+    "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+    "title": "Shortest Path With At Most K Consecutive Identical Characters",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "shortest-path-with-at-most-k-consecutive-identical-characters/",
+    "url": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+    "topics": [
+      "String",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
   }
 ]
