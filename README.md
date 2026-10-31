@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 219 &nbsp;|&nbsp; 🟢 Easy: 58 &nbsp;|&nbsp; 🟡 Medium: 123 &nbsp;|&nbsp; 🔴 Hard: 38
+**Total solved:** 220 &nbsp;|&nbsp; 🟢 Easy: 58 &nbsp;|&nbsp; 🟡 Medium: 124 &nbsp;|&nbsp; 🔴 Hard: 38
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -114,12 +114,13 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 98 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
 | 99 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 | 100 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 101 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 102 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 103 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 104 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 105 | [Word Break](word-break/) | Medium | python3 |
-| 106 | [Word Search](word-search/) | Medium | python3 |
+| 101 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
+| 102 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 103 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 104 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 105 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 106 | [Word Break](word-break/) | Medium | python3 |
+| 107 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -428,9 +429,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 26 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
 | 27 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
 | 28 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 29 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
-| 30 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 31 | [Word Break](word-break/) | Medium | python3 |
+| 29 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
+| 30 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 31 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 32 | [Word Break](word-break/) | Medium | python3 |
 
 ## Enumeration
 
@@ -664,8 +666,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
 | 15 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
 | 16 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
-| 17 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 18 | [Word Search](word-search/) | Medium | python3 |
+| 17 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
+| 18 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 19 | [Word Search](word-search/) | Medium | python3 |
 
 ## Memoization
 
