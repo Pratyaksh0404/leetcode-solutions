@@ -2849,5 +2849,18 @@
       "Heap (Priority Queue)",
       "Shortest Path"
     ]
+  },
+  {
+    "slug": "twisted-mirror-path-count",
+    "title": "Twisted Mirror Path Count",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "twisted-mirror-path-count/",
+    "url": "https://leetcode.com/problems/twisted-mirror-path-count/",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
   }
 ]
