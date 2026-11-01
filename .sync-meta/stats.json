@@ -2862,5 +2862,17 @@
       "Dynamic Programming",
       "Matrix"
     ]
+  },
+  {
+    "slug": "minimum-moves-to-equal-array-elements",
+    "title": "Minimum Moves to Equal Array Elements",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-moves-to-equal-array-elements/",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+    "topics": [
+      "Array",
+      "Math"
+    ]
   }
 ]
