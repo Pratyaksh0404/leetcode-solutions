@@ -2887,5 +2887,17 @@
       "Math",
       "Sorting"
     ]
+  },
+  {
+    "slug": "minimum-moves-to-equal-array-elements-iii",
+    "title": "Minimum Moves to Equal Array Elements III",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "minimum-moves-to-equal-array-elements-iii/",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+    "topics": [
+      "Array",
+      "Math"
+    ]
   }
 ]
