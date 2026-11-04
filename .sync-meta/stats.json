@@ -2899,5 +2899,21 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "minimum-operations-to-make-elements-within-k-subarrays-equal/",
+    "url": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
