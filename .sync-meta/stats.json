@@ -2915,5 +2915,19 @@
       "Sliding Window",
       "Heap (Priority Queue)"
     ]
+  },
+  {
+    "slug": "find-the-distance-value-between-two-arrays",
+    "title": "Find the Distance Value Between Two Arrays",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "find-the-distance-value-between-two-arrays/",
+    "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+    "topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
   }
 ]
