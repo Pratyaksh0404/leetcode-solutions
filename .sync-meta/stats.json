@@ -2929,5 +2929,19 @@
       "Binary Search",
       "Sorting"
     ]
+  },
+  {
+    "slug": "count-zero-request-servers",
+    "title": "Count Zero Request Servers",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "count-zero-request-servers/",
+    "url": "https://leetcode.com/problems/count-zero-request-servers/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting"
+    ]
   }
 ]
