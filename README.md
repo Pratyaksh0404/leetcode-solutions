@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 226 &nbsp;|&nbsp; 🟢 Easy: 60 &nbsp;|&nbsp; 🟡 Medium: 127 &nbsp;|&nbsp; 🔴 Hard: 39
+**Total solved:** 227 &nbsp;|&nbsp; 🟢 Easy: 60 &nbsp;|&nbsp; 🟡 Medium: 128 &nbsp;|&nbsp; 🔴 Hard: 39
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -93,40 +93,41 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 77 | [Peak Index in a Mountain Array](peak-index-in-a-mountain-array/) | Medium | python3 |
 | 78 | [Permutations](permutations/) | Medium | python3 |
 | 79 | [Permutations II](permutations-ii/) | Medium | python3 |
-| 80 | [Product of Array Except Self](product-of-array-except-self/) | Medium | python3 |
-| 81 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 82 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 83 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 84 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 85 | [Rotting Oranges](rotting-oranges/) | Medium | python3 |
-| 86 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
-| 87 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
-| 88 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
-| 89 | [Search Insert Position](search-insert-position/) | Easy | python |
-| 90 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 91 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 92 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
-| 93 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 94 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
-| 95 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 96 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 97 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 98 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
-| 99 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
-| 100 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
-| 101 | [Subsets](subsets/) | Medium | python3 |
-| 102 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 103 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
-| 104 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
-| 105 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 106 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 107 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
-| 108 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 109 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 110 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 111 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 112 | [Word Break](word-break/) | Medium | python3 |
-| 113 | [Word Search](word-search/) | Medium | python3 |
+| 80 | [Process Tasks Using Servers](process-tasks-using-servers/) | Medium | python3 |
+| 81 | [Product of Array Except Self](product-of-array-except-self/) | Medium | python3 |
+| 82 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 83 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 84 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 85 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 86 | [Rotting Oranges](rotting-oranges/) | Medium | python3 |
+| 87 | [Russian Doll Envelopes](russian-doll-envelopes/) | Hard | python3 |
+| 88 | [Search a 2D Matrix](search-a-2d-matrix/) | Medium | python3 |
+| 89 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
+| 90 | [Search Insert Position](search-insert-position/) | Easy | python |
+| 91 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
+| 92 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
+| 93 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 94 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
+| 95 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
+| 96 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
+| 97 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 98 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 99 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
+| 100 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
+| 101 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
+| 102 | [Subsets](subsets/) | Medium | python3 |
+| 103 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 104 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 105 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 106 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 107 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 108 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
+| 109 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 110 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 111 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 112 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 113 | [Word Break](word-break/) | Medium | python3 |
+| 114 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -574,8 +575,9 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 3 | [Merge k Sorted Lists](merge-k-sorted-lists/) | Hard | python3 |
 | 4 | [Minimum Operations to Make Elements Within K Subarrays Equal](minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | python3 |
 | 5 | [Minimum Sum of Squared Difference](minimum-sum-of-squared-difference/) | Medium | python3 |
-| 6 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
-| 7 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
+| 6 | [Process Tasks Using Servers](process-tasks-using-servers/) | Medium | python3 |
+| 7 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
+| 8 | [Sliding Window Maximum](sliding-window-maximum/) | Hard | python3 |
 
 ## Interactive
 
