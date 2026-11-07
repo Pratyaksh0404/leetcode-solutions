@@ -2943,5 +2943,17 @@
       "Sliding Window",
       "Sorting"
     ]
+  },
+  {
+    "slug": "process-tasks-using-servers",
+    "title": "Process Tasks Using Servers",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "process-tasks-using-servers/",
+    "url": "https://leetcode.com/problems/process-tasks-using-servers/",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
