@@ -2955,5 +2955,21 @@
       "Array",
       "Heap (Priority Queue)"
     ]
+  },
+  {
+    "slug": "count-servers-that-communicate",
+    "title": "Count Servers that Communicate",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "count-servers-that-communicate/",
+    "url": "https://leetcode.com/problems/count-servers-that-communicate/",
+    "topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix",
+      "Counting"
+    ]
   }
 ]
