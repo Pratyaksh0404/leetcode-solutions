@@ -2971,5 +2971,16 @@
       "Matrix",
       "Counting"
     ]
+  },
+  {
+    "slug": "count-valid-suffix-sorts-ii",
+    "title": "Count Valid Suffix Sorts II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "count-valid-suffix-sorts-ii/",
+    "url": "https://leetcode.com/problems/count-valid-suffix-sorts-ii/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
