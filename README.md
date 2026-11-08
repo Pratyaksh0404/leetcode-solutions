@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 228 &nbsp;|&nbsp; 🟢 Easy: 60 &nbsp;|&nbsp; 🟡 Medium: 129 &nbsp;|&nbsp; 🔴 Hard: 39
+**Total solved:** 229 &nbsp;|&nbsp; 🟢 Easy: 60 &nbsp;|&nbsp; 🟡 Medium: 129 &nbsp;|&nbsp; 🔴 Hard: 40
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -1051,25 +1051,26 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Count Good Strings](count-good-strings/) | Hard | python3 |
-| 2 | [Create Grid With Exactly One Path](create-grid-with-exactly-one-path/) | Easy | python3 |
-| 3 | [Design Bus Seat Booking System](design-bus-seat-booking-system/) | Medium | python3 |
-| 4 | [Find Root of a Colored Tree](find-root-of-a-colored-tree/) | Medium | python3 |
-| 5 | [Last Visited Cell in a Directional Grid](last-visited-cell-in-a-directional-grid/) | Medium | python3 |
-| 6 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
-| 7 | [Longest Resilient Subarray I](longest-resilient-subarray-i/) | Medium | python3 |
-| 8 | [Longest Resilient Subarray II](longest-resilient-subarray-ii/) | Medium | python3 |
-| 9 | [Maximize Meeting Earnings with Idle Gaps](maximize-meeting-earnings-with-idle-gaps/) | Hard | python3 |
-| 10 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
-| 11 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
-| 12 | [Maximum Product Pair With Target Sum](maximum-product-pair-with-target-sum/) | Easy | python3 |
-| 13 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
-| 14 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
-| 15 | [Minimum Deletions to Make Array Sharp](minimum-deletions-to-make-array-sharp/) | Easy | python3 |
-| 16 | [Minimum Interval Selection to Cover Target Intervals](minimum-interval-selection-to-cover-target-intervals/) | Hard | python3 |
-| 17 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
-| 18 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
-| 19 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
-| 20 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
-| 21 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
-| 22 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
-| 23 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
+| 2 | [Count Valid Suffix Sorts II](count-valid-suffix-sorts-ii/) | Hard | python3 |
+| 3 | [Create Grid With Exactly One Path](create-grid-with-exactly-one-path/) | Easy | python3 |
+| 4 | [Design Bus Seat Booking System](design-bus-seat-booking-system/) | Medium | python3 |
+| 5 | [Find Root of a Colored Tree](find-root-of-a-colored-tree/) | Medium | python3 |
+| 6 | [Last Visited Cell in a Directional Grid](last-visited-cell-in-a-directional-grid/) | Medium | python3 |
+| 7 | [Lexicographically Largest Power Array](lexicographically-largest-power-array/) | Hard | python3 |
+| 8 | [Longest Resilient Subarray I](longest-resilient-subarray-i/) | Medium | python3 |
+| 9 | [Longest Resilient Subarray II](longest-resilient-subarray-ii/) | Medium | python3 |
+| 10 | [Maximize Meeting Earnings with Idle Gaps](maximize-meeting-earnings-with-idle-gaps/) | Hard | python3 |
+| 11 | [Maximum Alternating Subarray Sum With One Deletion](maximum-alternating-subarray-sum-with-one-deletion/) | Medium | python3 |
+| 12 | [Maximum Equal Adjacent Pairs After at Most One Replacement](maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | python3 |
+| 13 | [Maximum Product Pair With Target Sum](maximum-product-pair-with-target-sum/) | Easy | python3 |
+| 14 | [Maximum Pulse Value After One Subarray Rotation](maximum-pulse-value-after-one-subarray-rotation/) | Medium | python3 |
+| 15 | [Minimize Inversions in a Prefix Tree](minimize-inversions-in-a-prefix-tree/) | Hard | python3 |
+| 16 | [Minimum Deletions to Make Array Sharp](minimum-deletions-to-make-array-sharp/) | Easy | python3 |
+| 17 | [Minimum Interval Selection to Cover Target Intervals](minimum-interval-selection-to-cover-target-intervals/) | Hard | python3 |
+| 18 | [Minimum Rotations to Dial a Number I](minimum-rotations-to-dial-a-number-i/) | Easy | python3 |
+| 19 | [Minimum Rotations to Dial a Number II](minimum-rotations-to-dial-a-number-ii/) | Medium | python3 |
+| 20 | [Number of Intersecting Interval Pairs I](number-of-intersecting-interval-pairs-i/) | Easy | python3 |
+| 21 | [Prime Subset Selection I](prime-subset-selection-i/) | Medium | python3 |
+| 22 | [Prime Subset Selection II](prime-subset-selection-ii/) | Hard | python3 |
+| 23 | [Sum of Decoded Numbers](sum-of-decoded-numbers/) | Medium | python3 |
+| 24 | [Three Fibonacci Sum](three-fibonacci-sum/) | Easy | python3 |
