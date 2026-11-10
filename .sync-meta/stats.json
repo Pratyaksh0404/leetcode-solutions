@@ -2996,5 +2996,17 @@
       "Simulation",
       "Ordered Set"
     ]
+  },
+  {
+    "slug": "climbing-stairs-ii",
+    "title": "Climbing Stairs II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "climbing-stairs-ii/",
+    "url": "https://leetcode.com/problems/climbing-stairs-ii/",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]
