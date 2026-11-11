@@ -3008,5 +3008,17 @@
       "Array",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "minimum-cost-to-acquire-required-items",
+    "title": "Minimum Cost to Acquire Required Items",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-cost-to-acquire-required-items/",
+    "url": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+    "topics": [
+      "Math",
+      "Greedy"
+    ]
   }
 ]
