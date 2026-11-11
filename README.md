@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 231 &nbsp;|&nbsp; 🟢 Easy: 60 &nbsp;|&nbsp; 🟡 Medium: 130 &nbsp;|&nbsp; 🔴 Hard: 41
+**Total solved:** 232 &nbsp;|&nbsp; 🟢 Easy: 60 &nbsp;|&nbsp; 🟡 Medium: 131 &nbsp;|&nbsp; 🔴 Hard: 41
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -521,13 +521,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 9 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
 | 10 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
 | 11 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 12 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
-| 13 | [Minimum Sum of Squared Difference](minimum-sum-of-squared-difference/) | Medium | python3 |
-| 14 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 15 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
-| 16 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 17 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 18 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 12 | [Minimum Cost to Acquire Required Items](minimum-cost-to-acquire-required-items/) | Medium | python3 |
+| 13 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 14 | [Minimum Sum of Squared Difference](minimum-sum-of-squared-difference/) | Medium | python3 |
+| 15 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 16 | [Removing Minimum and Maximum From Array](removing-minimum-and-maximum-from-array/) | Medium | python3 |
+| 17 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 18 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 19 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Hash Table
 
@@ -652,24 +653,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 14 | [Largest Triangle Area](largest-triangle-area/) | Easy | python3 |
 | 15 | [Max Points on a Line](max-points-on-a-line/) | Hard | python3 |
 | 16 | [Maximize Sum of Squares of Digits](maximize-sum-of-squares-of-digits/) | Medium | python3 |
-| 17 | [Minimum Moves to Equal Array Elements](minimum-moves-to-equal-array-elements/) | Medium | python3 |
-| 18 | [Minimum Moves to Equal Array Elements II](minimum-moves-to-equal-array-elements-ii/) | Medium | python3 |
-| 19 | [Minimum Moves to Equal Array Elements III](minimum-moves-to-equal-array-elements-iii/) | Easy | python3 |
-| 20 | [Minimum Operations to Make Elements Within K Subarrays Equal](minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | python3 |
-| 21 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
-| 22 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
-| 23 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
-| 24 | [Perfect Squares](perfect-squares/) | Medium | python3 |
-| 25 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
-| 26 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
-| 27 | [Rectangle Area](rectangle-area/) | Medium | python3 |
-| 28 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
-| 29 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 30 | [Rotate Array](rotate-array/) | Medium | python3 |
-| 31 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 32 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
-| 33 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
-| 34 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 17 | [Minimum Cost to Acquire Required Items](minimum-cost-to-acquire-required-items/) | Medium | python3 |
+| 18 | [Minimum Moves to Equal Array Elements](minimum-moves-to-equal-array-elements/) | Medium | python3 |
+| 19 | [Minimum Moves to Equal Array Elements II](minimum-moves-to-equal-array-elements-ii/) | Medium | python3 |
+| 20 | [Minimum Moves to Equal Array Elements III](minimum-moves-to-equal-array-elements-iii/) | Easy | python3 |
+| 21 | [Minimum Operations to Make Elements Within K Subarrays Equal](minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | python3 |
+| 22 | [Mirror Reflection](mirror-reflection/) | Medium | python3 |
+| 23 | [Number of Sets of K Non-Overlapping Line Segments](number-of-sets-of-k-non-overlapping-line-segments/) | Medium | python3 |
+| 24 | [Number of Ways to Reorder Array to Get Same BST](number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | python3 |
+| 25 | [Perfect Squares](perfect-squares/) | Medium | python3 |
+| 26 | [Projection Area of 3D Shapes](projection-area-of-3d-shapes/) | Easy | python3 |
+| 27 | [Random Pick with Weight](random-pick-with-weight/) | Medium | python3 |
+| 28 | [Rectangle Area](rectangle-area/) | Medium | python3 |
+| 29 | [Rectangle Overlap](rectangle-overlap/) | Easy | python3 |
+| 30 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 31 | [Rotate Array](rotate-array/) | Medium | python3 |
+| 32 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
+| 33 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 34 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 35 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
