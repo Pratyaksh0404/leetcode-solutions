@@ -3020,5 +3020,16 @@
       "Math",
       "Greedy"
     ]
+  },
+  {
+    "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "longest-strictly-increasing-or-strictly-decreasing-subarray/",
+    "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+    "topics": [
+      "Array"
+    ]
   }
 ]
