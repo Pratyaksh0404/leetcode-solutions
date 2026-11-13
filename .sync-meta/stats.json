@@ -3031,5 +3031,22 @@
     "topics": [
       "Array"
     ]
+  },
+  {
+    "slug": "count-non-decreasing-subarrays-after-k-operations",
+    "title": "Count Non-Decreasing Subarrays After K Operations",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "count-non-decreasing-subarrays-after-k-operations/",
+    "url": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+    "topics": [
+      "Array",
+      "Stack",
+      "Segment Tree",
+      "Queue",
+      "Sliding Window",
+      "Monotonic Stack",
+      "Monotonic Queue"
+    ]
   }
 ]
