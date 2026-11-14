@@ -3048,5 +3048,18 @@
       "Monotonic Stack",
       "Monotonic Queue"
     ]
+  },
+  {
+    "slug": "minimum-positive-sum-subarray",
+    "title": "Minimum Positive Sum Subarray ",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "minimum-positive-sum-subarray/",
+    "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+    "topics": [
+      "Array",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
   }
 ]
