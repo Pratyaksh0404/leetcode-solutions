@@ -3061,5 +3061,19 @@
       "Sliding Window",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "number-of-sub-arrays-with-odd-sum",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "number-of-sub-arrays-with-odd-sum/",
+    "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+    "topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
   }
 ]
