@@ -3075,5 +3075,16 @@
       "Dynamic Programming",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "count-consistent-subarrays-ii",
+    "title": "Count Consistent Subarrays II",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "count-consistent-subarrays-ii/",
+    "url": "https://leetcode.com/problems/count-consistent-subarrays-ii/",
+    "topics": [
+      "Uncategorized"
+    ]
   }
 ]
