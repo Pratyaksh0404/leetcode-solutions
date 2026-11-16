@@ -3086,5 +3086,17 @@
     "topics": [
       "Uncategorized"
     ]
+  },
+  {
+    "slug": "calculate-digit-sum-of-a-string",
+    "title": "Calculate Digit Sum of a String",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "calculate-digit-sum-of-a-string/",
+    "url": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+    "topics": [
+      "String",
+      "Simulation"
+    ]
   }
 ]
