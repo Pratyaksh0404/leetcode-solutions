@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 237 &nbsp;|&nbsp; 🟢 Easy: 62 &nbsp;|&nbsp; 🟡 Medium: 132 &nbsp;|&nbsp; 🔴 Hard: 43
+**Total solved:** 238 &nbsp;|&nbsp; 🟢 Easy: 63 &nbsp;|&nbsp; 🟡 Medium: 132 &nbsp;|&nbsp; 🔴 Hard: 43
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -861,13 +861,14 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
-| 1 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
-| 2 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
-| 3 | [Find Servers That Handled Most Number of Requests](find-servers-that-handled-most-number-of-requests/) | Hard | python3 |
-| 4 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
-| 5 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 6 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
-| 7 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 1 | [Calculate Digit Sum of a String](calculate-digit-sum-of-a-string/) | Easy | python3 |
+| 2 | [Cyclically Shift Rows and Columns](cyclically-shift-rows-and-columns/) | Easy | python3 |
+| 3 | [Elevator Requests I](elevator-requests-i/) | Easy | python3 |
+| 4 | [Find Servers That Handled Most Number of Requests](find-servers-that-handled-most-number-of-requests/) | Hard | python3 |
+| 5 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
+| 6 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 7 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
+| 8 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Sliding Window
 
@@ -952,48 +953,49 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | # | My Solution | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
-| 2 | [Count Days Spent Together](count-days-spent-together/) | Easy | python3 |
-| 3 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
-| 4 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
-| 5 | [Evaluate the Bracket Pairs of a String](evaluate-the-bracket-pairs-of-a-string/) | Medium | python3 |
-| 6 | [Find All Anagrams in a String](find-all-anagrams-in-a-string/) | Medium | python3 |
-| 7 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 8 | [Generate Parentheses](generate-parentheses/) | Medium | python3 |
-| 9 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
-| 10 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 11 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
-| 12 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 13 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
-| 14 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
-| 15 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
-| 16 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 17 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 18 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 19 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
-| 20 | [Minimum Operations to Sort a String](minimum-operations-to-sort-a-string/) | Medium | python3 |
-| 21 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 22 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 23 | [Palindromic Path Queries in a Tree](palindromic-path-queries-in-a-tree/) | Hard | python3 |
-| 24 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 25 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 26 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 27 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
-| 28 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 29 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 30 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 31 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 32 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 33 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 34 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
-| 35 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 36 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 37 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 38 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 39 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 40 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 41 | [Word Break](word-break/) | Medium | python3 |
-| 42 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 43 | [Word Search](word-search/) | Medium | python3 |
+| 2 | [Calculate Digit Sum of a String](calculate-digit-sum-of-a-string/) | Easy | python3 |
+| 3 | [Count Days Spent Together](count-days-spent-together/) | Easy | python3 |
+| 4 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
+| 5 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
+| 6 | [Evaluate the Bracket Pairs of a String](evaluate-the-bracket-pairs-of-a-string/) | Medium | python3 |
+| 7 | [Find All Anagrams in a String](find-all-anagrams-in-a-string/) | Medium | python3 |
+| 8 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 9 | [Generate Parentheses](generate-parentheses/) | Medium | python3 |
+| 10 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 11 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 12 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
+| 13 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 14 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
+| 15 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 16 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
+| 17 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 18 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 19 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
+| 20 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 21 | [Minimum Operations to Sort a String](minimum-operations-to-sort-a-string/) | Medium | python3 |
+| 22 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 23 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 24 | [Palindromic Path Queries in a Tree](palindromic-path-queries-in-a-tree/) | Hard | python3 |
+| 25 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 26 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 27 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 28 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
+| 29 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 30 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 31 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 32 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 33 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 34 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 35 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
+| 36 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 37 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 38 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 39 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 40 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 41 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 42 | [Word Break](word-break/) | Medium | python3 |
+| 43 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 44 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
