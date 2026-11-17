@@ -3098,5 +3098,18 @@
       "String",
       "Simulation"
     ]
+  },
+  {
+    "slug": "minimum-changes-to-make-k-semi-palindromes",
+    "title": "Minimum Changes to Make K Semi-palindromes",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "minimum-changes-to-make-k-semi-palindromes/",
+    "url": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
   }
 ]
