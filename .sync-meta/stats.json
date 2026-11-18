@@ -3111,5 +3111,16 @@
       "String",
       "Dynamic Programming"
     ]
+  },
+  {
+    "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "title": "Minimum Number of Changes to Make Binary String Beautiful",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-number-of-changes-to-make-binary-string-beautiful/",
+    "url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+    "topics": [
+      "String"
+    ]
   }
 ]
