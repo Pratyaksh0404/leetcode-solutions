@@ -1787,7 +1787,9 @@
     "path": "maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
     "url": "https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Hash Table",
+      "Counting"
     ]
   },
   {
