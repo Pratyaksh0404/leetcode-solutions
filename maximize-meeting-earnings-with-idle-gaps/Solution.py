@@ -1,15 +1,29 @@
-import heapq
+from bisect import bisect_right
+
 class Solution:
-    def maxEarnings(self, meet: list[list[int]]) -> int:
-        meet.sort()
-        h = []
-        m = float('-inf')
+    def maxEarnings(self, meetings: list[list[int]]) -> int:
+        meetings.sort(key=lambda x: x[1])
+        
+        ends = []
+        vals = []
         ans = 0
-        for s,e,r in meet:
-            while h and h[0][0]<=s:
-                m = max(m,heapq.heappop(h)[1])
-            c = r+(s+m if m!=float('-inf') else 0)
-            if c>ans:
+        maxi = -float('inf')
+        
+        for s, e, r in meetings:
+            idx = bisect_right(ends, s) - 1
+            
+            c = r + s + vals[idx] if idx >= 0 else r
+            
+            if c > ans:
                 ans = c
-            heapq.heappush(h,(e,c-e))
+                
+            new = c - e
+            if new > maxi:
+                maxi = new
+                if ends and ends[-1] == e:
+                    vals[-1] = maxi
+                else:
+                    ends.append(e)
+                    vals.append(maxi)
+                    
         return ans
