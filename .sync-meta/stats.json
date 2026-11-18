@@ -1813,7 +1813,10 @@
     "path": "maximize-meeting-earnings-with-idle-gaps/",
     "url": "https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/",
     "topics": [
-      "Uncategorized"
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
     ]
   },
   {
