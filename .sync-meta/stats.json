@@ -3126,5 +3126,18 @@
     "topics": [
       "String"
     ]
+  },
+  {
+    "slug": "minimum-score-by-changing-two-elements",
+    "title": "Minimum Score by Changing Two Elements",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "minimum-score-by-changing-two-elements/",
+    "url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
   }
 ]
