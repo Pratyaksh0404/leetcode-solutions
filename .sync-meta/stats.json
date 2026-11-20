@@ -3139,5 +3139,18 @@
       "Greedy",
       "Sorting"
     ]
+  },
+  {
+    "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+    "title": "Maximize Consecutive Elements in an Array After Modification",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "maximize-consecutive-elements-in-an-array-after-modification/",
+    "url": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
   }
 ]
