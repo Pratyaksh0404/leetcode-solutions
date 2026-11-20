@@ -3152,5 +3152,17 @@
       "Dynamic Programming",
       "Sorting"
     ]
+  },
+  {
+    "slug": "last-stone-weight",
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "last-stone-weight/",
+    "url": "https://leetcode.com/problems/last-stone-weight/",
+    "topics": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
