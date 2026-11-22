@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 244 &nbsp;|&nbsp; 🟢 Easy: 64 &nbsp;|&nbsp; 🟡 Medium: 135 &nbsp;|&nbsp; 🔴 Hard: 45
+**Total solved:** 245 &nbsp;|&nbsp; 🟢 Easy: 65 &nbsp;|&nbsp; 🟡 Medium: 135 &nbsp;|&nbsp; 🔴 Hard: 45
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -972,51 +972,52 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 |---|---|---|---|
 | 1 | [Brace Expansion II](brace-expansion-ii/) | Hard | python3 |
 | 2 | [Calculate Digit Sum of a String](calculate-digit-sum-of-a-string/) | Easy | python3 |
-| 3 | [Count Days Spent Together](count-days-spent-together/) | Easy | python3 |
-| 4 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
-| 5 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
-| 6 | [Evaluate the Bracket Pairs of a String](evaluate-the-bracket-pairs-of-a-string/) | Medium | python3 |
-| 7 | [Find All Anagrams in a String](find-all-anagrams-in-a-string/) | Medium | python3 |
-| 8 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
-| 9 | [Find Subtree Sizes After Changes](find-subtree-sizes-after-changes/) | Medium | python3 |
-| 10 | [Generate Parentheses](generate-parentheses/) | Medium | python3 |
-| 11 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
-| 12 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
-| 13 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
-| 14 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
-| 15 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
-| 16 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
-| 17 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
-| 18 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
-| 19 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
-| 20 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
-| 21 | [Minimum Changes to Make K Semi-palindromes](minimum-changes-to-make-k-semi-palindromes/) | Hard | python3 |
-| 22 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
-| 23 | [Minimum Number of Changes to Make Binary String Beautiful](minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | python3 |
-| 24 | [Minimum Operations to Sort a String](minimum-operations-to-sort-a-string/) | Medium | python3 |
-| 25 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
-| 26 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
-| 27 | [Palindromic Path Queries in a Tree](palindromic-path-queries-in-a-tree/) | Hard | python3 |
-| 28 | [Partition Labels](partition-labels/) | Medium | python3 |
-| 29 | [Ransom Note](ransom-note/) | Easy | python3 |
-| 30 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
-| 31 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
-| 32 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
-| 33 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
-| 34 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
-| 35 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
-| 36 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
-| 37 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
-| 38 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
-| 39 | [Simplify Path](simplify-path/) | Medium | python3 |
-| 40 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
-| 41 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 42 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 43 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
-| 44 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
-| 45 | [Word Break](word-break/) | Medium | python3 |
-| 46 | [Word Ladder](word-ladder/) | Hard | python3 |
-| 47 | [Word Search](word-search/) | Medium | python3 |
+| 3 | [Check if All A's Appears Before All B's](check-if-all-as-appears-before-all-bs/) | Easy | python3 |
+| 4 | [Count Days Spent Together](count-days-spent-together/) | Easy | python3 |
+| 5 | [Distinct Subsequences](distinct-subsequences/) | Hard | python3 |
+| 6 | [Distinct Subsequences II](distinct-subsequences-ii/) | Hard | python3 |
+| 7 | [Evaluate the Bracket Pairs of a String](evaluate-the-bracket-pairs-of-a-string/) | Medium | python3 |
+| 8 | [Find All Anagrams in a String](find-all-anagrams-in-a-string/) | Medium | python3 |
+| 9 | [Find Maximum Number of Non Intersecting Substrings](find-maximum-number-of-non-intersecting-substrings/) | Medium | python3 |
+| 10 | [Find Subtree Sizes After Changes](find-subtree-sizes-after-changes/) | Medium | python3 |
+| 11 | [Generate Parentheses](generate-parentheses/) | Medium | python3 |
+| 12 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number/) | Medium | python3 |
+| 13 | [Lexicographically Smallest Permutation Greater Than Target](lexicographically-smallest-permutation-greater-than-target/) | Medium | python3 |
+| 14 | [Longest Almost-Palindromic Substring](longest-almost-palindromic-substring/) | Medium | python3 |
+| 15 | [Longest Palindrome](longest-palindrome/) | Easy | python3 |
+| 16 | [Longest Valid Parentheses](longest-valid-parentheses/) | Hard | python3 |
+| 17 | [Maximum Nesting Depth of the Parentheses](maximum-nesting-depth-of-the-parentheses/) | Easy | python3 |
+| 18 | [Maximum Nesting Depth of Two Valid Parentheses Strings](maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | python3 |
+| 19 | [Maximum Number of Non-overlapping Palindrome Substrings](maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | python3 |
+| 20 | [Maximum Number of Non-Overlapping Substrings](maximum-number-of-non-overlapping-substrings/) | Hard | python3 |
+| 21 | [Minimum Add to Make Parentheses Valid](minimum-add-to-make-parentheses-valid/) | Medium | python3 |
+| 22 | [Minimum Changes to Make K Semi-palindromes](minimum-changes-to-make-k-semi-palindromes/) | Hard | python3 |
+| 23 | [Minimum Insertions to Balance a Parentheses String](minimum-insertions-to-balance-a-parentheses-string/) | Medium | python3 |
+| 24 | [Minimum Number of Changes to Make Binary String Beautiful](minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | python3 |
+| 25 | [Minimum Operations to Sort a String](minimum-operations-to-sort-a-string/) | Medium | python3 |
+| 26 | [Minimum Window Substring](minimum-window-substring/) | Hard | python3 |
+| 27 | [Palindrome Partitioning](palindrome-partitioning/) | Medium | python3 |
+| 28 | [Palindromic Path Queries in a Tree](palindromic-path-queries-in-a-tree/) | Hard | python3 |
+| 29 | [Partition Labels](partition-labels/) | Medium | python3 |
+| 30 | [Ransom Note](ransom-note/) | Easy | python3 |
+| 31 | [Regular Expression Matching](regular-expression-matching/) | Hard | python3 |
+| 32 | [Remove Invalid Parentheses](remove-invalid-parentheses/) | Hard | python3 |
+| 33 | [Remove Outermost Parentheses](remove-outermost-parentheses/) | Easy | python3 |
+| 34 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
+| 35 | [Reverse Substrings Between Each Pair of Parentheses](reverse-substrings-between-each-pair-of-parentheses/) | Medium | python3 |
+| 36 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
+| 37 | [Score of Parentheses](score-of-parentheses/) | Medium | python3 |
+| 38 | [Shortest and Lexicographically Smallest Beautiful String](shortest-and-lexicographically-smallest-beautiful-string/) | Medium | python3 |
+| 39 | [Shortest Path With At Most K Consecutive Identical Characters](shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | python3 |
+| 40 | [Simplify Path](simplify-path/) | Medium | python3 |
+| 41 | [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/) | Medium | python3 |
+| 42 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 43 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 44 | [Valid Parentheses](valid-parentheses/) | Easy | python3 |
+| 45 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
+| 46 | [Word Break](word-break/) | Medium | python3 |
+| 47 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 48 | [Word Search](word-search/) | Medium | python3 |
 
 ## Ternary Search
 
