@@ -3179,5 +3179,16 @@
       "Tree",
       "Depth-First Search"
     ]
+  },
+  {
+    "slug": "check-if-all-as-appears-before-all-bs",
+    "title": "Check if All A's Appears Before All B's",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "check-if-all-as-appears-before-all-bs/",
+    "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+    "topics": [
+      "String"
+    ]
   }
 ]
