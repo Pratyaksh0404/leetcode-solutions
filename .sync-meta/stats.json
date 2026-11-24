@@ -3205,5 +3205,20 @@
       "Data Stream",
       "Prefix Sum"
     ]
+  },
+  {
+    "slug": "maximum-subarray-with-equal-products",
+    "title": "Maximum Subarray With Equal Products",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "maximum-subarray-with-equal-products/",
+    "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+    "topics": [
+      "Array",
+      "Math",
+      "Sliding Window",
+      "Enumeration",
+      "Number Theory"
+    ]
   }
 ]
