@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 247 &nbsp;|&nbsp; 🟢 Easy: 66 &nbsp;|&nbsp; 🟡 Medium: 136 &nbsp;|&nbsp; 🔴 Hard: 45
+**Total solved:** 248 &nbsp;|&nbsp; 🟢 Easy: 66 &nbsp;|&nbsp; 🟡 Medium: 136 &nbsp;|&nbsp; 🔴 Hard: 46
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -125,24 +125,25 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 109 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
 | 110 | [Smallest Stable Index I](smallest-stable-index-i/) | Easy | python3 |
 | 111 | [Smallest Stable Index II](smallest-stable-index-ii/) | Medium | python3 |
-| 112 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 113 | [Sort Colors](sort-colors/) | Medium | python3 |
-| 114 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
-| 115 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
-| 116 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
-| 117 | [Subsets](subsets/) | Medium | python3 |
-| 118 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 119 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
-| 120 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
-| 121 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
-| 122 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
-| 123 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
-| 124 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 125 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 126 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 127 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
-| 128 | [Word Break](word-break/) | Medium | python3 |
-| 129 | [Word Search](word-search/) | Medium | python3 |
+| 112 | [Smallest Unique Subarray](smallest-unique-subarray/) | Hard | python3 |
+| 113 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 114 | [Sort Colors](sort-colors/) | Medium | python3 |
+| 115 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
+| 116 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
+| 117 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
+| 118 | [Subsets](subsets/) | Medium | python3 |
+| 119 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 120 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 121 | [Sum of Squares of Special Elements ](sum-of-squares-of-special-elements/) | Easy | python3 |
+| 122 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 123 | [Trapping Rain Water](trapping-rain-water/) | Hard | python3 |
+| 124 | [Twisted Mirror Path Count](twisted-mirror-path-count/) | Medium | python3 |
+| 125 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 126 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 127 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 128 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 129 | [Word Break](word-break/) | Medium | python3 |
+| 130 | [Word Search](word-search/) | Medium | python3 |
 
 ## Backtracking
 
@@ -214,11 +215,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 31 | [Search a 2D Matrix II](search-a-2d-matrix-ii/) | Medium | python3 |
 | 32 | [Search Insert Position](search-insert-position/) | Easy | python |
 | 33 | [Single Element in a Sorted Array](single-element-in-a-sorted-array/) | Medium | python3 |
-| 34 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 35 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
-| 36 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 37 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
-| 38 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
+| 34 | [Smallest Unique Subarray](smallest-unique-subarray/) | Hard | python3 |
+| 35 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 36 | [Successful Pairs of Spells and Potions](successful-pairs-of-spells-and-potions/) | Medium | python3 |
+| 37 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 38 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 39 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
 ## Binary Search Tree
 
@@ -553,6 +555,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 20 | [Valid Parenthesis String](valid-parenthesis-string/) | Medium | python3 |
 | 21 | [Valid Triangle Number](valid-triangle-number/) | Medium | python3 |
 
+## Hash Function
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Smallest Unique Subarray](smallest-unique-subarray/) | Hard | python3 |
+
 ## Hash Table
 
 | # | My Solution | Difficulty | Language |
@@ -589,15 +597,16 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 30 | [Ransom Note](ransom-note/) | Easy | python3 |
 | 31 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 32 | [Set Matrix Zeroes](set-matrix-zeroes/) | Medium | python3 |
-| 33 | [Snapshot Array](snapshot-array/) | Medium | python3 |
-| 34 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
-| 35 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
-| 36 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
-| 37 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
-| 38 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
-| 39 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
-| 40 | [Word Break](word-break/) | Medium | python3 |
-| 41 | [Word Ladder](word-ladder/) | Hard | python3 |
+| 33 | [Smallest Unique Subarray](smallest-unique-subarray/) | Hard | python3 |
+| 34 | [Snapshot Array](snapshot-array/) | Medium | python3 |
+| 35 | [Subarrays Distinct Element Sum of Squares I](subarrays-distinct-element-sum-of-squares-i/) | Easy | python3 |
+| 36 | [Subarrays Distinct Element Sum of Squares II](subarrays-distinct-element-sum-of-squares-ii/) | Hard | python3 |
+| 37 | [Time Based Key-Value Store](time-based-key-value-store/) | Medium | python3 |
+| 38 | [Two-Letter Card Game](two-letter-card-game/) | Medium | python3 |
+| 39 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
+| 40 | [Valid Sudoku](valid-sudoku/) | Medium | python3 |
+| 41 | [Word Break](word-break/) | Medium | python3 |
+| 42 | [Word Ladder](word-ladder/) | Hard | python3 |
 
 ## Heap (Priority Queue)
 
@@ -859,6 +868,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Swap Nodes in Pairs](swap-nodes-in-pairs/) | Medium | python3 |
 | 6 | [Unique 3-Digit Even Numbers](unique-3-digit-even-numbers/) | Easy | python3 |
 
+## Rolling Hash
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Smallest Unique Subarray](smallest-unique-subarray/) | Hard | python3 |
+
 ## Segment Tree
 
 | # | My Solution | Difficulty | Language |
@@ -1028,6 +1043,12 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 46 | [Word Break](word-break/) | Medium | python3 |
 | 47 | [Word Ladder](word-ladder/) | Hard | python3 |
 | 48 | [Word Search](word-search/) | Medium | python3 |
+
+## Suffix Array
+
+| # | My Solution | Difficulty | Language |
+|---|---|---|---|
+| 1 | [Smallest Unique Subarray](smallest-unique-subarray/) | Hard | python3 |
 
 ## Ternary Search
 
