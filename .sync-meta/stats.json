@@ -3220,5 +3220,21 @@
       "Enumeration",
       "Number Theory"
     ]
+  },
+  {
+    "slug": "smallest-unique-subarray",
+    "title": "Smallest Unique Subarray",
+    "difficulty": "Hard",
+    "language": "python3",
+    "path": "smallest-unique-subarray/",
+    "url": "https://leetcode.com/problems/smallest-unique-subarray/",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Rolling Hash",
+      "Suffix Array",
+      "Hash Function"
+    ]
   }
 ]
