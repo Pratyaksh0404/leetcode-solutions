@@ -1,6 +1,6 @@
 # Solutions
 
-**Total solved:** 248 &nbsp;|&nbsp; 🟢 Easy: 66 &nbsp;|&nbsp; 🟡 Medium: 136 &nbsp;|&nbsp; 🔴 Hard: 46
+**Total solved:** 249 &nbsp;|&nbsp; 🟢 Easy: 67 &nbsp;|&nbsp; 🟡 Medium: 136 &nbsp;|&nbsp; 🔴 Hard: 46
 
 _Auto-generated. Do not edit by hand — it will be overwritten on the next sync._
 
@@ -707,9 +707,10 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 33 | [Roman to Integer](roman-to-integer/) | Easy | python3 |
 | 34 | [Rotate Array](rotate-array/) | Medium | python3 |
 | 35 | [Smallest Index With Digit Sum Equal to Index](smallest-index-with-digit-sum-equal-to-index/) | Easy | python3 |
-| 36 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
-| 37 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
-| 38 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
+| 36 | [Stone Removal Game](stone-removal-game/) | Easy | python3 |
+| 37 | [Sum of Sortable Integers](sum-of-sortable-integers/) | Hard | python3 |
+| 38 | [Unique Binary Search Trees](unique-binary-search-trees/) | Medium | python3 |
+| 39 | [Valid Perfect Square](valid-perfect-square/) | Easy | python3 |
 
 ## Matrix
 
@@ -908,7 +909,8 @@ _Auto-generated. Do not edit by hand — it will be overwritten on the next sync
 | 5 | [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/) | Easy | python3 |
 | 6 | [Reverse Degree of a String](reverse-degree-of-a-string/) | Easy | python3 |
 | 7 | [Spiral Matrix II](spiral-matrix-ii/) | Medium | python3 |
-| 8 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
+| 8 | [Stone Removal Game](stone-removal-game/) | Easy | python3 |
+| 9 | [Time Needed to Buy Tickets](time-needed-to-buy-tickets/) | Easy | python3 |
 
 ## Sliding Window
 
