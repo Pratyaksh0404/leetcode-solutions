@@ -3236,5 +3236,17 @@
       "Suffix Array",
       "Hash Function"
     ]
+  },
+  {
+    "slug": "stone-removal-game",
+    "title": "Stone Removal Game",
+    "difficulty": "Easy",
+    "language": "python3",
+    "path": "stone-removal-game/",
+    "url": "https://leetcode.com/problems/stone-removal-game/",
+    "topics": [
+      "Math",
+      "Simulation"
+    ]
   }
 ]
