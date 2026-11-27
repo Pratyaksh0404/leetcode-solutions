@@ -7,4 +7,5 @@ class Solution:
                 if dp[w-p]>-1:
                     dp[w]=max(dp[w],dp[w-p]+v)
         m=min(p for _,p in items)
+        
         return max(v+(budget-w)//m for w,v in enumerate(dp) if v>-1)
