@@ -3261,5 +3261,19 @@
       "Dynamic Programming",
       "Greedy"
     ]
+  },
+  {
+    "slug": "maximum-number-of-items-from-sale-ii",
+    "title": "Maximum Number of Items From Sale II",
+    "difficulty": "Medium",
+    "language": "python3",
+    "path": "maximum-number-of-items-from-sale-ii/",
+    "url": "https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/",
+    "topics": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
